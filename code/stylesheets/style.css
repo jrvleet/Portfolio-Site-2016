@@ -1,4 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:700);
+
 h1 {
 	text-align: center;
-	color: seagreen;
+	
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	background-color: #A2A3BB;
+	color: #251351;
+}
+
+.nav {
+	background-color: #735D78;
+	font-size: 18px;
+	/*border-top: 1px solid #251351;
+	border-bottom: 1px solid #251351;*/
+	margin-top: 40px;
+}
+
+.nav li {
+	padding: 60px;
+	display: inline;
+}
+
+.nav ul {
+	margin: 15px;
+	text-align: center;
+	list-style-type: none;
 }
