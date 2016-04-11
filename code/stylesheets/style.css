@@ -37,7 +37,7 @@ body {
 
 .modal {
 	display: none;
-	position: fixed;
+	position: absolute;
 	z-index: 1;
 	left: 0;
 	top: 0;
@@ -46,18 +46,23 @@ body {
 	overflow: auto;
 	background-color: rgb(0,0,0);
 	background-color: rgba(0,0,0,0.4);
+
 }
 
-.model-content {
-	background-color: #fefefe;
-	margin: 15% auto;
-	padding: 20px
-	border: 1px solid #888;
-	width: 80%;
+
+.fade-out {
+	-webkit-animation: fadeOut 0.5s ease-in 1 forwards;
+	animation: fadeOut 0.5s ease-in 1 forwards;
+	opacity: 1;
+}
+
+.is-paused {
+	-webkit-animation-play-state: paused;
+	animation-play-state: paused;
 }
 
 .close {
-	color: #aaa;
+	color: green;
 	float: right;
 	font-size: 28px;
 	font-weight: bold;
@@ -110,7 +115,15 @@ body {
 	to {top: 0; opacity: 1}
 }
 
+@-webkit-keyframes fadeOut {
+  from {opacity: 1;}
+  to {opacity: 0}
+}
 
+@keyframes fadeOut {
+  from {opacity: 1;}
+  to {opacity: 0;}
+}
 
 
 
