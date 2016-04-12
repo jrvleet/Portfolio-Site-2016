@@ -5,11 +5,11 @@ document.addEventListener("DOMContentLoaded", function(event) {
   var btn = document.getElementById("myBtn");
   // Get the <span> element that closes the modal
   var span = document.getElementsByClassName("close")[0];
-
+  // Select the class element "modal"
   var el = document.querySelector('.modal');
-
+  // Select the id element "name"
   var el2 = document.getElementById("name");
-
+  // Select the id element "message"
   var el3 = document.getElementById("message");
 
 

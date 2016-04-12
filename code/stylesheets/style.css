@@ -164,6 +164,11 @@ body {
 	to {top: 35%; opacity: 1}
 }
 
+@-ms-keyframes animatetop {
+	from {top: -300px; opacity: 0}
+	to {top: 35%; opacity: 1}
+}
+
 @keyframes animatetop {
 	from {top: -300px; opacity: 0}
 	to {top: 35%; opacity: 1}
@@ -175,6 +180,11 @@ body {
 }
 
 @-moz-keyframes fadeOut {
+  from {opacity: 1;}
+  to {opacity: 0}
+}
+
+@-ms-keyframes fadeOut {
   from {opacity: 1;}
   to {opacity: 0}
 }
@@ -197,6 +207,10 @@ body {
   	to {top: 0; opacity: 1}
 
   @-moz-keyframes animatetop {
+  	from {top: -300px; opacity: 0}
+  	to {top: 0; opacity: 1}
+
+  @-ms-keyframes animatetop {
   	from {top: -300px; opacity: 0}
   	to {top: 0; opacity: 1}
   }
