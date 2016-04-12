@@ -2,16 +2,16 @@
 
 h1 {
 	text-align: center;
-	
-	font-family: 'Roboto', sans-serif;
 }
 
 body {
+	font-family: 'Roboto', sans-serif;
 	background-color: #A2A3BB;
 	color: #251351;
 }
 
 .nav {
+	padding: 1px;
 	background-color: #735D78;
 	font-size: 18px;
 	margin-top: 40px;
@@ -19,7 +19,8 @@ body {
 }
 
 .nav li {
-	padding: 60px;
+	padding-left: 30px;
+	padding-right: 30px;
 	display: inline;
 }
 
@@ -35,6 +36,11 @@ body {
 	text-align: center;
 }
 
+#myBtn:hover,
+#mybtn:focus {
+	color: #251351;
+}
+
 .modal {
 	display: none;
 	position: absolute;
@@ -44,32 +50,19 @@ body {
 	width: 100%;
 	height: 100vh;
 	overflow: auto;
-	background-color: rgb(0,0,0);
-	background-color: rgba(0,0,0,0.4);
-
-}
-
-
-
-.is-hidden {
-  display: none;
 }
 
 .fade-out {
     -webkit-animation: fadeOut 0.5s ease-in 1 forwards;
+    -moz-animation: fadeOut 0.5s ease-in 1 forwards;
+    -ms-animation: fadeOut 0.5s ease-in 1 forwards;
     animation: fadeOut 0.5s ease-in 1 forwards;
     opacity: 1;
 }
 
-.is-paused {
-    -webkit-animation-play-state: paused;
-    animation-play-state: paused;
-}
-
-
 .close {
 	margin: 2px 20px;
-	color: white;
+	color: #fefefe;
 	float: right;
 	font-size: 28px;
 	font-weight: bold;
@@ -77,14 +70,14 @@ body {
 
 .close:hover,
 .close:focus {
-	color: black;
+	color: #251351;
 	text-decoration: none;
 	cursor: pointer;
 }
 
 .modal-header {
 	padding: 2px 16px;
-	background-color: #5cb85c;
+	background-color: seagreen;
 	color: white;
 }
 
@@ -94,7 +87,7 @@ body {
 
 .modal-footer {
 	padding: 2px 0px;
-	background-color: #5cb85c;
+	background-color: seagreen;
 	color: white;
 	bottom: 0;
 	width: 100%;
@@ -102,6 +95,8 @@ body {
 }
 
 .modal-content {
+	min-height: 200px;
+	color: #251351;
 	height: 30%;
 	position: absolute;
 	background-color: #fefefe;
@@ -111,12 +106,60 @@ body {
 	width: 80%;
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
 	-webkit-animation-name: animatetop;
-	-webkit-animation-duration: 0.5s;
+	-moz-animation-name: animatetop;
+	-ms-animation-name: animatetop;
 	animation-name: animatetop;
+	-webkit-animation-duration: 0.5s;
+	-moz-animation-duration: 0.5s;
+	-ms-animation-duration: 0.5s;
 	animation-duration: 0.5s;
 }
 
+.myButton {
+	-moz-box-shadow: 0px 10px 14px -7px #3e7327;
+	-webkit-box-shadow: 0px 10px 14px -7px #3e7327;
+	box-shadow: 0px 10px 14px -7px #3e7327;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #77b55a), color-stop(1, #72b352));
+	background:-moz-linear-gradient(top, #77b55a 5%, #72b352 100%);
+	background:-webkit-linear-gradient(top, #77b55a 5%, #72b352 100%);
+	background:-ms-linear-gradient(top, #77b55a 5%, #72b352 100%);
+	background:linear-gradient(to bottom, #77b55a 5%, #72b352 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#77b55a', endColorstr='#72b352',GradientType=0);
+	background-color:#77b55a;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #4b8f29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #5b8a3c;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #72b352), color-stop(1, #77b55a));
+	background:-moz-linear-gradient(top, #72b352 5%, #77b55a 100%);
+	background:-webkit-linear-gradient(top, #72b352 5%, #77b55a 100%);
+	background:-ms-linear-gradient(top, #72b352 5%, #77b55a 100%);
+	background:linear-gradient(to bottom, #72b352 5%, #77b55a 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#72b352', endColorstr='#77b55a',GradientType=0);
+	background-color:#72b352;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
 @-webkit-keyframes animatetop {
+	from {top: -300px; opacity: 0}
+	to {top: 35%; opacity: 1}
+}
+
+@-moz-keyframes animatetop {
 	from {top: -300px; opacity: 0}
 	to {top: 35%; opacity: 1}
 }
@@ -127,6 +170,11 @@ body {
 }
 
 @-webkit-keyframes fadeOut {
+  from {opacity: 1;}
+  to {opacity: 0}
+}
+
+@-moz-keyframes fadeOut {
   from {opacity: 1;}
   to {opacity: 0}
 }
@@ -147,15 +195,14 @@ body {
   @-webkit-keyframes animatetop {
   	from {top: -300px; opacity: 0}
   	to {top: 0; opacity: 1}
+
+  @-moz-keyframes animatetop {
+  	from {top: -300px; opacity: 0}
+  	to {top: 0; opacity: 1}
   }
 
   @keyframes animatetop {
   	from {top: -300px; opacity: 0}
   	to {top: 0; opacity: 1}
   }
-
 }
-
-
-
-

@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(event) {
   // Get the modal
   var modal = document.getElementById('myModal');
-
   // Get the button that opens the modal
   var btn = document.getElementById("myBtn");
   // Get the <span> element that closes the modal
@@ -48,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
       }
     })();
   }
-
+// override window.alert method
   window.alert = function(name, message) {
     modal.style.display = "block";
     el2.innerHTML = name;
