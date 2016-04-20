@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
   // When the user clicks on the button, open the modal
   btn.onclick = function(evt) {
-    alert("Jessica", "This is working");
+    alert("To press the button again", "press outside the button to make it active again");
   }
 
   // When the user clicks on <span> (x), close the modal
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
       setTimeout(function() {
         modal.style.display = "none";
         el.classList.remove('fade-out');
-      }, 5000);
+      }, 10);
     }
   }
 
