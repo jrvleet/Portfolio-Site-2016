@@ -3,6 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 
 body {
     overflow-x: hidden;
@@ -98,8 +99,9 @@ header img {
 
 header .intro-text .name {
     display: block;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*text-transform: uppercase;*/
+    font-family: 'Lobster', cursive;
+    /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-size: 2em;
     font-weight: 700;
 }
@@ -204,7 +206,7 @@ section.success a.active {
         padding-top: 75px;
     }
 }
-#portfolio {
+# {
     background: floralwhite;
 }
 
@@ -463,4 +465,8 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+#contact {
+    background: floralwhite;
 }
