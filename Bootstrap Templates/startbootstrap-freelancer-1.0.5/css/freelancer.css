@@ -73,7 +73,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #226F54;
-    background-color: #fff;
+    background-color: floralwhite;
 }
 
 .img-centered {
@@ -204,6 +204,9 @@ section.success a.active {
         padding-top: 75px;
     }
 }
+#portfolio {
+    background: floralwhite;
+}
 
 #portfolio .portfolio-item {
     right: 0;
@@ -215,8 +218,9 @@ section.success a.active {
     position: relative;
     margin: 0 auto;
     max-width: 300px;
-
+    min-height: 170px;
 }
+
 
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
