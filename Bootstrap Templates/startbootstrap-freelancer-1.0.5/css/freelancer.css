@@ -13,6 +13,15 @@ body {
     max-width: 400px;
 }
 
+.mitsu {
+    max-height: 146px;
+    /*margin: 40px;*/
+}
+
+#mits {
+    max-height: 216px;
+}
+
 p {
     font-size: 20px;
     text-align: left;
