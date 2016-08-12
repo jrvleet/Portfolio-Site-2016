@@ -15,7 +15,7 @@ body {
 
 .mitsu {
     max-height: 146px;
-    /*margin: 40px;*/
+    border-radius: 3px;
 }
 
 #mits {
@@ -220,12 +220,10 @@ section.success a.active {
         padding-top: 75px;
     }
 }
-# {
-    background: floralwhite;
-}
 
 #portfolio {
     background: floralwhite;
+
 }
 
 #portfolio .portfolio-item {
@@ -239,6 +237,7 @@ section.success a.active {
     margin: 0 auto;
     max-width: 300px;
     min-height: 170px;
+
 }
 
 
@@ -279,6 +278,7 @@ section.success a.active {
 
 #portfolio * {
     z-index: 2;
+    border-radius: 3px;
 }
 
 @media(min-width:767px) {
