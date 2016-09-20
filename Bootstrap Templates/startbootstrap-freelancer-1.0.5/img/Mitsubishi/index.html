@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <title>MITSUBISHI MIRAGE 300x250</title>
+  <link href='https://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+  <style type="text/css">
+    /* MAIN STUFF */
+    * {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+
+    }
+    html, body{
+      border: 0;
+      outline: 0;
+      padding: 0;
+      margin: 0;
+      background-color:#888;
+      font-family: "Oswald", sans-serif;
+      font-weight: 300;
+      letter-spacing: 1.4px;
+      color: #fff;
+      position:relative;
+    }
+
+    p {
+      display: inline-block;
+      padding: 0;
+      margin: 0;
+      font-size: 20px;
+      line-height: 1.1;
+    }
+    small {
+      margin: 0;
+      padding: 0;
+      font-size: 11px;
+    }
+    sup {
+      font-size: 0.6em;
+    }
+    #container{
+			display: block;
+      /*background: url("bgnd.jpg") no-repeat center;*/
+      /*background-size: cover;*/
+      background-color: #000;
+      width: 300px;
+      height: 250px;
+      overflow: hidden;
+      position: absolute;
+      visibility: hidden;
+			top: 0;
+			left: 0;
+      border: 1px solid black;
+      color: #fff;
+    }
+    /* MAIN CSS //////////////////////////////////// */
+    #bg-exit {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      cursor: pointer;
+      z-index: 110;
+    }
+    #cta-holder{
+      position: absolute;
+      overflow: hidden;
+      top: 76px;
+      left: 10px;
+      width: 50px;
+      height: 22px;
+      z-index: 110;
+    }
+    #cta-button {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 50px;
+      height: 22px;
+      cursor: pointer;
+      z-index: 114;
+    }
+    #cta-highlight{
+      position: absolute;
+      overflow: hidden;
+      background-color: #ffffff;
+      top: 0;
+      left: 0;
+      width: 45px;
+      height: 200px;
+      z-index: 113;
+    }
+    #reflection {
+      background: url("bgnd.jpg") no-repeat center;
+      background-size: cover;
+      width: 300px;
+      height: 250px;
+    }
+    #car1 {
+      background: url("car1.png") no-repeat center;
+      background-size: contain;
+      width: 143px;
+      height: 65px;
+      position: absolute;
+      top: 105px;
+      left: 38px;
+    }
+
+    #car2 {
+      background: url("car2.png") no-repeat center;
+      background-size: contain;
+      width: 148px;
+      height: 88px;
+      position: absolute;
+      top: 130px;
+      left: 105px;
+    }
+
+    .headlines{
+      width: 300px;
+      height: 65px;
+      position: absolute;
+      top: 15px;
+      left: 0;
+      box-sizing: border-box;
+      overflow: hidden;
+    }
+    #icon1,
+    #icon2 {
+      position: absolute;
+      top: 0;
+      left: 33px;
+      display: table-cell;
+      vertical-align: middle;
+      height: 50px;
+      width: 50px;
+      box-sizing: border-box;
+      overflow: hidden;
+    }
+    #icon1 {
+      background: url("money_bg.svg") no-repeat center;
+      background-size: contain;
+    }
+    #icon2 {
+      background: url("mpg1.svg") no-repeat center;
+      background-size: contain;
+    }
+    #icon3 {
+      background: url("wrench_bg.svg") no-repeat center;
+      background-size: contain;
+      position: absolute;
+      top: 0;
+      left: 15px;
+      display: table-cell;
+      vertical-align: middle;
+      height: 50px;
+      width: 50px;
+      box-sizing: border-box;
+      overflow: hidden;
+    }
+    #money1 {
+      position: absolute;
+      top: 14px;
+      left: 11px;
+    }
+    #money2 {
+      position: absolute;
+      top: 7px;
+      left: 11px;
+    }
+    #mpg2 {
+      position: absolute;
+      left: 20px;
+      top: 12px;
+    }
+    #wrench2 {
+      position: absolute;
+      top: 11px;
+      left: 11.5px;
+    }
+    #f1-line1,
+    #f2-line1,
+    #f3-line1 {
+      display: table;
+      width: 300px;
+      height: 50px;
+      position: absolute;
+      top: 5px;
+      left: 0;
+      overflow: hidden;
+      z-index: 20;
+    }
+    #f4-line1 {
+      position: absolute;
+      top: 0;
+      left: 10px;
+      overflow: hidden;
+      z-index: 20;
+    }
+    #txt1,
+    #txt2,
+    #txt3 {
+      display: table-cell;
+      vertical-align: middle;
+    }
+    #txt1,
+    #txt2 {
+      position: relative;
+      left: 90px;
+    }
+    #txt3 {
+      position: relative;
+      left: 70px;
+      font-size: 18px;
+    }
+    #txt4 {
+      font-size: 0;
+      line-height: 1;
+      box-sizing: border-box;
+      padding-bottom: 2px;
+    }
+    #txt4-l1 {
+
+    }
+    #txt4-l2 {
+      font-weight: 400;
+      margin-bottom: 6px;
+    }
+    #txt4-l3 {
+
+    }
+    .red-txt {
+      color: #ff0000;
+      font-size: 1.2em;
+    }
+    #action-call{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      position: absolute;
+      top: 76px;
+      left: 10px;
+    }
+    #explore{
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    #legal{
+      font-family: Arial, sans-serif;
+      font-size: 8px;
+      color: #ccc;
+      letter-spacing: 0.4px;
+      position: absolute;
+      top: 0;
+      right: 0;
+      box-sizing: border-box;
+      padding: 6px 3px;
+      z-index: 400;
+    }
+    #legal:hover{
+      cursor: pointer;
+    }
+    #fyol{
+      position: absolute;
+      bottom: -8px;
+      left: 0;
+      z-index: 100;
+    }
+    #car-model{
+      position: absolute;
+      right: 10px;
+      bottom: 8px;
+    }
+    #legal-overlay {
+      width: 300px;
+      height: 250px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      cursor: pointer;
+      visibility: hidden;
+      z-index: 500;
+    }
+    #discl-container {
+      position: absolute;
+      top: 0;
+      left: 0;
+      color: #000000;
+      background-color: #cccccc;
+      border: 1px solid #000000;
+    }
+    .close {
+      float: right;
+      padding: 5px 5px 0;
+      margin: 0;
+      font-size: .75em;
+    }
+    .small-print{
+      font-size: .6em;
+      font-family: Arial, sans-serif;
+      line-height: 1;
+      letter-spacing: 0.2px;
+      padding: 0 5px 10px;
+      margin: 0;
+    }
+
+		/*====== LOGO ======*/
+
+    #logo{
+			width: 40px;
+			height: 50px;
+      position: absolute;
+      bottom: 13px;
+      right: 12px;
+      z-index: 100;
+    }
+  </style>
+</head>
+
+<body onload="init()">
+  <div id="container">
+    <div id="reflection"></div>
+    <div id="car1"></div>
+    <div id="car2"></div>
+    <div class="headlines">
+      <div id="f1-line1">
+        <!-- <img src="money_bg.svg" width="50" height="50"> -->
+        <div id="icon1">
+          <img id="money1" src="money1.svg" width="28" height="22">
+          <img id="money2" src="money2.svg" width="28" height="29">
+        </div>
+        <p id="txt1">STARTING AT $12,995<sup>3</sup></p>
+      </div>
+    </div>
+    <div class="headlines">
+      <div id="f2-line1">
+        <!-- <img src="mpg1.svg" width="50" height="50"> -->
+        <div id="icon2">
+          <img id="mpg2" src="mpg2.svg" width="10" height="7">
+        </div>
+        <p id="txt2">UP TO 43 HWY MPG<sup>2</sup></p>
+      </div>
+    </div>
+    <div class="headlines">
+      <div id="f3-line1">
+        <!-- <img src="wrench_bg.svg" width="50" height="50"> -->
+        <div id="icon3">
+          <img id="wrench2" src="wrench.svg" width="28" height="28">
+        </div>
+        <p id="txt3">10-YR/100K-MILE WARRANTY<sup>1</sup></p>
+      </div>
+    </div>
+    <div class="headlines">
+      <div id="f4-line1">
+        <div id="txt4">
+          <small id="txt4-l1">THE 2017 MITSUBISHI</small><br />
+          <p id="txt4-l2">MIRAGE <span class="red-txt">+</span> ALL-NEW MIRAGE G4</p><br />
+          <small id="txt4-l3">STARTING AT $12,995<sup>3</sup></small>
+        </div>
+      </div>
+    </div>
+		<div id="logo-holder">
+			<div id="logo">
+				<img id="logo-img" src="logo.svg" width="40" height="51">
+			</div>
+		</div>
+    <div id="legal">LEGAL</div>
+    <div id="legal-overlay">
+      <div id="discl-container">
+        <p class="close">X</p>
+        <p class="small-print"><sup>1</sup> Manufacturer’s Suggested Retail Price for 2017 Mirage ES 5MT. 2017 Mirage GT with optional equipment as shown MSRP $17,415. Excludes destination/handling, tax, title, license etc. Retailer price, terms and vehicle availability may vary. See your Mitsubishi retailer for details.<br /><br />
+        <sup>2</sup> EPA mileage estimate for CVT-equipped model. Actual mileage may vary.<br /><br />
+        <sup>3</sup> All coverage terms are from the original in-service date, and are applicable only to the original owner of new, retailed new models purchased from an authorized Mitsubishi retailer. Subsequent owners receive the balance of the New Vehicle Limited Warranty of 5 years/60,000 miles. See retailer for limited warranty and roadside assistance terms and conditions.</p>
+      </div>
+    </div>
+    <div id="fyol"><img src="fyol.svg"></div>
+    <div id="bg-exit" onclick="window.open(window.clickTag1)"></div>
+    <div id="action-call">
+      <img id="explore" src="cta_button.svg" width="50" height="22">
+    </div>
+    <div id="cta-holder">
+      <div id="cta-highlight"></div>
+      <div id="cta-button" onclick="window.open(window.clickTag2)"></div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TimelineLite.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenLite.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/CSSPlugin.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/easing/EasePack.min.js"></script>
+
+  <script type="text/javascript">
+    /* Vars */
+    var body;
+    var container;
+    var unitHeight = 250;
+    var destPosition1 = 300;
+    var clickTag1 = ""; /* LINK FOR BACKGROUND AREA CLICK */
+    var clickTag2 = ""; /* LINK FOR CTA AREA CLICK */
+    /* Ad body is loaded */
+    function init() {
+      body = document.getElementsByTagName('body')[0];
+      container = document.getElementById('container');
+      InitHandlers();
+      startAnimationSquence();
+      container.style.visibility = "visible";
+    };
+
+    function startAnimationSquence() {
+      /* TweenLite.ticker.fps(24); //If you need to set specific framerate you can here. */
+      var timeline = new TimelineLite();
+      /* SETUP ANIMATIONS */
+      TweenLite.set("#reflection", {alpha:1, scale:0.94, x: 33, y: -3});
+      TweenLite.set("#car1", {alpha:1, scale:0.9, x: 35, y: -5});
+      TweenLite.set("#car2", {alpha:1, scale: 0.9, x: 30, y: -5});
+
+      TweenLite.set("#f1-line1", {alpha:0, x:destPosition1});
+      TweenLite.set("#f1-line1", {alpha:0, x:destPosition1});
+      TweenLite.set("#f2-line1", {alpha:0, x:destPosition1});
+      TweenLite.set("#f3-line1", {alpha:0, x:destPosition1});
+      TweenLite.set("#f4-line1", {alpha:0, x:destPosition1});
+
+      TweenLite.set("#money1", {alpha:1});
+      TweenLite.set("#money2", {alpha:0});
+      TweenLite.set("#mpg2", {alpha:1, y: 15});
+      TweenLite.set("#wrench2", {alpha:1});
+
+      TweenLite.set("#fyol", {alpha:0, x:-50, y:50});
+      TweenLite.set("#explore", {alpha:0});
+      TweenLite.set("#cta-holder", {alpha:0, y:("+=" + unitHeight)});
+      TweenLite.set("#cta-highlight", {x:-100, y:-50, alpha:.4, rotation:35});
+
+      /* ENTER FRAME 1 */
+      TweenLite.to("#f1-line1", 1, {alpha:1, x:0, delay: 0.15, ease:Power4.easeOut});
+      TweenLite.to("#car1", 1, {alpha:1, x:0, y:0, scale: 1, delay: 0.15, ease:Power2.easeOut});
+      TweenLite.to("#car2", 1, {alpha:1, x:0, y:0, scale: 1, delay: 0.15, ease:Power2.easeOut});
+      TweenLite.to("#reflection", 1, {alpha:1, x:-1, y:1, scale: 1, delay: 0.15, ease:Power2.easeOut});
+
+      TweenLite.to("#money1", 0.3, {alpha:0, delay: 2.6, ease: Linear.easeNone});
+      TweenLite.to("#money2", 0.3, {alpha:1, delay: 2.4, ease: Linear.easeNone});
+      /* EXIT FRAME 1 AND ENTER FRAME 2 */
+      TweenLite.to("#f1-line1", 1, {alpha:0, x:-(destPosition1), delay:4, ease:Power4.easeOut});
+      TweenLite.to("#f2-line1", 1, {alpha:1, x:0, delay:4.15, ease:Power4.easeOut});
+      TweenLite.to("#mpg2", 0.5, {alpha:1, y:0, delay:6.4, ease:Power4.easeOut});
+      /* EXIT FRAME 2 AND ENTER FRAME 3 */
+      TweenLite.to("#f2-line1", 1, {alpha:0, x:-(destPosition1), delay:8, ease:Power4.easeOut});
+      TweenLite.to("#f3-line1", 1, {alpha:1, x:0, delay:8.15, ease:Power4.easeOut});
+      TweenLite.to("#wrench2", 0.5, {rotation:30, transformOrigin:"50% 50%", delay:10.4, ease:Power4.easeOut});
+      TweenLite.to("#wrench2", 0.5, {rotation:0, transformOrigin:"50% 50%", delay:10.8, ease:Power4.easeOut});
+      /* EXIT FRAME 3 AND ENTER FINAL FRAME 4 */
+      TweenLite.to("#f3-line1", 1, {alpha:0, x:-(destPosition1), delay:12.15, ease:Power4.easeOut});
+      TweenLite.to("#f4-line1", 1, {alpha:1, x:0, delay:12.15, ease:Power4.easeOut});
+      TweenLite.to("#fyol", 0.5, {alpha:1, x:0, y:0, delay:13, ease:Power4.easeOut});
+      TweenLite.to("#explore", 1, {alpha:1, delay:13.15, ease:Power2.easeOut});
+
+      TweenLite.to("#cta-holder", 0.5, {alpha:1, y:0, delay:13.5, ease:Power2.easeOut});
+      TweenLite.delayedCall(14, showCtaHighlight);
+    };
+
+    function showCtaHighlight()
+    {
+      TweenLite.set("#cta-highlight", {x:-100, y:-50, alpha:.4, rotation:35});
+      TweenLite.to("#cta-highlight", 1, {x:80, y:-25, alpha:.2, rotation:55, ease:Power2.easeOut, overwrite:true});
+    }
+
+    function reset(){
+      startAnimationSquence();
+    };
+
+    function InitHandlers() {
+      /* BG HANDLER ///////////////////////////////////////// */
+      function bgExitHandler(e) {
+        console.log("BG CLICK");
+        //window.open(window.clickTag1);
+      };
+      /* CTA ///////////////////////////////////////// */
+      function ctaMouseOverHandler(e) {
+        showCtaHighlight();
+      };
+      function ctaExitHandler(e) {
+        console.log("CTA CLICK");
+        //window.open(window.clickTag2);
+      };
+      function showLegal(e){
+        var info = document.getElementById('legal-overlay');
+        info.style.visibility = "visible";
+      };
+      function hideLegal(e){
+        var info = document.getElementById('legal-overlay');
+        info.style.visibility = "hidden";
+      };
+
+      /* SETUP LISTENERS ///////////////////////////////////////// */
+      var legal = document.getElementById('legal');
+      var legalOverlay = document.getElementById('legal-overlay');
+      var bgExit = document.getElementById('bg-exit');
+      var ctaButton = document.getElementById('cta-button');
+
+      legal.addEventListener('click', showLegal, false);
+      legalOverlay.addEventListener('click', hideLegal, false);
+      ctaButton.addEventListener('mouseover', ctaMouseOverHandler, false);
+    };
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>360 Fly 300x250</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+<style type="text/css">
+  * {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    line-height: 1em;
+  }
+	body {
+		border: 0;
+		outline: 0;
+		padding: 0;
+		margin: 0;
+		background-color:#888888;
+	}
+	#container {
+    position: absolute;
+		background: url("images/facetBG_2.png") no-repeat center;
+		background-size: cover;
+		width: 300px;
+		height: 250px;
+		border: 2px solid black;
+		overflow: hidden;
+	}
+  #camAnim {
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+	#cam {
+		position: absolute;
+    top: -28px;
+    left: 9px;
+	}
+	#oneLens {
+		position: absolute;
+		top: -70px;
+		left: 99px;
+	}
+  #oneCam {
+    position: absolute;
+    top: 128px;
+    left: 90px;
+  }
+	#shoot {
+		position: relative;
+		bottom: -115px;
+		left: 32px;
+	}
+  #back {
+    position: relative;
+    bottom: -75px;
+    left: -420px;
+  }
+	#phone {
+		position: relative;
+		right: -2px;
+		bottom: 40px;
+	}
+  #edit {
+    position: relative;
+    top: -189px;
+    left: 119px;
+  }
+  #share {
+    position: relative;
+    top: -331px;
+    left: 148px;
+  }
+  #group {
+    position: relative;
+    top: -280px;
+    left: 0px;
+  }
+	#flyCam {
+		position: relative;
+		bottom: 480px;
+		left: 11px;
+		z-index: 100;
+	}
+	#fb {
+		position: relative;
+		bottom: 744px;
+		left: 154px;
+		z-index: 50;
+	}
+	#yt {
+		position: relative;
+		bottom: 780px;
+		left: 157px;
+		z-index: 50;
+	}
+	#enjoy {
+		position: relative;
+		bottom: 708px;
+		left: 60px;
+		z-index: 450;
+	}
+	#logo {
+		position: relative;
+		bottom: 709px;
+		left: 20px
+	}
+	#miss {
+		position: relative;
+		bottom: 926px;
+		left: 82px;
+	}
+	#learn {
+    position: absolute;
+    width: 95px;
+    height: 20px;
+    top: 227px;
+    left: 179px;
+    z-index: 150;
+	}
+  .grow {
+    -webkit-transform: scale(.7);
+    transform: scale(.7);
+    transition: all 0.25s ease;
+  }
+  .grow:hover {
+    -webkit-transform: scale(.9);
+    transform: scale(.9);
+  }
+
+</style>
+
+</head>
+<body>
+  <div id="container">
+    <div id="camAnim">
+      <div id="cam"><img src="images/360flyCamGradLG_2.png"></div>
+      <div id="oneLens"><img src="images/oneLensLines.png"></div>
+      <div id="oneCam"><img src="images/oneCamLines.png"></div>
+    </div>
+    <div id="shoot"><img src="images/video_2.png"></div>
+    <div id="back"><img src="images/video_bw.png"></div>
+    <div id="group">
+      <div id="phone"><img src="images/phone_300_2.png"></div>
+      <div id="share"><img src="images/share.png"></div>
+      <div id="edit"><img src="images/edit.png"></div>
+    </div>
+    <div id="flyCam"><img src="images/360flyCamGradLG_2.png"></div>
+    <div id="fb"><img src="images/facebook.png"></div>
+    <div id="yt"><img src="images/youtube.png"></div>
+    <div id="enjoy"><img src="images/enjoyE.png"></div>
+    <div id="logo"><img src="images/logo.png"></div>
+    <div id="miss"><img src="images/missNothing.png"></div>
+    <div id="learn" class="grow">
+      <img src="images/learnMore.png">
+    </div>
+  </div>
+
+  <script type="text/javascript">
+	(function() {
+		var tl1 = new TimelineMax();
+
+
+		tl1.to("#camAnim", .4, { top: -3, ease: Circ.easeOut })
+		.to("#camAnim", .4, { top: 0, ease: Circ.easeOut }, "one")
+		.to("#camAnim", .4, { top: -3, ease: Circ.easeOut }, "two")
+		.to("#camAnim", .4, { top: 0, ease: Circ.easeOut }, "three")
+		.to("#camAnim", .5, { top: 154, ease: Power1.easeOut }, "four")
+    .to("#oneCam", .5, { scale: 1.3, top: 154, left: 60, opacity: 0 }, "-=.5")
+		.from("#cam", .5, { scale: .6 }, "-=.5", "five")
+    .from("#oneLens", .6, { opacity: 0 }, "six")
+    .to("#camAnim", .4, { top: 150, ease: Power1.easeOut }, "-=.4", "seven")
+    .to("#camAnim", .4, { top: 154, ease: Power1.easeOut }, "eight")
+    .to("#camAnim", .4, { top: 150, ease: Power1.easeOut }, "nine")
+    .to("#camAnim", .4, { top: 154, ease: Power1.easeOut }, "ten")
+    .to("#camAnim", .6, { left: -350, ease: Power1.easeOut }, "eleven")
+    .to("#back", .4, { left: 420 }, "-=.3")
+    .from("#shoot", 1, { left: 300, ease: Power2.easeOut }, "-=.3", "twelve")
+    .to("#shoot", .4, { left: 32 })
+    .to("#shoot", .9, { left: -400, ease: Power2.easeOut }, "thirteen")
+    .to("#group", .9, { top: -70, ease: Power3.easeOut }, "-=.8")
+    .from("#edit", .6, { opacity: 0 }, "-=.5")
+    .to("#group", .9, { top: 95, ease: Power2.easeOut })
+    .from("#share", .6, { opacity: 0 }, "-=.5")
+    .set("#flyCam", { scale: .6 }, "-=.6")
+    .to("#group", .9, { left: -300, ease: Power2.easeOut }, "phoneOut")
+    .from("#flyCam", 1, {left: 300, ease:Power2.easeOut}, "-=1", "nineteen")
+    .from("#enjoy", .8, { opacity: 0, ease:Power4.easeOut}, "twentytwo")
+    .from("#fb", .5, { opacity: 0, ease:Power4.easeOut }, "twenty")
+    .from("#yt", .5, { opacity: 0, ease:Power4.easeOut }, "-=.5", "twentyone")
+		.to("#fb", .6, { opacity: 0 }, "twentythree")
+		.to("#yt", .6, { opacity: 0 },"-=.6", "twentyfour")
+		.to("#enjoy", .6, { opacity: 0 }, "-=.6", "twentyfive")
+		.from("#miss", .8, { opacity: 0 }, "twentysix")
+		.from("#logo", .8, { opacity: 0 }, "-=.8", "twentyseven")
+    .from("#learn", .8, { opacity: 0, display: "none" }, "-=.9")
+		.from("#learn", .6, { opacity: 0 }, "-=1", "twentyeight");
+
+    // tl1.seek("phoneOut");
+
+	}());
+</script>
+</body>
+</html>
