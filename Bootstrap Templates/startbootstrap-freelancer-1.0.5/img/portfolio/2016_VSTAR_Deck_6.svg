@@ -1,0 +1,1284 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100.18 594.66" width="100.18" height="594.66">
+  <title>2016_VSTAR_Deck_6</title>
+  <g id="background">
+    <path d="M478,671.77c0-10.1-.1-17.1-.1-17.1l7.28-1.37c2.87-43.94-7.33-162.16-7.33-162.16l-.11-353.33,6.2-1.95V124.15H477.1s.29-22.62-41.87-22.62c-36.72.94-41,22.38-41,22.38H387.4v11.47l6.21,1.95s.1,323.27,0,353.72c-9.19,94.88-7.2,162.46-7.2,162.46l7.28,1.37V669.6c-.57,21.38,18.73,21.73,33.45,21.73l0,3.85H444.7v-3.75C457.44,691.42,478,691.47,478,671.77Z" transform="translate(-385.75 -101.01)" style="fill: #f3f4f5"/>
+    <path d="M477.75,151.29V137.82l6.2-1.95V124.15H477.1s.29-22.62-41.87-22.62c-36.72.94-41,22.38-41,22.38H387.4v11.47l6.21,1.95v14.18l26-.07,0-4.26h32.17l0,4.14Z" transform="translate(-385.75 -101.01)" style="fill: #f3f4f5"/>
+    <polygon points="33.68 558.8 66.04 558.8 66.04 46.02 33.84 46.02 33.68 558.8" style="fill: #f3f4f5"/>
+    <rect x="41.23" y="195.26" width="17.57" height="148.84" style="fill: #fff;stroke: #cccbca;stroke-width: 0.35000000000000003px"/>
+    <rect x="41.28" y="188.56" width="8.76" height="6.7" style="fill: none;stroke: #cccccb;stroke-width: 0.75px"/>
+    <rect x="50.04" y="188.56" width="8.76" height="6.7" style="fill: #fff"/>
+    <rect x="41.13" y="361.86" width="8.76" height="6.7" style="fill: #fff"/>
+    <rect x="49.89" y="361.86" width="8.76" height="6.7" style="fill: #fff"/>
+    <path d="M431.2,435a7,7,0,0,0-4.17,1.52v8.5h8.76v-8.56A9.37,9.37,0,0,0,431.2,435Z" transform="translate(-385.75 -101.01)" style="fill: #fff"/>
+    <path d="M440,435a7,7,0,0,0-4.17,1.52v8.5h8.76v-8.56A9.37,9.37,0,0,0,440,435Z" transform="translate(-385.75 -101.01)" style="fill: #fff"/>
+    <rect x="41.55" y="46.06" width="17.11" height="109.55" style="fill: #bcbec0"/>
+    <rect x="41.55" y="391.94" width="17.11" height="159.02" style="fill: #bcbec0"/>
+    <rect x="41.58" y="558.79" width="17.03" height="35.39" style="fill: #f3f4f5"/>
+    <polygon points="54.32 378.63 45.94 378.65 45.92 381.26 41.57 381.26 41.57 386.65 45.92 386.65 45.94 389.33 54.32 389.33 54.33 386.65 58.63 386.65 58.63 381.26 54.33 381.26 54.32 378.63" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    <polygon points="54.32 168.76 45.94 168.74 45.92 166.13 41.57 166.13 41.57 160.68 45.92 160.68 45.94 158.06 54.32 158.06 54.33 160.68 58.63 160.68 58.63 166.13 54.33 166.13 54.32 168.76" style="fill: #fff"/>
+    <line x1="58.66" y1="155.61" x2="58.66" y2="168.97" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10"/>
+    <line x1="41.55" y1="168.97" x2="41.55" y2="155.61" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10"/>
+    <line x1="58.66" y1="378.84" x2="58.66" y2="392.19" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+    <line x1="41.55" y1="392.19" x2="41.55" y2="378.84" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+    <rect x="41.55" y="46.06" width="17.11" height="109.55" style="fill: #fff;stroke: #cccccb;stroke-miterlimit: 10"/>
+    <rect x="41.55" y="391.94" width="17.11" height="159.02" style="fill: #f3f4f5;stroke: #cccccb"/>
+    <rect x="41.23" y="195.26" width="17.57" height="148.84" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10"/>
+    <rect x="44.22" y="361.86" width="2.47" height="1.44" style="fill: none"/>
+    <rect x="52.88" y="361.86" width="2.48" height="1.44" style="fill: none"/>
+    <rect x="44.22" y="342.58" width="2.47" height="1.44" style="fill: none"/>
+    <rect x="52.88" y="342.58" width="2.48" height="1.44" style="fill: none"/>
+    <rect x="41.13" y="361.86" width="8.76" height="6.7" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    <rect x="44.22" y="361.86" width="2.47" height="1.44" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <rect x="49.89" y="361.86" width="8.76" height="6.7" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    <rect x="52.88" y="361.86" width="2.48" height="1.44" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <path d="M431.2,435a7,7,0,0,0-4.17,1.52v8.5h8.76v-8.56A9.37,9.37,0,0,0,431.2,435Z" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    <path d="M440,435a7,7,0,0,0-4.17,1.52v8.5h8.76v-8.56A9.37,9.37,0,0,0,440,435Z" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    <rect x="44.22" y="342.58" width="2.47" height="1.44" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <rect x="52.88" y="342.58" width="2.48" height="1.44" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <rect x="44.48" y="188.56" width="2.58" height="1.64" style="fill: none"/>
+    <rect x="53.03" y="188.56" width="2.58" height="1.64" style="fill: none"/>
+    <rect x="41.25" y="188.56" width="8.79" height="6.7" style="fill: none;stroke: #cccccb;stroke-width: 0.75px"/>
+    <rect x="44.48" y="188.55" width="2.58" height="1.66" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <rect x="50.04" y="188.56" width="8.76" height="6.7" style="fill: none;stroke: #cccccb;stroke-width: 0.75px"/>
+    <rect x="53.03" y="188.55" width="2.58" height="1.66" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <g>
+      <polyline points="45.92 157.99 45.92 168.73 54.35 168.75 54.35 157.99" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+      <line x1="41.54" y1="162.04" x2="58.7" y2="162.04" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="41.54" y1="163.41" x2="58.7" y2="163.41" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="41.54" y1="164.74" x2="58.66" y2="164.74" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="45.93" y1="159.37" x2="54.34" y2="159.37" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="45.93" y1="160.7" x2="54.34" y2="160.7" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="45.92" y1="166.11" x2="54.35" y2="166.11" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="45.92" y1="167.44" x2="54.34" y2="167.44" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <polyline points="45.9 166.11 41.54 166.11 41.54 160.69 45.9 160.69" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+      <polyline points="54.31 166.11 58.67 166.11 58.67 160.69 54.31 160.69" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    </g>
+    <g>
+      <polyline points="45.92 389.39 45.92 378.65 54.35 378.64 54.35 389.39" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+      <line x1="41.54" y1="385.34" x2="58.7" y2="385.34" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="41.54" y1="383.97" x2="58.7" y2="383.97" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="41.54" y1="382.65" x2="58.66" y2="382.65" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="45.93" y1="388.01" x2="54.34" y2="388.01" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="45.93" y1="386.68" x2="54.34" y2="386.68" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="45.92" y1="381.28" x2="54.35" y2="381.28" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="45.92" y1="379.95" x2="54.34" y2="379.95" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <polyline points="45.9 381.28 41.54 381.28 41.54 386.7 45.9 386.7" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+      <polyline points="54.31 381.28 58.67 381.28 58.67 386.7 54.31 386.7" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    </g>
+    <line x1="41.72" y1="558.83" x2="41.72" y2="590.9" style="fill: none;stroke: #ccc;stroke-width: 0.5px"/>
+    <line x1="58.69" y1="558.83" x2="58.69" y2="590.9" style="fill: none;stroke: #ccc;stroke-width: 0.5px"/>
+    <rect x="33.82" y="46.07" width="32.25" height="512.73" style="fill: none;stroke: #ccc;stroke-width: 0.5px"/>
+    <path d="M478,671.77c0-10.1-.1-17.1-.1-17.1l7.28-1.37c1.49-51.21-4.38-137.84-7.33-162.16,0-1.68-.11-353.33-.11-353.33l6.2-1.95V124.15H477.1s.29-22.62-41.87-22.62c-36.72.94-41,22.38-41,22.38H387.4v11.47l6.21,1.95s.1,323.27,0,353.72c-9.19,94.88-7.2,162.46-7.2,162.46l7.28,1.37V669.6c-.57,21.38,18.73,21.73,33.45,21.73l0,3.85H444.7v-3.75C457.44,691.42,478,691.47,478,671.77Z" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #989897"/>
+    <line x1="91.96" y1="390.33" x2="91.96" y2="553.67" style="fill: none;stroke: #989897"/>
+    <line x1="8.05" y1="390.33" x2="8.05" y2="553.67" style="fill: none;stroke: #989897"/>
+    <path d="M393.64,668.35" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #231f20;stroke-width: 0.5px"/>
+    <path d="M427.3,686.1" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #231f20;stroke-width: 0.5px"/>
+    <path d="M478,668.35" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #231f20;stroke-width: 0.5px"/>
+    <path d="M444.34,686.1" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #231f20;stroke-width: 0.5px"/>
+    <text transform="translate(51.69 359.37) rotate(-90) scale(1 1.16)" style="font-size: 5.498370170593262px;fill: #cccccb;font-family: Arial-BoldMT, Arial;font-weight: 700">Lifts</text>
+    <text transform="translate(51.99 187.4) rotate(-90) scale(1 1.16)" style="font-size: 5.498370170593262px;fill: #cccccb;font-family: Arial-BoldMT, Arial;font-weight: 700">Lifts</text>
+    <text transform="translate(52.99 34.47) rotate(-90)" style="font-size: 7px;fill: #cccccb;font-family: Arial-BoldMT, Arial;font-weight: 700">Bridge</text>
+    <rect x="41.24" y="250.26" width="7" height="21.67" style="fill: #fff;stroke: #cccccb;stroke-width: 0.5px"/>
+    <text transform="translate(46.4 271.28) rotate(-90) scale(1 1.16)" style="font-size: 3.5999999046325684px;fill: #cccccb;font-family: Arial-BoldMT, Arial;font-weight: 700">Launderette</text>
+  </g>
+  <g id="_6000_fill" data-name="6000_fill">
+    <rect id="6000_fill" x="7.86" y="50.48" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6000_type" data-name="6000_type">
+    <text id="6000_type" transform="translate(15.22 58.01)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_6000_balcony" data-name="6000_balcony">
+    <line id="6000_balcony" x1="12.61" y1="50.39" x2="12.61" y2="61.68" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6000_outline" data-name="6000_outline">
+    <rect id="6000_outline" x="7.86" y="50.48" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6001_fill" data-name="6001_fill">
+    <rect id="6001_fill" x="65.97" y="50.48" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6001_type" data-name="6001_type">
+    <text id="6001_type" transform="translate(68.71 58.3)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6001</text>
+  </g>
+  <g id="_6001_balcony" data-name="6001_balcony">
+    <line id="6001_balcony" x1="86.95" y1="50.39" x2="86.95" y2="61.69" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6001_outline" data-name="6001_outline">
+    <rect id="6001_outline" x="65.97" y="50.48" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6002_fill" data-name="6002_fill">
+    <rect id="6002_fill" x="7.86" y="61.82" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6002_type" data-name="6002_type">
+    <text id="6002_type" transform="translate(15.22 68.84)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_6002_balcony" data-name="6002_balcony">
+    <line id="6002_balcony" x1="12.61" y1="61.73" x2="12.61" y2="73.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6002_outline" data-name="6002_outline">
+    <rect id="6002_outline" x="7.86" y="61.82" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6003_fill" data-name="6003_fill">
+    <rect id="6003_fill" x="65.97" y="61.92" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6003_type" data-name="6003_type">
+    <text id="6003_type" transform="translate(68.71 69.13)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6003</text>
+  </g>
+  <g id="_6003_balcony" data-name="6003_balcony">
+    <line id="6003_balcony" x1="86.95" y1="61.89" x2="86.95" y2="73.19" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6003_outline" data-name="6003_outline">
+    <rect id="6003_outline" x="65.97" y="61.92" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6004_fill" data-name="6004_fill">
+    <rect id="6004_fill" x="7.86" y="73.33" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6004_type" data-name="6004_type">
+    <text id="6004_type" transform="translate(15.22 80.41)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_6004_balcony" data-name="6004_balcony">
+    <line id="6004_balcony" x1="12.61" y1="73.23" x2="12.61" y2="84.51" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6004_outline" data-name="6004_outline">
+    <rect id="6004_outline" x="7.86" y="73.33" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6005_fill" data-name="6005_fill">
+    <rect id="6005_fill" x="65.97" y="73.33" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6005_type" data-name="6005_type">
+    <text id="6005_type" transform="translate(68.71 80.35)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6005</text>
+  </g>
+  <g id="_6005_balcony" data-name="6005_balcony">
+    <line id="6005_balcony" x1="86.95" y1="73.28" x2="86.95" y2="84.58" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6005_outline" data-name="6005_outline">
+    <rect id="6005_outline" x="65.97" y="73.33" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6006_fill" data-name="6006_fill">
+    <rect id="6006_fill" x="7.86" y="84.62" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6006_type" data-name="6006_type">
+    <text id="6006_type" transform="translate(15.22 92.17)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6006_balcony" data-name="6006_balcony">
+    <line id="6006_balcony" x1="12.61" y1="84.64" x2="12.61" y2="95.93" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6006_outline" data-name="6006_outline">
+    <rect id="6006_outline" x="7.86" y="84.62" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6007_fill" data-name="6007_fill">
+    <rect id="6007_fill" x="65.97" y="84.62" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6007_type" data-name="6007_type">
+    <text id="6007_type" transform="translate(68.71 91.81)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6007</text>
+  </g>
+  <g id="_6007_balcony" data-name="6007_balcony">
+    <line id="6007_balcony" x1="86.95" y1="84.53" x2="86.95" y2="95.83" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6007_outline" data-name="6007_outline">
+    <rect id="6007_outline" x="65.97" y="84.62" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6008_fill" data-name="6008_fill">
+    <rect id="6008_fill" x="7.86" y="95.84" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6008_type" data-name="6008_type">
+    <text id="6008_type" transform="translate(15.22 103.28)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_6008_balcony" data-name="6008_balcony">
+    <line id="6008_balcony" x1="12.61" y1="95.43" x2="12.61" y2="106.72" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6008_outline" data-name="6008_outline">
+    <rect id="6008_outline" x="7.86" y="95.84" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6009_fill" data-name="6009_fill">
+    <rect id="6009_fill" x="65.97" y="95.72" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6009_type" data-name="6009_type">
+    <text id="6009_type" transform="translate(68.71 103.22)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6009</text>
+  </g>
+  <g id="_6009_balcony" data-name="6009_balcony">
+    <line id="6009_balcony" x1="86.95" y1="95.76" x2="86.95" y2="107.06" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6009_outline" data-name="6009_outline">
+    <rect id="6009_outline" x="65.97" y="95.72" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6010_fill" data-name="6010_fill">
+    <rect id="6010_fill" x="7.86" y="107.27" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6010_type" data-name="6010_type">
+    <text id="6010_type" transform="translate(15.47 114.84)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_6010_balcony" data-name="6010_balcony">
+    <line id="6010_balcony" x1="12.61" y1="107.51" x2="12.61" y2="118.8" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6010_outline" data-name="6010_outline">
+    <rect id="6010_outline" x="7.86" y="107.27" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6011_fill" data-name="6011_fill">
+    <rect id="6011_fill" x="65.97" y="107.27" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6011_type" data-name="6011_type">
+    <text id="6011_type" transform="translate(68.96 114.77)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6011</text>
+  </g>
+  <g id="_6011_balcony" data-name="6011_balcony">
+    <line id="6011_balcony" x1="86.95" y1="107.18" x2="86.95" y2="118.48" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6011_outline" data-name="6011_outline">
+    <rect id="6011_outline" x="65.97" y="107.27" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6012_fill" data-name="6012_fill">
+    <rect id="6012_fill" x="7.86" y="118.59" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6012_type" data-name="6012_type">
+    <text id="6012_type" transform="translate(15.22 126.33)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_6012_balcony" data-name="6012_balcony">
+    <line id="6012_balcony" x1="12.61" y1="118.35" x2="12.61" y2="129.63" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6012_outline" data-name="6012_outline">
+    <rect id="6012_outline" x="7.86" y="118.59" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6013_fill" data-name="6013_fill">
+    <rect id="6013_fill" x="65.97" y="118.59" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6013_type" data-name="6013_type">
+    <text id="6013_type" transform="translate(68.71 126.26)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6013</text>
+  </g>
+  <g id="_6013_balcony" data-name="6013_balcony">
+    <line id="6013_balcony" x1="86.95" y1="118.85" x2="86.95" y2="130.14" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6013_outline" data-name="6013_outline">
+    <rect id="6013_outline" x="65.97" y="118.59" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6014_fill" data-name="6014_fill">
+    <rect id="6014_fill" x="7.86" y="130" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6014_type" data-name="6014_type">
+    <text id="6014_type" transform="translate(15.22 137.76)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_6014_balcony" data-name="6014_balcony">
+    <line id="6014_balcony" x1="12.61" y1="129.76" x2="12.61" y2="141.05" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6014_outline" data-name="6014_outline">
+    <rect id="6014_outline" x="7.86" y="130" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6015_fill" data-name="6015_fill">
+    <rect id="6015_fill" x="65.97" y="129.94" width="26.1" height="11.2" style="fill: #7963ab"/>
+  </g>
+  <g id="_6015_type" data-name="6015_type">
+    <text id="6015_type" transform="translate(68.71 137.7)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6015</text>
+  </g>
+  <g id="_6015_balcony" data-name="6015_balcony">
+    <line id="6015_balcony" x1="86.95" y1="129.93" x2="86.95" y2="141.23" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6015_outline" data-name="6015_outline">
+    <rect id="6015_outline" x="65.97" y="129.94" width="26.1" height="11.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6016_fill" data-name="6016_fill">
+    <rect id="6016_fill" x="7.86" y="141.09" width="26.1" height="8.73" style="fill: #0087a3"/>
+  </g>
+  <g id="_6016_type" data-name="6016_type">
+    <text id="6016_type" transform="translate(15.22 147.87)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6016_balcony" data-name="6016_balcony">
+    <line id="6016_balcony" x1="12.61" y1="141.05" x2="12.61" y2="149.81" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6016_outline" data-name="6016_outline">
+    <rect id="6016_outline" x="7.86" y="141.09" width="26.1" height="8.73" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6017_fill" data-name="6017_fill">
+    <rect id="6017_fill" x="65.96" y="141.09" width="26.1" height="8.73" style="fill: #0087a3"/>
+  </g>
+  <g id="_6017_type" data-name="6017_type">
+    <text id="6017_type" transform="translate(68.71 147.96)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6017</text>
+  </g>
+  <g id="_6017_balcony" data-name="6017_balcony">
+    <line id="6017_balcony" x1="86.95" y1="141.05" x2="86.95" y2="149.81" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6017_outline" data-name="6017_outline">
+    <rect id="6017_outline" x="65.96" y="141.09" width="26.1" height="8.73" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6018_fill" data-name="6018_fill">
+    <rect id="6018_fill" x="7.86" y="149.95" width="26.1" height="13.36" style="fill: #e1cb85"/>
+  </g>
+  <g id="_6018_type" data-name="6018_type">
+    <text id="6018_type" transform="translate(15.47 158.93)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6018</text>
+  </g>
+  <g id="_6018_balcony" data-name="6018_balcony">
+    <line id="6018_balcony" x1="12.61" y1="149.76" x2="12.61" y2="163.31" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6018_outline" data-name="6018_outline">
+    <rect id="6018_outline" x="7.86" y="149.95" width="26.1" height="13.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6019_fill" data-name="6019_fill">
+    <rect id="6019_fill" x="65.97" y="149.9" width="26.1" height="13.36" style="fill: #e1cb85"/>
+  </g>
+  <g id="_6019_type" data-name="6019_type">
+    <text id="6019_type" transform="translate(68.96 158.87)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6019</text>
+  </g>
+  <g id="_6019_balcony" data-name="6019_balcony">
+    <line id="6019_balcony" x1="86.95" y1="149.76" x2="86.95" y2="163.31" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6019_outline" data-name="6019_outline">
+    <rect id="6019_outline" x="65.97" y="149.9" width="26.1" height="13.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6020_fill" data-name="6020_fill">
+    <rect id="6020_fill" x="7.86" y="163.41" width="26.1" height="13.36" style="fill: #e1cb85"/>
+  </g>
+  <g id="_6020_type" data-name="6020_type">
+    <text id="6020_type" transform="translate(15.47 172.16)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6020</text>
+  </g>
+  <g id="_6020_balcony" data-name="6020_balcony">
+    <line id="6020_balcony" x1="12.61" y1="163.26" x2="12.61" y2="176.81" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6020_outline" data-name="6020_outline">
+    <rect id="6020_outline" x="7.86" y="163.41" width="26.1" height="13.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6021_fill" data-name="6021_fill">
+    <rect id="6021_fill" x="65.97" y="163.41" width="26.1" height="13.36" style="fill: #e1cb85"/>
+  </g>
+  <g id="_6021_type" data-name="6021_type">
+    <text id="6021_type" transform="translate(68.96 171.95)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6021</text>
+  </g>
+  <g id="_6021_balcony" data-name="6021_balcony">
+    <line id="6021_balcony" x1="86.95" y1="163.43" x2="86.95" y2="176.98" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6021_outline" data-name="6021_outline">
+    <rect id="6021_outline" x="65.97" y="163.41" width="26.1" height="13.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6022_fill" data-name="6022_fill">
+    <rect id="6022_fill" x="7.86" y="176.84" width="26.1" height="13.36" style="fill: #e1cb85"/>
+  </g>
+  <g id="_6022_type" data-name="6022_type">
+    <text id="6022_type" transform="translate(15.47 185.39)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6022</text>
+  </g>
+  <g id="_6022_balcony" data-name="6022_balcony">
+    <line id="6022_balcony" x1="12.61" y1="176.6" x2="12.61" y2="190.15" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6022_outline" data-name="6022_outline">
+    <rect id="6022_outline" x="7.86" y="176.84" width="26.1" height="13.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6023_fill" data-name="6023_fill">
+    <rect id="6023_fill" x="65.97" y="176.84" width="26.1" height="13.36" style="fill: #e1cb85"/>
+  </g>
+  <g id="_6023_type" data-name="6023_type">
+    <text id="6023_type" transform="translate(68.96 185.53)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6023</text>
+  </g>
+  <g id="_6023_balcony" data-name="6023_balcony">
+    <line id="6023_balcony" x1="86.95" y1="176.48" x2="86.95" y2="190.03" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6023_outline" data-name="6023_outline">
+    <rect id="6023_outline" x="65.97" y="176.84" width="26.1" height="13.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6024_fill" data-name="6024_fill">
+    <rect id="6024_fill" x="7.86" y="190.21" width="26.1" height="13.36" style="fill: #e1cb85"/>
+  </g>
+  <g id="_6024_type" data-name="6024_type">
+    <text id="6024_type" transform="translate(15.47 198.86)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6024</text>
+  </g>
+  <g id="_6024_balcony" data-name="6024_balcony">
+    <line id="6024_balcony" x1="12.55" y1="190.18" x2="12.55" y2="203.73" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6024_outline" data-name="6024_outline">
+    <rect id="6024_outline" x="7.86" y="190.21" width="26.1" height="13.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6025_fill" data-name="6025_fill">
+    <rect id="6025_fill" x="65.97" y="190.37" width="26.1" height="13.36" style="fill: #e1cb85"/>
+  </g>
+  <g id="_6025_type" data-name="6025_type">
+    <text id="6025_type" transform="translate(68.96 199.4)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6025</text>
+  </g>
+  <g id="_6025_balcony" data-name="6025_balcony">
+    <line id="6025_balcony" x1="86.95" y1="190.23" x2="86.95" y2="203.78" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6025_outline" data-name="6025_outline">
+    <rect id="6025_outline" x="65.97" y="190.37" width="26.1" height="13.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6026_fill" data-name="6025_fill">
+    <rect id="6026_fill" x="7.86" y="203.57" width="26.1" height="9.61" style="fill: #0087a3"/>
+  </g>
+  <g id="_6026_type" data-name="6026_type">
+    <text id="6026_type" transform="translate(15.47 210.68)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">2</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6026_balcony" data-name="6026_balcony">
+    <line id="6026_balcony" x1="12.55" y1="203.42" x2="12.55" y2="213.12" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6026_outline" data-name="6026_outline">
+    <rect id="6026_outline" x="7.86" y="203.57" width="26.1" height="9.61" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6027_fill" data-name="6027_fill">
+    <rect id="6027_fill" x="65.96" y="203.57" width="26.1" height="9.61" style="fill: #0087a3"/>
+  </g>
+  <g id="_6027_type" data-name="6027_type">
+    <text id="6027_type" transform="translate(68.96 210.62)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6027</text>
+  </g>
+  <g id="_6027_balcony" data-name="6027_balcony">
+    <line id="6027_balcony" x1="86.95" y1="203.67" x2="86.95" y2="213.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6027_outline" data-name="6027_outline">
+    <rect id="6027_outline" x="65.96" y="203.57" width="26.1" height="9.61" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6028_fill" data-name="6028_fill">
+    <rect id="6028_fill" x="7.86" y="213.12" width="26.1" height="8.93" style="fill: #0087a3"/>
+  </g>
+  <g id="_6028_type" data-name="6028_type">
+    <text id="6028_type" transform="translate(15.47 220.15)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">2</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_6028_balcony" data-name="6028_balcony">
+    <line id="6028_balcony" x1="12.55" y1="213.05" x2="12.55" y2="222.18" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6028_outline" data-name="6028_outline">
+    <rect id="6028_outline" x="7.86" y="213.12" width="26.1" height="8.93" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6029_fill" data-name="6029_fill">
+    <rect id="6029_fill" x="65.96" y="213.36" width="26.1" height="8.63" style="fill: #0087a3"/>
+  </g>
+  <g id="_6029_type" data-name="6029_type">
+    <text id="6029_type" transform="translate(68.96 220.09)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6029</text>
+  </g>
+  <g id="_6029_balcony" data-name="6029_balcony">
+    <line id="6029_balcony" x1="86.95" y1="213.48" x2="86.95" y2="221.99" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6029_outline" data-name="6029_outline">
+    <rect id="6029_outline" x="65.96" y="213.36" width="26.1" height="8.63" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6030_fill" data-name="6030_fill">
+    <rect id="6030_fill" x="7.86" y="221.93" width="26.1" height="8.93" style="fill: #0087a3"/>
+  </g>
+  <g id="_6030_type" data-name="6030_type">
+    <text id="6030_type" transform="translate(15.47 228.78)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_6030_balcony" data-name="6030_balcony">
+    <line id="6030_balcony" x1="12.55" y1="221.67" x2="12.55" y2="230.8" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6030_outline" data-name="6030_outline">
+    <rect id="6030_outline" x="7.86" y="221.93" width="26.1" height="8.93" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6031_fill" data-name="6031_fill">
+    <rect id="6031_fill" x="65.96" y="222.18" width="26.1" height="8.63" style="fill: #0087a3"/>
+  </g>
+  <g id="_6031_type" data-name="6031_type">
+    <text id="6031_type" transform="translate(68.96 228.72)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6031</text>
+  </g>
+  <g id="_6031_balcony" data-name="6031_balcony">
+    <line id="6031_balcony" x1="86.95" y1="222.23" x2="86.95" y2="230.74" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6031_outline" data-name="6031_outline">
+    <rect id="6031_outline" x="65.96" y="222.18" width="26.1" height="8.63" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6032_fill" data-name="6032_fill">
+    <rect id="6032_fill" x="7.86" y="231.31" width="26.1" height="8.93" style="fill: #0087a3"/>
+  </g>
+  <g id="_6032_type" data-name="6032_type">
+    <text id="6032_type" transform="translate(15.47 238.18)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_6032_balcony" data-name="6032_balcony">
+    <line id="6032_balcony" x1="12.55" y1="231.11" x2="12.55" y2="240.24" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6032_outline" data-name="6032_outline">
+    <rect id="6032_outline" x="7.86" y="231.31" width="26.1" height="8.93" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6033_fill" data-name="6033_fill">
+    <rect id="6033_fill" x="65.96" y="230.61" width="26.1" height="9.75" style="fill: #0087a3"/>
+  </g>
+  <g id="_6033_type" data-name="6033_type">
+    <text id="6033_type" transform="translate(68.96 238.12)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6033</text>
+  </g>
+  <g id="_6033_balcony" data-name="6033_balcony">
+    <line id="6033_balcony" x1="86.95" y1="230.74" x2="86.95" y2="240.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6033_outline" data-name="6033_outline">
+    <rect id="6033_outline" x="65.96" y="230.61" width="26.1" height="9.75" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6034_fill" data-name="6034_fill">
+    <rect id="6034_fill" x="7.86" y="240.39" width="26.1" height="8.93" style="fill: #0087a3"/>
+  </g>
+  <g id="_6034_type" data-name="6034_type">
+    <text id="6034_type" transform="translate(15.47 247.42)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_6034_balcony" data-name="6034_balcony">
+    <line id="6034_balcony" x1="12.55" y1="240.18" x2="12.55" y2="249.31" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6034_outline" data-name="6034_outline">
+    <rect id="6034_outline" x="7.86" y="240.39" width="26.1" height="8.93" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6035_fill" data-name="6035_fill">
+    <rect id="6035_fill" x="65.96" y="240.23" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6035_type" data-name="6035_type">
+    <text id="6035_type" transform="translate(68.96 247.37)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6035</text>
+  </g>
+  <g id="_6035_balcony" data-name="6035_balcony">
+    <line id="6035_balcony" x1="86.95" y1="239.99" x2="86.95" y2="249.61" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6035_outline" data-name="6035_outline">
+    <rect id="6035_outline" x="65.96" y="240.23" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6036_fill" data-name="6036_fill">
+    <rect id="6036_fill" x="7.86" y="249.49" width="26.1" height="9.51" style="fill: #0087a3"/>
+  </g>
+  <g id="_6036_type" data-name="6036_type">
+    <text id="6036_type" transform="translate(15.47 257.04)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6036_balcony" data-name="6036_balcony">
+    <line id="6036_balcony" x1="12.55" y1="249.68" x2="12.55" y2="258.81" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6036_outline" data-name="6036_outline">
+    <rect id="6036_outline" x="7.86" y="249.49" width="26.1" height="9.51" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6037_fill" data-name="6037_fill">
+    <rect id="6037_fill" x="65.96" y="249.65" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6037_type" data-name="6037_type">
+    <text id="6037_type" transform="translate(68.96 256.98)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6037</text>
+  </g>
+  <g id="_6037_balcony" data-name="6037_balcony">
+    <line id="6037_balcony" x1="86.95" y1="249.32" x2="86.95" y2="258.94" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6037_outline" data-name="6037_outline">
+    <rect id="6037_outline" x="65.96" y="249.65" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6038_fill" data-name="6038_fill">
+    <rect id="6038_fill" x="7.86" y="259.04" width="26.1" height="9.51" style="fill: #0087a3"/>
+  </g>
+  <g id="_6038_type" data-name="6038_type">
+    <text id="6038_type" transform="translate(15.47 265.9)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_6038_balcony" data-name="6038_balcony">
+    <line id="6038_balcony" x1="12.55" y1="259.35" x2="12.55" y2="268.47" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6038_outline" data-name="6038_outline">
+    <rect id="6038_outline" x="7.86" y="259.04" width="26.1" height="9.51" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6039_fill" data-name="6039_fill">
+    <rect id="6039_fill" x="65.96" y="259.2" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6039_type" data-name="6039_type">
+    <text id="6039_type" transform="translate(68.96 265.84)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6039</text>
+  </g>
+  <g id="_6039_balcony" data-name="6039_balcony">
+    <line id="6039_balcony" x1="86.95" y1="258.68" x2="86.95" y2="268.3" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6039_outline" data-name="6039_outline">
+    <rect id="6039_outline" x="65.96" y="259.2" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6040_fill" data-name="6040_fill">
+    <rect id="6040_fill" x="7.86" y="268.46" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6040_type" data-name="6040_type">
+    <text id="6040_type" transform="translate(15.47 274.87)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_6040_balcony" data-name="6040_balcony">
+    <line id="6040_balcony" x1="12.55" y1="268.41" x2="12.55" y2="277.53" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6040_outline" data-name="6040_outline">
+    <rect id="6040_outline" x="7.86" y="268.46" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6041_fill" data-name="6041_fill">
+    <rect id="6041_fill" x="65.96" y="268.2" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6041_type" data-name="6041_type">
+    <text id="6041_type" transform="translate(68.96 274.81)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6041</text>
+  </g>
+  <g id="_6041_balcony" data-name="6041_balcony">
+    <line id="6041_balcony" x1="86.95" y1="268.15" x2="86.95" y2="277.78" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6041_outline" data-name="6041_outline">
+    <rect id="6041_outline" x="65.96" y="268.2" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6042_fill" data-name="6042_fill">
+    <rect id="6042_fill" x="7.86" y="277.71" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6042_type" data-name="6042_type">
+    <text id="6042_type" transform="translate(15.47 284.13)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_6042_balcony" data-name="6042_balcony">
+    <line id="6042_balcony" x1="12.55" y1="277.49" x2="12.55" y2="286.62" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6042_outline" data-name="6042_outline">
+    <rect id="6042_outline" x="7.86" y="277.71" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6043_fill" data-name="6043_fill">
+    <rect id="6043_fill" x="65.96" y="277.46" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6043_type" data-name="6043_type">
+    <text id="6043_type" transform="translate(68.96 284.07)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6043</text>
+  </g>
+  <g id="_6043_balcony" data-name="6043_balcony">
+    <line id="6043_balcony" x1="86.95" y1="277.32" x2="86.95" y2="286.94" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6043_outline" data-name="6043_outline">
+    <rect id="6043_outline" x="65.96" y="277.46" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6044_fill" data-name="6044_fill">
+    <rect id="6044_fill" x="7.86" y="286.73" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6044_type" data-name="6044_type">
+    <text id="6044_type" transform="translate(15.47 293.39)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_6044_balcony" data-name="6044_balcony">
+    <line id="6044_balcony" x1="12.55" y1="286.32" x2="12.55" y2="295.45" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6044_outline" data-name="6044_outline">
+    <rect id="6044_outline" x="7.86" y="286.73" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6045_fill" data-name="6045_fill">
+    <rect id="6045_fill" x="65.96" y="286.48" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6045_type" data-name="6045_type">
+    <text id="6045_type" transform="translate(68.96 293.32)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6045</text>
+  </g>
+  <g id="_6045_balcony" data-name="6045_balcony">
+    <line id="6045_balcony" x1="86.95" y1="286.32" x2="86.95" y2="295.94" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6045_outline" data-name="6045_outline">
+    <rect id="6045_outline" x="65.96" y="286.48" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6046_fill" data-name="6046_fill">
+    <rect id="6046_fill" x="7.86" y="295.81" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6046_type" data-name="6046_type">
+    <text id="6046_type" transform="translate(15.47 302.54)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6046_balcony" data-name="6046_balcony">
+    <line id="6046_balcony" x1="12.55" y1="295.71" x2="12.55" y2="304.84" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6046_outline" data-name="6046_outline">
+    <rect id="6046_outline" x="7.86" y="295.81" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6047_fill" data-name="6047_fill">
+    <rect id="6047_fill" x="65.96" y="295.56" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6047_type" data-name="6047_type">
+    <text id="6047_type" transform="translate(68.96 302.48)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6047</text>
+  </g>
+  <g id="_6047_balcony" data-name="6047_balcony">
+    <line id="6047_balcony" x1="86.95" y1="295.54" x2="86.95" y2="305.16" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6047_outline" data-name="6047_outline">
+    <rect id="6047_outline" x="65.96" y="295.56" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6048_fill" data-name="6048_fill">
+    <rect id="6048_fill" x="7.86" y="305.2" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6048_type" data-name="6048_type">
+    <text id="6048_type" transform="translate(15.47 311.56)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_6048_balcony" data-name="6048_balcony">
+    <line id="6048_balcony" x1="12.55" y1="304.96" x2="12.55" y2="314.09" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6048_outline" data-name="6048_outline">
+    <rect id="6048_outline" x="7.86" y="305.2" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6049_fill" data-name="6049_fill">
+    <rect id="6049_fill" x="65.96" y="304.95" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6049_type" data-name="6049_type">
+    <text id="6049_type" transform="translate(68.96 311.5)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6049</text>
+  </g>
+  <g id="_6049_balcony" data-name="6049_balcony">
+    <line id="6049_balcony" x1="86.95" y1="304.78" x2="86.95" y2="314.4" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6049_outline" data-name="6049_outline">
+    <rect id="6049_outline" x="65.96" y="304.95" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6050_fill" data-name="6050_fill">
+    <rect id="6050_fill" x="7.86" y="314.06" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6050_type" data-name="6050_type">
+    <text id="6050_type" transform="translate(15.47 320.78)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_6050_balcony" data-name="6050_balcony">
+    <line id="6050_balcony" x1="12.55" y1="313.87" x2="12.55" y2="323" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6050_outline" data-name="6050_outline">
+    <rect id="6050_outline" x="7.86" y="314.06" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6051_fill" data-name="6051_fill">
+    <rect id="6051_fill" x="65.96" y="313.81" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6051_type" data-name="6051_type">
+    <text id="6051_type" transform="translate(68.96 320.71)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6051</text>
+  </g>
+  <g id="_6051_balcony" data-name="6051_balcony">
+    <line id="6051_balcony" x1="86.95" y1="314.02" x2="86.95" y2="323.12" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6051_outline" data-name="6051_outline">
+    <rect id="6051_outline" x="65.96" y="313.81" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6052_fill" data-name="6052_fill">
+    <rect id="6052_fill" x="7.86" y="323.31" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6052_type" data-name="6052_type">
+    <text id="6052_type" transform="translate(15.47 330.02)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_6052_balcony" data-name="6052_balcony">
+    <line id="6052_balcony" x1="12.55" y1="323.04" x2="12.55" y2="332.17" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6052_outline" data-name="6052_outline">
+    <rect id="6052_outline" x="7.86" y="323.31" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6053_fill" data-name="6053_fill">
+    <rect id="6053_fill" x="65.96" y="322.9" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6053_type" data-name="6053_type">
+    <text id="6053_type" transform="translate(68.96 329.96)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6053</text>
+  </g>
+  <g id="_6053_balcony" data-name="6053_balcony">
+    <line id="6053_balcony" x1="86.95" y1="322.94" x2="86.95" y2="332.03" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6053_outline" data-name="6053_outline">
+    <rect id="6053_outline" x="65.96" y="322.9" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6054_fill" data-name="6054_fill">
+    <rect id="6054_fill" x="7.86" y="332.4" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6054_type" data-name="6054_type">
+    <text id="6054_type" transform="translate(15.48 339.1)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_6054_balcony" data-name="6054_balcony">
+    <line id="6054_balcony" x1="12.55" y1="332.56" x2="12.55" y2="341.69" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6054_outline" data-name="6054_outline">
+    <rect id="6054_outline" x="7.86" y="332.4" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6055_fill" data-name="6055_fill">
+    <rect id="6055_fill" x="65.96" y="332.06" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6055_type" data-name="6055_type">
+    <text id="6055_type" transform="translate(68.96 339.01)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6055</text>
+  </g>
+  <g id="_6055_balcony" data-name="6055_balcony">
+    <line id="6055_balcony" x1="86.95" y1="332.14" x2="86.95" y2="341.24" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6055_outline" data-name="6055_outline">
+    <rect id="6055_outline" x="65.96" y="332.06" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6056_fill" data-name="6056_fill">
+    <rect id="6056_fill" x="7.86" y="341.31" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6056_type" data-name="6056_type">
+    <text id="6056_type" transform="translate(15.49 348.13)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6056_balcony" data-name="6056_balcony">
+    <line id="6056_balcony" x1="12.55" y1="341.64" x2="12.55" y2="350.76" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6056_outline" data-name="6056_outline">
+    <rect id="6056_outline" x="7.86" y="341.31" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6057_fill" data-name="6057_fill">
+    <rect id="6057_fill" x="65.96" y="341.06" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6057_type" data-name="6057_type">
+    <text id="6057_type" transform="translate(68.96 348.07)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6057</text>
+  </g>
+  <g id="_6057_balcony" data-name="6057_balcony">
+    <line id="6057_balcony" x1="86.95" y1="341.56" x2="86.95" y2="350.65" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6057_outline" data-name="6057_outline">
+    <rect id="6057_outline" x="65.96" y="341.06" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6058_fill" data-name="6058_fill">
+    <rect id="6058_fill" x="7.86" y="350.48" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6058_type" data-name="6058_type">
+    <text id="6058_type" transform="translate(15.47 357.39)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_6058_balcony" data-name="6058_balcony">
+    <line id="6058_balcony" x1="12.55" y1="350.55" x2="12.55" y2="359.68" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6058_outline" data-name="6058_outline">
+    <rect id="6058_outline" x="7.86" y="350.48" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6059_fill" data-name="6059_fill">
+    <rect id="6059_fill" x="65.96" y="350.23" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6059_type" data-name="6059_type">
+    <text id="6059_type" transform="translate(68.96 357.33)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6059</text>
+  </g>
+  <g id="_6059_balcony" data-name="6059_balcony">
+    <line id="6059_balcony" x1="86.95" y1="350.31" x2="86.95" y2="359.41" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6059_outline" data-name="6059_outline">
+    <rect id="6059_outline" x="65.96" y="350.23" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6060_fill" data-name="6060_fill">
+    <rect id="6060_fill" x="7.86" y="359.65" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6060_type" data-name="6060_type">
+    <text id="6060_type" transform="translate(15.47 366.41)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_6060_balcony" data-name="6060_balcony">
+    <line id="6060_balcony" x1="12.55" y1="359.72" x2="12.55" y2="368.84" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6060_outline" data-name="6060_outline">
+    <rect id="6060_outline" x="7.86" y="359.65" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6061_fill" data-name="6061_fill">
+    <rect id="6061_fill" x="65.96" y="359.22" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6061_type" data-name="6061_type">
+    <text id="6061_type" transform="translate(68.96 366.35)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6061</text>
+  </g>
+  <g id="_6061_balcony" data-name="6061_balcony">
+    <line id="6061_balcony" x1="86.95" y1="359.3" x2="86.95" y2="368.4" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6061_outline" data-name="6061_outline">
+    <rect id="6061_outline" x="65.96" y="359.22" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6062_fill" data-name="6062_fill">
+    <rect id="6062_fill" x="7.86" y="368.73" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6062_type" data-name="6062_type">
+    <text id="6062_type" transform="translate(15.47 375.57)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_6062_balcony" data-name="6062_balcony">
+    <line id="6062_balcony" x1="12.55" y1="368.67" x2="12.55" y2="377.8" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6062_outline" data-name="6062_outline">
+    <rect id="6062_outline" x="7.86" y="368.73" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6063_fill" data-name="6063_fill">
+    <rect id="6063_fill" x="65.96" y="368.48" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6063_type" data-name="6063_type">
+    <text id="6063_type" transform="translate(68.96 375.51)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6063</text>
+  </g>
+  <g id="_6063_balcony" data-name="6063_balcony">
+    <line id="6063_balcony" x1="86.95" y1="368.69" x2="86.95" y2="377.78" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6063_outline" data-name="6063_outline">
+    <rect id="6063_outline" x="65.96" y="368.48" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6064_fill" data-name="6064_fill">
+    <rect id="6064_fill" x="7.86" y="377.95" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6064_type" data-name="6064_type">
+    <text id="6064_type" transform="translate(15.47 384.98)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_6064_balcony" data-name="6064_balcony">
+    <line id="6064_balcony" x1="12.55" y1="377.95" x2="12.55" y2="387.08" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6064_outline" data-name="6064_outline">
+    <rect id="6064_outline" x="7.86" y="377.95" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6065_fill" data-name="6065_fill">
+    <rect id="6065_fill" x="65.96" y="377.65" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6065_type" data-name="6065_type">
+    <text id="6065_type" transform="translate(68.96 384.91)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6065</text>
+  </g>
+  <g id="_6065_balcony" data-name="6065_balcony">
+    <line id="6065_balcony" x1="86.95" y1="378.02" x2="86.95" y2="387.11" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6065_outline" data-name="6065_outline">
+    <rect id="6065_outline" x="65.96" y="377.65" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6066_fill" data-name="6066_fill">
+    <rect id="6066_fill" x="7.86" y="386.98" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6066_type" data-name="6066_type">
+    <text id="6066_type" transform="translate(15.47 394.01)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6066_balcony" data-name="6066_balcony">
+    <line id="6066_balcony" x1="12.55" y1="386.95" x2="12.55" y2="396.08" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6066_outline" data-name="6066_outline">
+    <rect id="6066_outline" x="7.86" y="386.98" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6067_fill" data-name="6067_fill">
+    <rect id="6067_fill" x="65.96" y="386.73" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6067_type" data-name="6067_type">
+    <text id="6067_type" transform="translate(68.96 393.95)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6067</text>
+  </g>
+  <g id="_6067_balcony" data-name="6067_balcony">
+    <line id="6067_balcony" x1="86.95" y1="386.81" x2="86.95" y2="395.91" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6067_outline" data-name="6067_outline">
+    <rect id="6067_outline" x="65.96" y="386.73" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6068_fill" data-name="6068_fill">
+    <rect id="6068_fill" x="7.86" y="396.05" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6068_type" data-name="6068_type">
+    <text id="6068_type" transform="translate(15.47 402.98)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_6068_balcony" data-name="6068_balcony">
+    <line id="6068_balcony" x1="12.55" y1="395.95" x2="12.55" y2="405.08" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6068_outline" data-name="6068_outline">
+    <rect id="6068_outline" x="7.86" y="396.05" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6069_fill" data-name="6069_fill">
+    <rect id="6069_fill" x="65.96" y="395.9" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6069_type" data-name="6069_type">
+    <text id="6069_type" transform="translate(68.96 402.91)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6069</text>
+  </g>
+  <g id="_6069_balcony" data-name="6069_balcony">
+    <line id="6069_balcony" x1="86.95" y1="395.81" x2="86.95" y2="404.91" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6069_outline" data-name="6069_outline">
+    <rect id="6069_outline" x="65.96" y="395.9" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6070_fill" data-name="6070_fill">
+    <rect id="6070_fill" x="7.86" y="405.15" width="26.1" height="9.01" style="fill: #0087a3"/>
+  </g>
+  <g id="_6070_type" data-name="6070_type">
+    <text id="6070_type" transform="translate(15.47 412.06)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_6070_balcony" data-name="6070_balcony">
+    <line id="6070_balcony" x1="12.55" y1="405.12" x2="12.55" y2="414.24" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6070_outline" data-name="6070_outline">
+    <rect id="6070_outline" x="7.86" y="405.15" width="26.1" height="9.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6071_fill" data-name="6071_fill">
+    <rect id="6071_fill" x="65.96" y="405.06" width="26.1" height="9.26" style="fill: #0087a3"/>
+  </g>
+  <g id="_6071_type" data-name="6071_type">
+    <text id="6071_type" transform="translate(68.96 411.99)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6071</text>
+  </g>
+  <g id="_6071_balcony" data-name="6071_balcony">
+    <line id="6071_balcony" x1="86.95" y1="405.39" x2="86.95" y2="414.49" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6071_outline" data-name="6071_outline">
+    <rect id="6071_outline" x="65.96" y="405.06" width="26.1" height="9.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6072_fill" data-name="6072_fill">
+    <rect id="6072_fill" x="7.86" y="414.06" width="26.1" height="12.44" style="fill: #7963ab"/>
+  </g>
+  <g id="_6072_type" data-name="6072_type">
+    <text id="6072_type" transform="translate(15.47 422.57)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_6072_balcony" data-name="6072_balcony">
+    <line id="6072_balcony" x1="12.55" y1="414.03" x2="12.55" y2="426.51" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6072_outline" data-name="6072_outline">
+    <rect id="6072_outline" x="7.9" y="414.06" width="26.1" height="12.44" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6073_fill" data-name="6073_fill">
+    <rect id="6073_fill" x="65.96" y="414.06" width="26.1" height="12.44" style="fill: #7963ab"/>
+  </g>
+  <g id="_6073_type" data-name="6073_type">
+    <text id="6073_type" transform="translate(68.96 422.51)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6073</text>
+  </g>
+  <g id="_6073_balcony" data-name="6073_balcony">
+    <line id="6073_balcony" x1="86.95" y1="414.03" x2="86.95" y2="426.51" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6073_outline" data-name="6073_outline">
+    <rect id="6073_outline" x="65.96" y="414.06" width="26.1" height="12.44" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6074_fill" data-name="6074_fill">
+    <rect id="6074_fill" x="7.9" y="426.36" width="26.1" height="11.88" style="fill: #7963ab"/>
+  </g>
+  <g id="_6074_type" data-name="6074_type">
+    <text id="6074_type" transform="translate(15.47 434.35)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_6074_balcony" data-name="6074_balcony">
+    <line id="6074_balcony" x1="12.55" y1="425.78" x2="12.55" y2="438.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6074_outline" data-name="6074_outline">
+    <rect id="6074_outline" x="7.9" y="426.36" width="26.1" height="11.88" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6075_fill" data-name="6075_fill">
+    <rect id="6075_fill" x="65.96" y="426.36" width="26.1" height="11.58" style="fill: #7963ab"/>
+  </g>
+  <g id="_6075_type" data-name="6075_type">
+    <text id="6075_type" transform="translate(68.96 434.29)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6075</text>
+  </g>
+  <g id="_6075_balcony" data-name="6075_balcony">
+    <line id="6075_balcony" x1="86.95" y1="426.51" x2="86.95" y2="438.05" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6075_outline" data-name="6075_outline">
+    <rect id="6075_outline" x="65.96" y="426.36" width="26.1" height="11.58" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6076_fill" data-name="6076_fill">
+    <rect id="6076_fill" x="7.9" y="438.11" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6076_type" data-name="6076_type">
+    <text id="6076_type" transform="translate(15.47 445.65)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6076_balcony" data-name="6076_balcony">
+    <line id="6076_balcony" x1="12.55" y1="438.1" x2="12.55" y2="449.22" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6076_outline" data-name="6076_outline">
+    <rect id="6076_outline" x="7.9" y="438.11" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6077_fill" data-name="6077_fill">
+    <rect id="6077_fill" x="65.96" y="437.64" width="26.1" height="11.58" style="fill: #7963ab"/>
+  </g>
+  <g id="_6077_type" data-name="6077_type">
+    <text id="6077_type" transform="translate(68.96 445.59)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6077</text>
+  </g>
+  <g id="_6077_balcony" data-name="6077_balcony">
+    <line id="6077_balcony" x1="86.95" y1="437.96" x2="86.95" y2="449.5" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6077_outline" data-name="6077_outline">
+    <rect id="6077_outline" x="65.96" y="437.64" width="26.1" height="11.58" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6078_fill" data-name="6078_fill">
+    <rect id="6078_fill" x="7.9" y="449.21" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6078_type" data-name="6078_type">
+    <text id="6078_type" transform="translate(15.47 457.06)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_6078_balcony" data-name="6078_balcony">
+    <line id="6078_balcony" x1="12.55" y1="449.35" x2="12.55" y2="460.47" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6078_outline" data-name="6078_outline">
+    <rect id="6078_outline" x="7.9" y="449.21" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6079_fill" data-name="6079_fill">
+    <rect id="6079_fill" x="65.96" y="449.21" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6079_type" data-name="6079_type">
+    <text id="6079_type" transform="translate(68.96 456.99)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6079</text>
+  </g>
+  <g id="_6079_balcony" data-name="6079_balcony">
+    <line id="6079_balcony" x1="86.95" y1="449.21" x2="86.95" y2="460.75" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6079_outline" data-name="6079_outline">
+    <rect id="6079_outline" x="65.96" y="449.21" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6080_fill" data-name="6080_fill">
+    <rect id="6080_fill" x="7.9" y="460.62" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6080_type" data-name="6080_type">
+    <text id="6080_type" transform="translate(15.47 468.51)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_6080_balcony" data-name="6080_balcony">
+    <line id="6080_balcony" x1="12.55" y1="460.75" x2="12.55" y2="471.88" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6080_outline" data-name="6080_outline">
+    <rect id="6080_outline" x="7.9" y="460.62" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6081_fill" data-name="6081_fill">
+    <rect id="6081_fill" x="65.96" y="460.62" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6081_type" data-name="6081_type">
+    <text id="6081_type" transform="translate(68.96 468.45)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6081</text>
+  </g>
+  <g id="_6081_balcony" data-name="6081_balcony">
+    <line id="6081_balcony" x1="86.95" y1="460.63" x2="86.95" y2="472.17" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6081_outline" data-name="6081_outline">
+    <rect id="6081_outline" x="65.96" y="460.62" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6082_fill" data-name="6082_fill">
+    <rect id="6082_fill" x="7.9" y="472" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6082_type" data-name="6082_type">
+    <text id="6082_type" transform="translate(15.47 480.39)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_6082_balcony" data-name="6082_balcony">
+    <line id="6082_balcony" x1="12.55" y1="472.24" x2="12.55" y2="483.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6082_outline" data-name="6082_outline">
+    <rect id="6082_outline" x="7.9" y="472" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6083_fill" data-name="6083_fill">
+    <rect id="6083_fill" x="65.96" y="472" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6083_type" data-name="6083_type">
+    <text id="6083_type" transform="translate(68.96 480.33)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6083</text>
+  </g>
+  <g id="_6083_balcony" data-name="6083_balcony">
+    <line id="6083_balcony" x1="86.95" y1="471.63" x2="86.95" y2="483.17" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6083_outline" data-name="6083_outline">
+    <rect id="6083_outline" x="65.96" y="472" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6084_fill" data-name="6084_fill">
+    <rect id="6084_fill" x="7.9" y="483.36" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6084_type" data-name="6084_type">
+    <text id="6084_type" transform="translate(15.47 491.24)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_6084_balcony" data-name="6084_balcony">
+    <line id="6084_balcony" x1="12.55" y1="483.5" x2="12.55" y2="494.63" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6084_outline" data-name="6084_outline">
+    <rect id="6084_outline" x="7.9" y="483.36" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6085_fill" data-name="6085_fill">
+    <rect id="6085_fill" x="65.96" y="483.36" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6085_type" data-name="6085_type">
+    <text id="6085_type" transform="translate(68.96 491.38)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6085</text>
+  </g>
+  <g id="_6085_balcony" data-name="6085_balcony">
+    <line id="6085_balcony" x1="86.95" y1="483.1" x2="86.95" y2="494.64" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6085_outline" data-name="6085_outline">
+    <rect id="6085_outline" x="65.96" y="483.36" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6086_fill" data-name="6086_fill">
+    <rect id="6086_fill" x="7.9" y="494.72" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6086_type" data-name="6086_type">
+    <text id="6086_type" transform="translate(15.47 502.75)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6086_balcony" data-name="6086_balcony">
+    <line id="6086_balcony" x1="12.55" y1="494.75" x2="12.55" y2="505.88" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6086_outline" data-name="6086_outline">
+    <rect id="6086_outline" x="7.9" y="494.72" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6087_fill" data-name="6087_fill">
+    <rect id="6087_fill" x="65.96" y="494.72" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6087_type" data-name="6087_type">
+    <text id="6087_type" transform="translate(68.96 502.69)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6087</text>
+  </g>
+  <g id="_6087_balcony" data-name="6087_balcony">
+    <line id="6087_balcony" x1="86.95" y1="494.52" x2="86.95" y2="506.06" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6087_outline" data-name="6087_outline">
+    <rect id="6087_outline" x="65.96" y="494.72" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6088_fill" data-name="6088_fill">
+    <rect id="6088_fill" x="7.9" y="506.15" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6088_type" data-name="6088_type">
+    <text id="6088_type" transform="translate(15.47 514.13)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_6088_balcony" data-name="6088_balcony">
+    <line id="6088_balcony" x1="12.55" y1="506.42" x2="12.55" y2="517.55" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6088_outline" data-name="6088_outline">
+    <rect id="6088_outline" x="7.9" y="506.15" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6089_fill" data-name="6089_fill">
+    <rect id="6089_fill" x="65.96" y="506.15" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6089_type" data-name="6089_type">
+    <text id="6089_type" transform="translate(68.96 514.07)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6089</text>
+  </g>
+  <g id="_6089_balcony" data-name="6089_balcony">
+    <line id="6089_balcony" x1="86.95" y1="506.15" x2="86.95" y2="517.69" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6089_outline" data-name="6089_outline">
+    <rect id="6089_outline" x="65.96" y="506.15" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6090_fill" data-name="6090_fill">
+    <rect id="6090_fill" x="7.9" y="517.51" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6090_type" data-name="6090_type">
+    <text id="6090_type" transform="translate(15.47 525.49)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">9</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_6090_balcony" data-name="6090_balcony">
+    <line id="6090_balcony" x1="12.55" y1="517.5" x2="12.55" y2="528.63" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6090_outline" data-name="6090_outline">
+    <rect id="6090_outline" x="7.9" y="517.51" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6091_fill" data-name="6091_fill">
+    <rect id="6091_fill" x="65.96" y="517.51" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6091_type" data-name="6091_type">
+    <text id="6091_type" transform="translate(68.96 525.43)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6091</text>
+  </g>
+  <g id="_6091_balcony" data-name="6091_balcony">
+    <line id="6091_balcony" x1="86.95" y1="517.62" x2="86.95" y2="529.16" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6091_outline" data-name="6091_outline">
+    <rect id="6091_outline" x="65.96" y="517.51" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6092_fill" data-name="6092_fill">
+    <rect id="6092_fill" x="7.9" y="528.69" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6092_type" data-name="6092_type">
+    <text id="6092_type" transform="translate(15.47 536.71)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">9</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_6092_balcony" data-name="6092_balcony">
+    <line id="6092_balcony" x1="12.55" y1="528.84" x2="12.55" y2="539.97" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6092_outline" data-name="6092_outline">
+    <rect id="6092_outline" x="7.9" y="528.69" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6093_fill" data-name="6093_fill">
+    <rect id="6093_fill" x="65.96" y="529.01" width="26.1" height="11.38" style="fill: #7963ab"/>
+  </g>
+  <g id="_6093_type" data-name="6093_type">
+    <text id="6093_type" transform="translate(68.96 536.74)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6093</text>
+  </g>
+  <g id="_6093_balcony" data-name="6093_balcony">
+    <line id="6093_balcony" x1="86.95" y1="529.18" x2="86.95" y2="540.72" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6093_outline" data-name="6093_outline">
+    <rect id="6093_outline" x="65.96" y="529.01" width="26.1" height="11.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6094_fill" data-name="6094_fill">
+    <rect id="6094_fill" x="7.9" y="540.27" width="26.1" height="10.17" style="fill: #7963ab"/>
+  </g>
+  <g id="_6094_type" data-name="6094_type">
+    <text id="6094_type" transform="translate(15.47 547.87)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">9</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_6094_balcony" data-name="6094_balcony">
+    <line id="6094_balcony" x1="12.55" y1="540.15" x2="12.55" y2="550.46" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6094_outline" data-name="6094_outline">
+    <rect id="6094_outline" x="7.9" y="540.27" width="26.1" height="10.17" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6095_fill" data-name="6095_fill">
+    <rect id="6095_fill" x="65.97" y="540.27" width="26.1" height="10.17" style="fill: #7963ab"/>
+  </g>
+  <g id="_6095_type" data-name="6095_type">
+    <text id="6095_type" transform="translate(68.96 547.81)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6095</text>
+  </g>
+  <g id="_6095_balcony" data-name="6095_balcony">
+    <line id="6095_balcony" x1="86.95" y1="540.15" x2="86.95" y2="550.46" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6095_outline" data-name="6095_outline">
+    <rect id="6095_outline" x="65.97" y="540.27" width="26.1" height="10.17" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6096_fill" data-name="6096_fill">
+    <rect id="6096_fill" x="7.9" y="550.38" width="26.1" height="8.42" style="fill: #0087a3"/>
+  </g>
+  <g id="_6096_type" data-name="6096_type">
+    <text id="6096_type" transform="translate(15.47 557.33)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">6</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">9</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_6096_balcony" data-name="6096_balcony">
+    <line id="6096_balcony" x1="12.55" y1="550.65" x2="12.55" y2="558.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6096_outline" data-name="6096_outline">
+    <rect id="6096_outline" x="7.9" y="550.38" width="26.1" height="8.42" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6097_fill" data-name="6097_fill">
+    <rect id="6097_fill" x="66.02" y="550.38" width="26.1" height="8.42" style="fill: #0087a3"/>
+  </g>
+  <g id="_6097_type" data-name="6097_type">
+    <text id="6097_type" transform="translate(68.96 557.27)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">6097</text>
+  </g>
+  <g id="_6097_balcony" data-name="6097_balcony">
+    <line id="6097_balcony" x1="86.95" y1="550.65" x2="86.95" y2="558.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6097_outline" data-name="6097_outline">
+    <rect id="6097_outline" x="66.02" y="550.38" width="26.1" height="8.42" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6098_fill" data-name="6098_fill">
+    <path id="6098_fill" d="M393.47,659.8c0,4.28-.08,10.21.92,14.29,1.47,4.07,5,6.88,9.75,9.25,6,3,23.24,2.83,23.24,2.83V659.8Z" transform="translate(-385.75 -101.01)" style="fill: #de95a9"/>
+  </g>
+  <g id="_6098_type" data-name="6098_type">
+    <text id="6098_type" transform="translate(26.96 579.53) rotate(-90)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.77" y="8.4">6098</tspan></text>
+  </g>
+  <g id="_6098_balcony" data-name="6098_balcony">
+    <path id="6098_balcony" d="M398.15,660c0,8.28-.47,17.56,9.58,21.91,4.45,1.88,19.75,1.75,19.75,1.75" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6098_outline" data-name="6098_outline">
+    <path id="6098_outline" d="M393.47,659.8c0,4.28-.08,10.21.92,14.29,1.47,4.07,5,6.88,9.75,9.25,6,3,23.24,2.83,23.24,2.83V659.8Z" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_6099_fill" data-name="6099_fill">
+    <path id="6099_fill" d="M478.05,659.79c0,2.33.5,8.38-.58,13-1.28,5.42-6.08,9.41-11.75,11.08-6.2,2.3-21.46,2.33-21.46,2.33V659.8Z" transform="translate(-385.75 -101.01)" style="fill: #de95a9"/>
+  </g>
+  <g id="_6099_type" data-name="6099_type">
+    <text id="6099_type" transform="translate(69.96 579.53) rotate(-90)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.77" y="8.4">6099</tspan></text>
+  </g>
+  <g id="_6099_balcony" data-name="6099_balcony">
+    <path id="6099_balcony" d="M472.75,659.79c0,4.94,1.77,18.54-8.94,21.69-6.2,2.3-19.17,2.08-19.17,2.08" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_6099_outline" data-name="6099_outline">
+    <path id="6099_outline" d="M478.05,659.79c0,2.33.5,8.38-.58,13-1.28,5.42-6.08,9.41-11.75,11.08-6.2,2.3-21.46,2.33-21.46,2.33V659.8Z" transform="translate(-385.75 -101.01)" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+</svg>

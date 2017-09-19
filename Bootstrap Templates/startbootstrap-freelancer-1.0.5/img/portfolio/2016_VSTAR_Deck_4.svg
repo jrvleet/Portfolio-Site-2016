@@ -1,0 +1,1560 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.92 587.53" width="83.92" height="587.53">
+  <title>2016_VSTAR_Deck_4</title>
+  <g id="background">
+    <path d="M453.56,673.49c0,2.27,1.34,13.37-11.14,16.75-6.66,1.8-18.85,2.37-30.65,2.3-12.48-.07-24.52-.86-29.12-1.79C372,688.63,369,681.85,369,676.7c0-11.55.09-531.73.09-540.18,0-9.69,8-30.51,42-30.51s42.49,21,42.49,30.51Z" transform="translate(-368.32 -105.51)" style="fill: #f3f4f5"/>
+    <polygon points="26.78 557.93 59.25 557.93 59.25 43.89 26.93 43.89 26.78 557.93" style="fill: none;stroke: #ccc;stroke-width: 0.5px"/>
+    <rect x="34.44" y="194.38" width="17.57" height="148.84" style="fill: #fff;stroke: #cccbca;stroke-width: 0.35000000000000003px"/>
+    <rect x="34.49" y="187.68" width="8.76" height="6.7" style="fill: #fff"/>
+    <rect x="43.25" y="187.68" width="8.76" height="6.7" style="fill: #fff"/>
+    <rect x="34.33" y="360.98" width="8.76" height="6.7" style="fill: #fff"/>
+    <rect x="43.1" y="360.98" width="8.76" height="6.7" style="fill: #fff"/>
+    <path d="M407,438.67a7,7,0,0,0-4.17,1.52v8.5h8.76v-8.56A9.37,9.37,0,0,0,407,438.67Z" transform="translate(-368.32 -105.51)" style="fill: #fff"/>
+    <path d="M415.75,438.67a7,7,0,0,0-4.17,1.52v8.5h8.76v-8.56A9.37,9.37,0,0,0,415.75,438.67Z" transform="translate(-368.32 -105.51)" style="fill: #fff"/>
+    <rect x="34.76" y="52.18" width="17.11" height="102.55" style="fill: #bcbec0"/>
+    <rect x="34.76" y="391.07" width="17.11" height="159.02" style="fill: #bcbec0"/>
+    <polygon points="47.52 377.75 39.15 377.77 39.13 380.38 34.78 380.38 34.78 385.77 39.13 385.77 39.15 388.45 47.52 388.45 47.54 385.77 51.84 385.77 51.84 380.38 47.54 380.38 47.52 377.75" style="fill: #fff"/>
+    <polygon points="47.52 167.88 39.15 167.86 39.13 165.25 34.78 165.25 34.78 159.8 39.13 159.8 39.15 157.18 47.52 157.18 47.54 159.8 51.84 159.8 51.84 165.25 47.54 165.25 47.52 167.88" style="fill: #fff"/>
+    <line x1="51.87" y1="154.73" x2="51.87" y2="168.09" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10"/>
+    <line x1="34.76" y1="168.09" x2="34.76" y2="154.73" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10"/>
+    <line x1="51.87" y1="377.96" x2="51.87" y2="391.31" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+    <line x1="34.76" y1="391.31" x2="34.76" y2="377.96" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+    <rect x="34.76" y="52.18" width="17.11" height="102.55" style="fill: #fff;stroke: #cccccb;stroke-miterlimit: 10"/>
+    <rect x="34.76" y="391.07" width="17.11" height="159.02" style="fill: #f3f4f5;stroke: #cccccb"/>
+    <rect x="34.44" y="194.38" width="17.57" height="148.84" style="fill: none;stroke: #cccccb;stroke-miterlimit: 10"/>
+    <rect x="37.43" y="360.98" width="2.47" height="1.44" style="fill: none"/>
+    <rect x="46.08" y="360.98" width="2.48" height="1.44" style="fill: none"/>
+    <rect x="37.43" y="341.7" width="2.47" height="1.44" style="fill: none"/>
+    <rect x="46.08" y="341.7" width="2.48" height="1.44" style="fill: none"/>
+    <rect x="34.33" y="360.98" width="8.76" height="6.7" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    <rect x="37.43" y="360.98" width="2.47" height="1.44" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <rect x="43.1" y="360.98" width="8.76" height="6.7" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    <rect x="46.08" y="360.98" width="2.48" height="1.44" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <path d="M407,438.67a7,7,0,0,0-4.17,1.52v8.5h8.76v-8.56A9.37,9.37,0,0,0,407,438.67Z" transform="translate(-368.32 -105.51)" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    <path d="M415.75,438.67a7,7,0,0,0-4.17,1.52v8.5h8.76v-8.56A9.37,9.37,0,0,0,415.75,438.67Z" transform="translate(-368.32 -105.51)" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    <rect x="37.43" y="341.7" width="2.47" height="1.44" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <rect x="46.08" y="341.7" width="2.48" height="1.44" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <rect x="37.68" y="187.69" width="2.58" height="1.64" style="fill: none"/>
+    <rect x="46.24" y="187.69" width="2.58" height="1.64" style="fill: none"/>
+    <rect x="34.46" y="187.68" width="8.79" height="6.7" style="fill: none;stroke: #cccccb;stroke-width: 0.75px"/>
+    <rect x="37.68" y="187.67" width="2.58" height="1.66" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <rect x="43.25" y="187.68" width="8.76" height="6.7" style="fill: none;stroke: #cccccb;stroke-width: 0.75px"/>
+    <rect x="46.24" y="187.67" width="2.58" height="1.66" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+    <g>
+      <polyline points="39.13 157.11 39.13 167.85 47.55 167.87 47.55 157.11" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+      <line x1="34.74" y1="161.16" x2="51.9" y2="161.16" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="34.74" y1="162.53" x2="51.9" y2="162.53" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="34.74" y1="163.86" x2="51.87" y2="163.86" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="39.14" y1="158.5" x2="47.54" y2="158.5" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="39.14" y1="159.83" x2="47.54" y2="159.83" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="39.12" y1="165.23" x2="47.56" y2="165.23" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="39.12" y1="166.56" x2="47.54" y2="166.56" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <polyline points="39.11 165.23 34.74 165.23 34.74 159.81 39.11 159.81" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+      <polyline points="47.52 165.23 51.88 165.23 51.88 159.81 47.52 159.81" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    </g>
+    <g>
+      <polyline points="39.13 388.52 39.13 377.77 47.55 377.76 47.55 388.52" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+      <line x1="34.74" y1="384.46" x2="51.9" y2="384.46" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="34.74" y1="383.1" x2="51.9" y2="383.1" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="34.74" y1="381.77" x2="51.87" y2="381.77" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="39.14" y1="387.13" x2="47.54" y2="387.13" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="39.14" y1="385.81" x2="47.54" y2="385.81" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="39.12" y1="380.4" x2="47.56" y2="380.4" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <line x1="39.12" y1="379.07" x2="47.54" y2="379.07" style="fill: none;stroke: #cccccb;stroke-width: 0.25px"/>
+      <polyline points="39.11 380.4 34.74 380.4 34.74 385.82 39.11 385.82" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+      <polyline points="47.52 380.4 51.88 380.4 51.88 385.82 47.52 385.82" style="fill: none;stroke: #cccccb;stroke-width: 0.5px"/>
+    </g>
+    <text transform="translate(44.9 357.7) rotate(-90) scale(1 1.16)" style="font-size: 5.498370170593262px;fill: #cccccb;font-family: Arial-BoldMT, Arial;font-weight: 700">Lifts</text>
+    <text transform="translate(45.2 186.52) rotate(-90) scale(1 1.16)" style="font-size: 5.498370170593262px;fill: #cccccb;font-family: Arial-BoldMT, Arial;font-weight: 700">Lifts</text>
+    <rect x="34.5" y="251.65" width="7" height="21.67" style="fill: #fff;stroke: #cccccb;stroke-width: 0.5px"/>
+    <text transform="translate(39.67 272.67) rotate(-90) scale(1 1.16)" style="font-size: 3.5999999046325684px;fill: #cccccb;font-family: Arial-BoldMT, Arial;font-weight: 700">Launderette</text>
+    <path d="M453.56,673.49c0,2.27,1.34,13.37-11.14,16.75-6.66,1.8-18.85,2.37-30.65,2.3-12.48-.07-24.37-.86-29-1.79-10.62-2.13-13.85-8.9-13.85-14.06,0-11.55.09-531.73.09-540.18,0-9.69,8-30.51,42-30.51s42.49,21,42.49,30.51Z" transform="translate(-368.32 -105.51)" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4000_fill" data-name="4000_fill">
+    <path id="4000_fill" d="M410.85,149.32V111c-26.19,0-36.68,16.71-36.68,30.58h21.08l.08,7.86Z" transform="translate(-368.32 -105.51)" style="fill: #cc4f73"/>
+  </g>
+  <g id="_4000_type" data-name="4000_type">
+    <text id="4000_type" transform="translate(25.71 32.15) rotate(-90)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.77" y="8.4">4000</tspan></text>
+  </g>
+  <g id="_4000_balcony" data-name="4000_balcony">
+    <line id="4000_balcony" x1="13.1" y1="16.99" x2="13.1" y2="35.9" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4000_outline" data-name="4000_outline">
+    <path id="4000_outline" d="M410.85,149.32V111c-26.19,0-36.68,16.71-36.68,30.58h21.08l.08,7.86Z" transform="translate(-368.32 -105.51)" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4001_fill" data-name="4001_fill">
+    <path id="4001_fill" d="M410.85,111v38.36l16.66.1v-7.88l21,0C448.48,123.33,432,111,410.85,111Z" transform="translate(-368.32 -105.51)" style="fill: #cc4f73"/>
+  </g>
+  <g id="_4001_type" data-name="4001_type">
+    <text id="4001_type" transform="translate(54.96 32.15) rotate(-90)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.77" y="8.4">4001</tspan></text>
+  </g>
+  <g id="_4001_balcony" data-name="4001_balcony">
+    <line id="4001_balcony" x1="72.12" y1="16.99" x2="72.12" y2="35.9" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4001_outline" data-name="4001_outline">
+    <path id="4001_outline" d="M410.85,111v38.36l16.66.1v-7.88l21,0C448.48,123.33,432,111,410.85,111Z" transform="translate(-368.32 -105.51)" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4002_fill" data-name="4002_fill">
+    <rect id="4002_fill" x="0.84" y="36.17" width="26.1" height="8.85" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4002_type" data-name="4002_type">
+    <text id="4002_type" transform="translate(8.57 42.97)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4002_balcony" data-name="4002_balcony">
+    <line id="4002_balcony" x1="5.74" y1="36.02" x2="5.74" y2="45.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4002_outline" data-name="4002_outline">
+    <rect id="4002_outline" x="0.84" y="36.17" width="26.1" height="8.85" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4003_fill" data-name="4003_fill">
+    <rect id="4003_fill" x="59.21" y="36.17" width="26.1" height="8.85" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4003_type" data-name="4003_type">
+    <text id="4003_type" transform="translate(61.91 43.25)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4003</text>
+  </g>
+  <g id="_4003_balcony" data-name="4003_balcony">
+    <line id="4003_balcony" x1="80.08" y1="36.02" x2="80.08" y2="45.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4003_outline" data-name="4003_outline">
+    <rect id="4003_outline" x="59.32" y="36.17" width="26.1" height="8.85" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4004_fill" data-name="4004_fill">
+    <rect id="4004_fill" x="0.84" y="45.38" width="26.1" height="8.85" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4004_type" data-name="4004_type">
+    <text id="4004_type" transform="translate(8.57 51.95)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="4004_balcony" data-name="4004_balcony">
+    <line id="4004_balcony" x1="5.74" y1="45.15" x2="5.74" y2="54.51" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4004_outline" data-name="4004_outline">
+    <rect id="4004_outline" x="0.84" y="45.38" width="26.1" height="8.85" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4005_fill" data-name="4005_fill">
+    <rect id="4005_fill" x="59.32" y="45.38" width="26.1" height="8.85" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4005_type" data-name="4005_type">
+    <text id="4005_type" transform="translate(61.91 51.89)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4005</text>
+  </g>
+  <g id="_4005_balcony" data-name="4005_balcony">
+    <line id="4005_balcony" x1="80.08" y1="44.97" x2="80.08" y2="54.33" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4005_outline" data-name="4005_outline">
+    <rect id="4005_outline" x="59.32" y="45.38" width="26.1" height="8.85" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4006_fill" data-name="4006_fill">
+    <rect id="4006_fill" x="0.84" y="54.55" width="26.1" height="8.85" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4006_type" data-name="4006_type">
+    <text id="4006_type" transform="translate(8.57 61.21)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4006_balcony" data-name="4006_balcony">
+    <line id="4006_balcony" x1="5.74" y1="54.55" x2="5.74" y2="63.91" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4006_outline" data-name="4006_outline">
+    <rect id="4006_outline" x="0.84" y="54.55" width="26.1" height="8.85" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4007_fill" data-name="4007_fill">
+    <rect id="4007_fill" x="59.32" y="54.47" width="26.1" height="8.85" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4007_type" data-name="4007_type">
+    <text id="4007_type" transform="translate(61.91 60.85)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4007</text>
+  </g>
+  <g id="_4007_balcony" data-name="4007_balcony">
+    <line id="4007_balcony" x1="80.08" y1="54.22" x2="80.08" y2="63.58" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4007_outline" data-name="4007_outline">
+    <rect id="4007_outline" x="59.32" y="54.47" width="26.1" height="8.85" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4008_fill" data-name="4008_fill">
+    <rect id="4008_fill" x="0.84" y="63.72" width="26.1" height="8.85" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4008_type" data-name="4008_type">
+    <text id="4008_type" transform="translate(8.57 70.65)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4008_balcony" data-name="4008_balcony">
+    <line id="4008_balcony" x1="5.74" y1="63.49" x2="5.74" y2="72.85" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4008_outline" data-name="4008_outline">
+    <rect id="4008_outline" x="0.84" y="63.72" width="26.1" height="8.85" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4009_fill" data-name="4009_fill">
+    <rect id="4009_fill" x="59.32" y="63.72" width="26.1" height="8.85" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4009_type" data-name="4009_type">
+    <text id="4009_type" transform="translate(61.91 70.59)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4009</text>
+  </g>
+  <g id="_4009_balcony" data-name="4009_balcony">
+    <line id="4009_balcony" x1="80.08" y1="63.28" x2="80.08" y2="72.64" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4009_outline" data-name="4009_outline">
+    <rect id="4009_outline" x="59.32" y="63.72" width="26.1" height="8.85" style="fill: none;stroke: #989897"/>
+  </g>
+  <g id="_4010_fill" data-name="4010_fill">
+    <rect id="4010_fill" x="0.84" y="72.57" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4010_type" data-name="4010_type">
+    <text id="4010_type" transform="translate(8.82 80.71)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4010_balcony" data-name="4010_balcony">
+    <line id="4010_balcony" x1="5.74" y1="72.57" x2="5.74" y2="83.16" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4010_outline" data-name="4010_outline">
+    <rect id="4010_outline" x="0.84" y="72.57" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4011_fill" data-name="4011_fill">
+    <rect id="4011_fill" x="59.32" y="72.57" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4011_type" data-name="4011_type">
+    <text id="4011_type" transform="translate(62.16 80.65)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4011</text>
+  </g>
+  <g id="_4011_balcony" data-name="4011_balcony">
+    <line id="4011_balcony" x1="80.08" y1="72.64" x2="80.08" y2="83.3" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4011_outline" data-name="4011_outline">
+    <rect id="4011_outline" x="59.32" y="72.57" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4012_fill" data-name="4012_fill">
+    <rect id="4012_fill" x="0.84" y="83.24" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4012_type" data-name="4012_type">
+    <text id="4012_type" transform="translate(8.57 91.27)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4012_balcony" data-name="4012_balcony">
+    <line id="4012_balcony" x1="5.74" y1="83.19" x2="5.74" y2="93.79" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4012_outline" data-name="4012_outline">
+    <rect id="4012_outline" x="0.84" y="83.24" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4013_fill" data-name="4013_fill">
+    <rect id="4013_fill" x="59.32" y="83.24" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4013_type" data-name="4013_type">
+    <text id="4013_type" transform="translate(61.91 91.2)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4013</text>
+  </g>
+  <g id="_4013_balcony" data-name="4013_balcony">
+    <line id="4013_balcony" x1="80.08" y1="83.23" x2="80.08" y2="93.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4013_outline" data-name="4013_outline">
+    <rect id="4013_outline" x="59.32" y="83.24" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4014_fill" data-name="4014_fill">
+    <rect id="4014_fill" x="0.84" y="93.73" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4014_type" data-name="4014_type">
+    <text id="4014_type" transform="translate(8.57 102.05)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4014_balcony" data-name="4014_balcony">
+    <line id="4014_balcony" x1="5.74" y1="93.94" x2="5.74" y2="104.54" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4014_outline" data-name="4014_outline">
+    <rect id="4014_outline" x="0.84" y="93.73" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4015_fill" data-name="4015_fill">
+    <rect id="4015_fill" x="59.32" y="93.81" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4015_type" data-name="4015_type">
+    <text id="4015_type" transform="translate(61.91 101.99)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4015</text>
+  </g>
+  <g id="_4015_balcony" data-name="4015_balcony">
+    <line id="4015_balcony" x1="80.08" y1="93.92" x2="80.08" y2="104.58" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4015_outline" data-name="4015_outline">
+    <rect id="4015_outline" x="59.32" y="93.81" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4016_fill" data-name="4016_fill">
+    <rect id="4016_fill" x="0.84" y="104.43" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4016_type" data-name="4016_type">
+    <text id="4016_type" transform="translate(8.57 112.38)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4016_balcony" data-name="4016_balcony">
+    <line id="4016_balcony" x1="5.74" y1="104.69" x2="5.74" y2="115.29" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4016_outline" data-name="4016_outline">
+    <rect id="4016_outline" x="0.84" y="104.43" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4017_fill" data-name="4017_fill">
+    <rect id="4017_fill" x="59.32" y="104.43" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4017_type" data-name="4017_type">
+    <text id="4017_type" transform="translate(61.91 112.32)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4017</text>
+  </g>
+  <g id="_4017_balcony" data-name="4017_balcony">
+    <line id="4017_balcony" x1="80.08" y1="104.17" x2="80.08" y2="114.83" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4017_outline" data-name="4017_outline">
+    <rect id="4017_outline" x="59.32" y="104.43" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4018_fill" data-name="4018_fill">
+    <rect id="4018_fill" x="0.84" y="115.07" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4018_type" data-name="4018_type">
+    <text id="4018_type" transform="translate(8.82 122.77)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4018_balcony" data-name="4018_balcony">
+    <line id="4018_balcony" x1="5.74" y1="115.44" x2="5.74" y2="126.04" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4018_outline" data-name="4018_outline">
+    <rect id="4018_outline" x="0.84" y="115.07" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4019_fill" data-name="4019_fill">
+    <rect id="4019_fill" x="59.32" y="115.07" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4019_type" data-name="4019_type">
+    <text id="4019_type" transform="translate(62.16 122.71)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4019</text>
+  </g>
+  <g id="_4019_balcony" data-name="4019_balcony">
+    <line id="4019_balcony" x1="80.08" y1="115.17" x2="80.08" y2="125.83" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4019_outline" data-name="4019_outline">
+    <rect id="4019_outline" x="59.32" y="115.07" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4020_fill" data-name="4020_fill">
+    <rect id="4020_fill" x="0.84" y="125.78" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4020_type" data-name="4020_type">
+    <text id="4020_type" transform="translate(8.82 133.22)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">2</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4020_balcony" data-name="4020_balcony">
+    <line id="4020_balcony" x1="5.74" y1="125.69" x2="5.74" y2="136.29" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4020_outline" data-name="4020_outline">
+    <rect id="4020_outline" x="0.84" y="125.78" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4021_fill" data-name="4021_fill">
+    <rect id="4021_fill" x="59.32" y="125.86" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4021_type" data-name="4021_type">
+    <text id="4021_type" transform="translate(62.16 133.16)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4021</text>
+  </g>
+  <g id="_4021_balcony" data-name="4021_balcony">
+    <line id="4021_balcony" x1="80.08" y1="125.86" x2="80.08" y2="136.52" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4021_outline" data-name="4021_outline">
+    <rect id="4021_outline" x="59.32" y="125.86" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4022_fill" data-name="4022_fill">
+    <rect id="4022_fill" x="0.84" y="136.26" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4022_type" data-name="4022_type">
+    <text id="4022_type" transform="translate(8.82 143.72)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">2</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4022_balcony" data-name="4022_balcony">
+    <line id="4022_balcony" x1="5.74" y1="136.17" x2="5.74" y2="146.77" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4022_outline" data-name="4022_outline">
+    <rect id="4022_outline" x="0.84" y="136.26" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4023_fill" data-name="4023_fill">
+    <rect id="4023_fill" x="59.32" y="136.26" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4023_type" data-name="4023_type">
+    <text id="4023_type" transform="translate(62.16 143.56)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4023</text>
+  </g>
+  <g id="_4023_balcony" data-name="4023_balcony">
+    <line id="4023_balcony" x1="80.08" y1="136.24" x2="80.08" y2="146.9" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4023_outline" data-name="4023_outline">
+    <rect id="4023_outline" x="59.32" y="136.26" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4024_fill" data-name="4024_fill">
+    <rect id="4024_fill" x="0.84" y="146.52" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4024_type" data-name="4024_type">
+    <text id="4024_type" transform="translate(8.82 154.67)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">2</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4024_balcony" data-name="4024_balcony">
+    <line id="4024_balcony" x1="5.74" y1="146.8" x2="5.74" y2="157.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4024_outline" data-name="4024_outline">
+    <rect id="4024_outline" x="0.84" y="146.52" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4025_fill" data-name="4025_fill">
+    <rect id="4025_fill" x="59.32" y="146.82" width="26.1" height="10.66" style="fill: #cdc4de"/>
+  </g>
+  <g id="_4025_type" data-name="4025_type">
+    <text id="4025_type" transform="translate(62.16 154.46)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4025</text>
+  </g>
+  <g id="_4025_balcony" data-name="4025_balcony">
+    <line id="4025_balcony" x1="80.08" y1="146.92" x2="80.08" y2="157.59" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4025_outline" data-name="4025_outline">
+    <rect id="4025_outline" x="59.32" y="146.82" width="26.1" height="10.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4026_fill" data-name="4026_fill">
+    <rect id="4026_fill" x="0.84" y="157.52" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4026_type" data-name="4026_type">
+    <text id="4026_type" transform="translate(8.82 164.16)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">2</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4026_balcony" data-name="4026_balcony">
+    <line id="4026_balcony" x1="5.74" y1="157.39" x2="5.74" y2="166" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4026_outline" data-name="4026_outline">
+    <rect id="4026_outline" x="0.84" y="157.52" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4027_fill" data-name="4027_fill">
+    <rect id="4027_fill" x="59.32" y="157.52" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4027_type" data-name="4027_type">
+    <text id="4027_type" transform="translate(62.16 164.09)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4027</text>
+  </g>
+  <g id="_4027_balcony" data-name="4027_balcony">
+    <line id="4027_balcony" x1="80.08" y1="157.54" x2="80.08" y2="166" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4027_outline" data-name="4027_outline">
+    <rect id="4027_outline" x="59.32" y="157.52" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4028_fill" data-name="4028_fill">
+    <rect id="4028_fill" x="0.84" y="166.02" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4028_type" data-name="4028_type">
+    <text id="4028_type" transform="translate(8.82 172.46)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">2</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4028_balcony" data-name="4028_balcony">
+    <line id="4028_balcony" x1="5.74" y1="166.14" x2="5.74" y2="174.75" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4028_outline" data-name="4028_outline">
+    <rect id="4028_outline" x="0.84" y="166.02" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4029_fill" data-name="4029_fill">
+    <rect id="4029_fill" x="59.32" y="166" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4029_type" data-name="4029_type">
+    <text id="4029_type" transform="translate(62.16 172.4)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4029</text>
+  </g>
+  <g id="_4029_balcony" data-name="4029_balcony">
+    <line id="4029_balcony" x1="80.08" y1="165.93" x2="80.08" y2="174.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4029_outline" data-name="4029_outline">
+    <rect id="4029_outline" x="59.32" y="166" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4030_fill" data-name="4030_fill">
+    <rect id="4030_fill" x="0.84" y="174.6" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4030_type" data-name="4030_type">
+    <text id="4030_type" transform="translate(8.82 180.93)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4030_balcony" data-name="4030_balcony">
+    <line id="4030_balcony" x1="5.74" y1="174.49" x2="5.74" y2="183.1" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4030_outline" data-name="4030_outline">
+    <rect id="4030_outline" x="0.84" y="174.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4031_fill" data-name="4031_fill">
+    <rect id="4031_fill" x="59.32" y="174.27" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4031_type" data-name="4031_type">
+    <text id="4031_type" transform="translate(62.16 180.87)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4031</text>
+  </g>
+  <g id="_4031_balcony" data-name="4031_balcony">
+    <line id="4031_balcony" x1="80.08" y1="174.3" x2="80.08" y2="182.76" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4031_outline" data-name="4031_outline">
+    <rect id="4031_outline" x="59.32" y="174.27" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4032_fill" data-name="4032_fill">
+    <rect id="4032_fill" x="0.84" y="182.99" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4032_type" data-name="4032_type">
+    <text id="4032_type" transform="translate(8.82 189.63)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4032_balcony" data-name="4032_balcony">
+    <line id="4032_balcony" x1="5.74" y1="182.87" x2="5.74" y2="191.47" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4032_outline" data-name="4032_outline">
+    <rect id="4032_outline" x="0.84" y="182.99" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4033_fill" data-name="4033_fill">
+    <rect id="4033_fill" x="59.32" y="182.99" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4033_type" data-name="4033_type">
+    <text id="4033_type" transform="translate(62.16 189.57)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4033</text>
+  </g>
+  <g id="_4033_balcony" data-name="4033_balcony">
+    <line id="4033_balcony" x1="80.08" y1="182.9" x2="80.08" y2="191.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4033_outline" data-name="4033_outline">
+    <rect id="4033_outline" x="59.32" y="182.99" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4034_fill" data-name="4034_fill">
+    <rect id="4034_fill" x="0.84" y="191.6" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4034_type" data-name="4034_type">
+    <text id="4034_type" transform="translate(8.82 198.13)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4034_balcony" data-name="4034_balcony">
+    <line id="4034_balcony" x1="5.74" y1="191.49" x2="5.74" y2="200.1" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4034_outline" data-name="4034_outline">
+    <rect id="4034_outline" x="0.84" y="191.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4035_fill" data-name="4035_fill">
+    <rect id="4035_fill" x="59.32" y="191.6" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4035_type" data-name="4035_type">
+    <text id="4035_type" transform="translate(62.16 198.07)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4035</text>
+  </g>
+  <g id="_4035_balcony" data-name="4035_balcony">
+    <line id="4035_balcony" x1="80.08" y1="191.65" x2="80.08" y2="200.11" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4035_outline" data-name="4035_outline">
+    <rect id="4035_outline" x="59.32" y="191.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4036_fill" data-name="4036_fill">
+    <rect id="4036_fill" x="0.84" y="199.93" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4036_type" data-name="4026_type">
+    <text id="4036_type" transform="translate(8.82 206.64)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4036_balcony" data-name="4036_balcony">
+    <line id="4036_balcony" x1="5.74" y1="199.74" x2="5.74" y2="208.35" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4036_outline" data-name="4036_outline">
+    <rect id="4036_outline" x="0.84" y="199.93" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4037_fill" data-name="4037_fill">
+    <rect id="4037_fill" x="59.32" y="199.93" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4037_type" data-name="4037_type">
+    <text id="4037_type" transform="translate(62.16 206.58)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4037</text>
+  </g>
+  <g id="_4037_balcony" data-name="4037_balcony">
+    <line id="4037_balcony" x1="80.08" y1="199.9" x2="80.08" y2="208.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4037_outline" data-name="4037_outline">
+    <rect id="4037_outline" x="59.32" y="199.93" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4038_fill" data-name="4028_fill">
+    <rect id="4038_fill" x="0.84" y="208.43" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4038_type" data-name="4038_type">
+    <text id="4038_type" transform="translate(8.82 215.06)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">3</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4038_balcony" data-name="4038_balcony">
+    <line id="4038_balcony" x1="5.74" y1="208.3" x2="5.74" y2="216.91" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4038_outline" data-name="4038_outline">
+    <rect id="4038_outline" x="0.84" y="208.43" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4039_fill" data-name="4039_fill">
+    <rect id="4039_fill" x="59.32" y="208.43" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4039_type" data-name="4039_type">
+    <text id="4039_type" transform="translate(62.16 215)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4039</text>
+  </g>
+  <g id="_4039_balcony" data-name="4039_balcony">
+    <line id="4039_balcony" x1="80.08" y1="208.46" x2="80.08" y2="216.92" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4039_outline" data-name="4039_outline">
+    <rect id="4039_outline" x="59.32" y="208.43" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4040_fill" data-name="4040_fill">
+    <rect id="4040_fill" x="0.84" y="216.99" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4040_type" data-name="4040_type">
+    <text id="4040_type" transform="translate(8.82 223.37)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4040_balcony" data-name="4040_balcony">
+    <line id="4040_balcony" x1="5.74" y1="216.62" x2="5.74" y2="225.22" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4040_outline" data-name="4040_outline">
+    <rect id="4040_outline" x="0.84" y="216.99" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4041_fill" data-name="4041_fill">
+    <rect id="4041_fill" x="59.32" y="216.85" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4041_type" data-name="4041_type">
+    <text id="4041_type" transform="translate(62.16 223.31)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4041</text>
+  </g>
+  <g id="_4041_balcony" data-name="4041_balcony">
+    <line id="4041_balcony" x1="80.05" y1="216.81" x2="80.05" y2="225.27" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4041_outline" data-name="4041_outline">
+    <rect id="4041_outline" x="59.32" y="216.85" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4042_fill" data-name="4042_fill">
+    <rect id="4042_fill" x="0.84" y="225.18" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4042_type" data-name="4042_type">
+    <text id="4042_type" transform="translate(8.82 232.04)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4042_balcony" data-name="4042_balcony">
+    <line id="4042_balcony" x1="5.74" y1="224.95" x2="5.74" y2="233.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4042_outline" data-name="4042_outline">
+    <rect id="4042_outline" x="0.84" y="225.18" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4043_fill" data-name="4043_fill">
+    <rect id="4043_fill" x="59.32" y="225.38" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4043_type" data-name="4043_type">
+    <text id="4043_type" transform="translate(62.16 231.98)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4043</text>
+  </g>
+  <g id="_4043_balcony" data-name="4043_balcony">
+    <line id="4043_balcony" x1="80.05" y1="225.5" x2="80.05" y2="233.96" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4043_outline" data-name="4043_outline">
+    <rect id="4043_outline" x="59.32" y="225.38" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4044_fill" data-name="4044_fill">
+    <rect id="4044_fill" x="0.84" y="234.02" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4044_type" data-name="4044_type">
+    <text id="4044_type" transform="translate(8.82 240.39)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4044_balcony" data-name="4044_balcony">
+    <line id="4044_balcony" x1="5.74" y1="233.91" x2="5.74" y2="242.51" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4044_outline" data-name="4044_outline">
+    <rect id="4044_outline" x="0.84" y="234.02" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4045_fill" data-name="4045_fill">
+    <rect id="4045_fill" x="59.32" y="233.99" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4045_type" data-name="4045_type">
+    <text id="4045_type" transform="translate(62.16 240.33)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4045</text>
+  </g>
+  <g id="_4045_balcony" data-name="4045_balcony">
+    <line id="4045_balcony" x1="80.05" y1="233.81" x2="80.05" y2="242.27" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4045_outline" data-name="4045_outline">
+    <rect id="4045_outline" x="59.32" y="233.99" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4046_fill" data-name="4046_fill">
+    <rect id="4046_fill" x="0.84" y="242.43" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4046_type" data-name="4046_type">
+    <text id="4046_type" transform="translate(8.82 248.85)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4046_balcony" data-name="4046_balcony">
+    <line id="4046_balcony" x1="5.74" y1="242.47" x2="5.74" y2="251.08" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4046_outline" data-name="4046_outline">
+    <rect id="4046_outline" x="0.84" y="242.43" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4047_fill" data-name="4047_fill">
+    <rect id="4047_fill" x="59.32" y="242.4" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4047_type" data-name="4047_type">
+    <text id="4047_type" transform="translate(62.16 248.99)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4047</text>
+  </g>
+  <g id="_4047_balcony" data-name="4047_balcony">
+    <line id="4047_balcony" x1="80.05" y1="242.19" x2="80.05" y2="250.65" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4047_outline" data-name="4047_outline">
+    <rect id="4047_outline" x="59.32" y="242.4" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4048_fill" data-name="4048_fill">
+    <rect id="4048_fill" x="0.84" y="250.77" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4048_type" data-name="4048_type">
+    <text id="4048_type" transform="translate(8.82 257.51)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">4</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4048_balcony" data-name="4048_balcony">
+    <line id="4048_balcony" x1="5.74" y1="251" x2="5.74" y2="259.61" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4048_outline" data-name="4048_outline">
+    <rect id="4048_outline" x="0.84" y="250.77" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4049_fill" data-name="4049_fill">
+    <rect id="4049_fill" x="59.32" y="250.77" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4049_type" data-name="4049_type">
+    <text id="4049_type" transform="translate(62.16 257.45)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4049</text>
+  </g>
+  <g id="_4049_balcony" data-name="4049_balcony">
+    <line id="4049_balcony" x1="80.05" y1="250.56" x2="80.05" y2="259.02" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4049_outline" data-name="4049_outline">
+    <rect id="4049_outline" x="59.32" y="250.77" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4050_fill" data-name="4050_fill">
+    <rect id="4050_fill" x="0.86" y="259.78" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4050_type" data-name="4050_type">
+    <text id="4050_type" transform="translate(8.82 266.18)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4050_balcony" data-name="4050_balcony">
+    <line id="4050_balcony" x1="5.74" y1="259.56" x2="5.74" y2="268.17" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4050_outline" data-name="4050_outline">
+    <rect id="4050_outline" x="0.87" y="259.78" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4051_fill" data-name="4051_fill">
+    <rect id="4051_fill" x="59.32" y="259.6" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4051_type" data-name="4051_type">
+    <text id="4051_type" transform="translate(62.16 266.12)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4051</text>
+  </g>
+  <g id="_4051_balcony" data-name="4051_balcony">
+    <line id="4051_balcony" x1="80.05" y1="259.25" x2="80.05" y2="267.71" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4051_outline" data-name="4051_outline">
+    <rect id="4051_outline" x="59.32" y="259.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4052_fill" data-name="4052_fill">
+    <rect id="4052_fill" x="0.87" y="268.43" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4052_type" data-name="4052_type">
+    <text id="4052_type" transform="translate(8.82 275.13)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4052_balcony" data-name="4052_balcony">
+    <line id="4052_balcony" x1="5.74" y1="268.12" x2="5.74" y2="276.73" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4052_outline" data-name="4052_outline">
+    <rect id="4052_outline" x="0.87" y="268.43" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4053_fill" data-name="4035_fill">
+    <rect id="4053_fill" x="59.32" y="268.43" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4053_type" data-name="4035_type">
+    <text id="4053_type" transform="translate(62.16 275.07)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4053</text>
+  </g>
+  <g id="_4053_balcony" data-name="4053_balcony">
+    <line id="4053_balcony" x1="80.05" y1="268.19" x2="80.05" y2="276.65" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4053_outline" data-name="4053_outline">
+    <rect id="4053_outline" x="59.32" y="268.43" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4054_fill" data-name="4054_fill">
+    <rect id="4054_fill" x="0.87" y="277.1" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4054_type" data-name="4054_type">
+    <text id="4054_type" transform="translate(8.84 283.8)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4054_balcony" data-name="4054_balcony">
+    <line id="4054_balcony" x1="5.74" y1="277" x2="5.74" y2="285.61" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4054_outline" data-name="4054_outline">
+    <rect id="4054_outline" x="0.87" y="277.1" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4055_fill" data-name="4055_fill">
+    <rect id="4055_fill" x="59.32" y="277.1" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4055_type" data-name="4055_type">
+    <text id="4055_type" transform="translate(62.16 283.72)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4055</text>
+  </g>
+  <g id="_4055_balcony" data-name="4055_balcony">
+    <line id="4055_balcony" x1="80.05" y1="277.06" x2="80.05" y2="285.52" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4055_outline" data-name="4055_outline">
+    <rect id="4055_outline" x="59.32" y="277.1" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4056_fill" data-name="4056_fill">
+    <rect id="4056_fill" x="0.87" y="285.6" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4056_type" data-name="4056_type">
+    <text id="4056_type" transform="translate(8.82 291.98)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4056_balcony" data-name="4056_balcony">
+    <line id="4056_balcony" x1="5.74" y1="285.37" x2="5.74" y2="293.98" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4056_outline" data-name="4056_outline">
+    <rect id="4056_outline" x="0.87" y="285.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4057_fill" data-name="4057_fill">
+    <rect id="4057_fill" x="59.32" y="285.38" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4057_type" data-name="4057_type">
+    <text id="4057_type" transform="translate(62.16 291.92)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4057</text>
+  </g>
+  <g id="_4057_balcony" data-name="4057_balcony">
+    <line id="4057_balcony" x1="80.05" y1="285.5" x2="80.05" y2="293.96" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4057_outline" data-name="4057_outline">
+    <rect id="4057_outline" x="59.32" y="285.38" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4058_fill" data-name="4058_fill">
+    <rect id="4058_fill" x="0.87" y="293.85" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4058_type" data-name="4058_type">
+    <text id="4058_type" transform="translate(8.82 300.94)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">5</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4058_balcony" data-name="4058_balcony">
+    <line id="4058_balcony" x1="5.74" y1="293.87" x2="5.74" y2="302.48" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4058_outline" data-name="4058_outline">
+    <rect id="4058_outline" x="0.87" y="293.85" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4059_fill" data-name="4059_fill">
+    <rect id="4059_fill" x="59.32" y="293.85" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4059_type" data-name="4059_type">
+    <text id="4059_type" transform="translate(62.16 300.58)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4059</text>
+  </g>
+  <g id="_4059_balcony" data-name="4059_balcony">
+    <line id="4059_balcony" x1="80.05" y1="294.13" x2="80.05" y2="302.59" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4059_outline" data-name="4059_outline">
+    <rect id="4059_outline" x="59.32" y="293.85" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4060_fill" data-name="4060_fill">
+    <rect id="4060_fill" x="0.87" y="302.52" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4060_type" data-name="4060_type">
+    <text id="4060_type" transform="translate(8.82 309.12)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4060_balcony" data-name="4060_balcony">
+    <line id="4060_balcony" x1="5.74" y1="302.5" x2="5.74" y2="311.11" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4060_outline" data-name="4060_outline">
+    <rect id="4060_outline" x="0.87" y="302.52" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4061_fill" data-name="4061_fill">
+    <rect id="4061_fill" x="59.32" y="302.51" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4061_type" data-name="4061_type">
+    <text id="4061_type" transform="translate(62.16 309.06)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4061</text>
+  </g>
+  <g id="_4061_balcony" data-name="4061_balcony">
+    <line id="4061_balcony" x1="80.05" y1="302.57" x2="80.05" y2="311.03" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4061_outline" data-name="4061_outline">
+    <rect id="4061_outline" x="59.32" y="302.51" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4062_fill" data-name="4062_fill">
+    <rect id="4062_fill" x="0.87" y="311.18" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4062_type" data-name="4062_type">
+    <text id="4062_type" transform="translate(8.82 317.78)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4062_balcony" data-name="4062_balcony">
+    <line id="4062_balcony" x1="5.74" y1="311.06" x2="5.74" y2="319.67" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4062_outline" data-name="4062_outline">
+    <rect id="4062_outline" x="0.87" y="311.18" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4063_fill" data-name="4063_fill">
+    <rect id="4063_fill" x="59.32" y="311.35" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4063_type" data-name="4063_type">
+    <text id="4063_type" transform="translate(62.16 317.72)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4063</text>
+  </g>
+  <g id="_4063_balcony" data-name="4063_balcony">
+    <line id="4063_balcony" x1="80.05" y1="310.95" x2="80.05" y2="319.41" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4063_outline" data-name="4063_outline">
+    <rect id="4063_outline" x="59.32" y="311.35" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4064_fill" data-name="4064_fill">
+    <rect id="4064_fill" x="0.87" y="319.52" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4064_type" data-name="4064_type">
+    <text id="4064_type" transform="translate(8.82 326.13)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4064_balcony" data-name="4064_balcony">
+    <line id="4064_balcony" x1="5.74" y1="319.45" x2="5.74" y2="328.05" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4064_outline" data-name="4064_outline">
+    <rect id="4064_outline" x="0.87" y="319.52" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4065_fill" data-name="4065_fill">
+    <rect id="4065_fill" x="59.32" y="319.43" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4065_type" data-name="4065_type">
+    <text id="4065_type" transform="translate(62.16 326.07)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4065</text>
+  </g>
+  <g id="_4065_balcony" data-name="4065_balcony">
+    <line id="4065_balcony" x1="80.05" y1="319.45" x2="80.05" y2="327.91" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4065_outline" data-name="4065_outline">
+    <rect id="4065_outline" x="59.32" y="319.43" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4066_fill" data-name="4066_fill">
+    <rect id="4066_fill" x="0.87" y="328.02" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4066_type" data-name="4066_type">
+    <text id="4066_type" transform="translate(8.82 334.67)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4066_balcony" data-name="4066_balcony">
+    <line id="4066_balcony" x1="5.74" y1="327.95" x2="5.74" y2="336.55" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4066_outline" data-name="4066_outline">
+    <rect id="4066_outline" x="0.87" y="328.02" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4067_fill" data-name="4067_fill">
+    <rect id="4067_fill" x="59.32" y="328.02" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4067_type" data-name="4067_type">
+    <text id="4067_type" transform="translate(62.16 334.6)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4067</text>
+  </g>
+  <g id="_4067_balcony" data-name="4067_balcony">
+    <line id="4067_balcony" x1="80.05" y1="327.99" x2="80.05" y2="336.45" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4067_outline" data-name="4067_outline">
+    <rect id="4067_outline" x="59.32" y="328.02" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4068_fill" data-name="4068_fill">
+    <rect id="4068_fill" x="0.87" y="336.6" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4068_type" data-name="4068_type">
+    <text id="4068_type" transform="translate(8.82 343.18)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">6</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4068_balcony" data-name="4068_balcony">
+    <line id="4068_balcony" x1="5.74" y1="336.76" x2="5.74" y2="345.37" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4068_outline" data-name="4068_outline">
+    <rect id="4068_outline" x="0.87" y="336.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4069_fill" data-name="4069_fill">
+    <rect id="4069_fill" x="59.32" y="336.6" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4069_type" data-name="4069_type">
+    <text id="4069_type" transform="translate(62.16 343.12)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4069</text>
+  </g>
+  <g id="_4069_balcony" data-name="4069_balcony">
+    <line id="4069_balcony" x1="80.05" y1="336.61" x2="80.05" y2="345.07" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4069_outline" data-name="4069_outline">
+    <rect id="4069_outline" x="59.32" y="336.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4070_fill" data-name="4070_fill">
+    <rect id="4070_fill" x="0.87" y="345.1" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4070_type" data-name="4070_type">
+    <text id="4070_type" transform="translate(8.82 351.71)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4070_balcony" data-name="4070_balcony">
+    <line id="4070_balcony" x1="5.74" y1="344.67" x2="5.74" y2="353.28" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4070_outline" data-name="4070_outline">
+    <rect id="4070_outline" x="0.87" y="345.1" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4071_fill" data-name="4071_fill">
+    <rect id="4071_fill" x="59.32" y="344.96" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4071_type" data-name="4071_type">
+    <text id="4071_type" transform="translate(62.16 351.65)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4071</text>
+  </g>
+  <g id="_4071_balcony" data-name="4071_balcony">
+    <line id="4071_balcony" x1="80.05" y1="344.92" x2="80.05" y2="353.38" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4071_outline" data-name="4071_outline">
+    <rect id="4071_outline" x="59.32" y="344.96" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4072_fill" data-name="4072_fill">
+    <rect id="4072_fill" x="0.87" y="353.43" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4072_type" data-name="4072_type">
+    <text id="4072_type" transform="translate(8.82 359.93)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4072_balcony" data-name="4072_balcony">
+    <line id="4072_balcony" x1="5.74" y1="353.3" x2="5.74" y2="361.9" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4072_outline" data-name="4072_outline">
+    <rect id="4072_outline" x="0.87" y="353.43" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4073_fill" data-name="4073_fill">
+    <rect id="4073_fill" x="59.32" y="353.54" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4073_type" data-name="4073_type">
+    <text id="4073_type" transform="translate(62.16 359.87)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4073</text>
+  </g>
+  <g id="_4073_balcony" data-name="4073_balcony">
+    <line id="4073_balcony" x1="80.05" y1="353.49" x2="80.05" y2="361.95" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4073_outline" data-name="4073_outline">
+    <rect id="4073_outline" x="59.32" y="353.54" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4074_fill" data-name="4074_fill">
+    <rect id="4074_fill" x="0.87" y="361.93" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4074_type" data-name="4074_type">
+    <text id="4074_type" transform="translate(8.82 368.55)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4074_balcony" data-name="4074_balcony">
+    <line id="4074_balcony" x1="5.74" y1="362.17" x2="5.74" y2="370.78" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4074_outline" data-name="4074_outline">
+    <rect id="4074_outline" x="0.87" y="361.93" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4075_fill" data-name="4075_fill">
+    <rect id="4075_fill" x="59.32" y="361.93" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4075_type" data-name="4075_type">
+    <text id="4075_type" transform="translate(62.16 368.49)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4075</text>
+  </g>
+  <g id="_4075_balcony" data-name="4075_balcony">
+    <line id="4075_balcony" x1="80.05" y1="361.69" x2="80.05" y2="370.15" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4075_outline" data-name="4075_outline">
+    <rect id="4075_outline" x="59.32" y="361.93" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4076_fill" data-name="4076_fill">
+    <rect id="4076_fill" x="0.87" y="370.6" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4076_type" data-name="4076_type">
+    <text id="4076_type" transform="translate(8.82 376.86)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4076_balcony" data-name="4076_balcony">
+    <line id="4076_balcony" x1="5.74" y1="370.32" x2="5.74" y2="378.93" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4076_outline" data-name="4076_outline">
+    <rect id="4076_outline" x="0.87" y="370.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4077_fill" data-name="4077_fill">
+    <rect id="4077_fill" x="59.32" y="370.43" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4077_type" data-name="4077_type">
+    <text id="4077_type" transform="translate(62.16 376.8)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4077</text>
+  </g>
+  <g id="_4077_balcony" data-name="4077_balcony">
+    <line id="4077_balcony" x1="80.05" y1="370.44" x2="80.05" y2="378.9" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4077_outline" data-name="4077_outline">
+    <rect id="4077_outline" x="59.32" y="370.43" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4078_fill" data-name="4078_fill">
+    <rect id="4078_fill" x="0.87" y="378.95" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4078_type" data-name="4078_type">
+    <text id="4078_type" transform="translate(8.82 385.56)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">7</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4078_balcony" data-name="4078_balcony">
+    <line id="4078_balcony" x1="5.74" y1="379.03" x2="5.74" y2="387.64" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4078_outline" data-name="4078_outline">
+    <rect id="4078_outline" x="0.87" y="378.95" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4079_fill" data-name="4079_fill">
+    <rect id="4079_fill" x="59.32" y="379.14" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4079_type" data-name="4079_type">
+    <text id="4079_type" transform="translate(62.16 385.5)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4079</text>
+  </g>
+  <g id="_4079_balcony" data-name="4079_balcony">
+    <line id="4079_balcony" x1="80.05" y1="378.98" x2="80.05" y2="387.44" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4079_outline" data-name="4079_outline">
+    <rect id="4079_outline" x="59.32" y="379.14" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4080_fill" data-name="4080_fill">
+    <rect id="4080_fill" x="0.87" y="387.41" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4080_type" data-name="4080_type">
+    <text id="4080_type" transform="translate(8.82 393.87)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4080_balcony" data-name="4080_balcony">
+    <line id="4080_balcony" x1="5.74" y1="387.4" x2="5.74" y2="396" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4080_outline" data-name="4080_outline">
+    <rect id="4080_outline" x="0.87" y="387.41" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4081_fill" data-name="4091_fill">
+    <rect id="4081_fill" x="59.32" y="387.53" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4081_type" data-name="4081_type">
+    <text id="4081_type" transform="translate(62.16 393.81)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4081</text>
+  </g>
+  <g id="_4081_balcony" data-name="4081_balcony">
+    <line id="4081_balcony" x1="80.05" y1="387.41" x2="80.05" y2="395.88" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4081_outline" data-name="4081_outline">
+    <rect id="4081_outline" x="59.32" y="387.53" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4082_fill" data-name="4082_fill">
+    <rect id="4082_fill" x="0.87" y="395.98" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4082_type" data-name="4082_type">
+    <text id="4082_type" transform="translate(8.82 402.55)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4082_balcony" data-name="4082_balcony">
+    <line id="4082_balcony" x1="5.74" y1="395.89" x2="5.74" y2="404.5" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4082_outline" data-name="4082_outline">
+    <rect id="4082_outline" x="0.87" y="395.98" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4083_fill" data-name="4083_fill">
+    <rect id="4083_fill" x="59.32" y="396" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4083_type" data-name="4083_type">
+    <text id="4083_type" transform="translate(62.16 402.48)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4083</text>
+  </g>
+  <g id="_4083_balcony" data-name="4083_balcony">
+    <line id="4083_balcony" x1="80.05" y1="395.96" x2="80.05" y2="404.42" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4083_outline" data-name="4083_outline">
+    <rect id="4083_outline" x="59.32" y="396" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4084_fill" data-name="4084_fill">
+    <rect id="4084_fill" x="0.87" y="404.41" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4084_type" data-name="4084_type">
+    <text id="4084_type" transform="translate(8.82 411.4)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4084_balcony" data-name="4084_balcony">
+    <line id="4084_balcony" x1="5.74" y1="404.39" x2="5.74" y2="413" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4084_outline" data-name="4084_outline">
+    <rect id="4084_outline" x="0.87" y="404.41" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4085_fill" data-name="4085_fill">
+    <rect id="4085_fill" x="59.32" y="404.48" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4085_type" data-name="4085_type">
+    <text id="4085_type" transform="translate(62.16 411.53)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4085</text>
+  </g>
+  <g id="_4085_balcony" data-name="4085_balcony">
+    <line id="4085_balcony" x1="80.05" y1="404.28" x2="80.05" y2="412.74" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4085_outline" data-name="4085_outline">
+    <rect id="4085_outline" x="59.32" y="404.48" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4086_fill" data-name="4086_fill">
+    <rect id="4086_fill" x="0.87" y="413.16" width="26.1" height="8.74" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4086_type" data-name="4086_type">
+    <text id="4086_type" transform="translate(8.82 420.25)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4086_balcony" data-name="4086_balcony">
+    <line id="4086_balcony" x1="5.74" y1="412.95" x2="5.74" y2="421.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4086_outline" data-name="4086_outline">
+    <rect id="4086_outline" x="0.87" y="412.98" width="26.1" height="8.94" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4087_fill" data-name="4087_fill">
+    <rect id="4087_fill" x="59.32" y="412.98" width="26.1" height="8.94" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4087_type" data-name="4087_type">
+    <text id="4087_type" transform="translate(62.16 420.19)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4087</text>
+  </g>
+  <g id="_4087_balcony" data-name="4087_balcony">
+    <line id="4087_balcony" x1="80.05" y1="413.23" x2="80.05" y2="421.69" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4087_outline" data-name="4087_outline">
+    <rect id="4087_outline" x="59.32" y="412.98" width="26.1" height="8.94" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4088_fill" data-name="4088_fill">
+    <rect id="4088_fill" x="0.87" y="421.63" width="26.1" height="8.94" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4088_type" data-name="4088_type">
+    <text id="4088_type" transform="translate(8.82 428.79)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">8</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4088_balcony" data-name="4088_balcony">
+    <line id="4088_balcony" x1="5.74" y1="421.78" x2="5.74" y2="430.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4088_outline" data-name="4088_outline">
+    <rect id="4088_outline" x="0.87" y="421.63" width="26.1" height="8.94" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4089_fill" data-name="4089_fill">
+    <rect id="4089_fill" x="59.32" y="422.06" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4089_type" data-name="4089_type">
+    <text id="4089_type" transform="translate(62.16 428.73)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4089</text>
+  </g>
+  <g id="_4089_balcony" data-name="4089_balcony">
+    <line id="4089_balcony" x1="80.05" y1="422.12" x2="80.05" y2="430.58" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4089_outline" data-name="4089_outline">
+    <rect id="4089_outline" x="59.32" y="422.06" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4090_fill" data-name="4090_fill">
+    <rect id="4090_fill" x="0.87" y="430.42" width="26.1" height="8.56" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4090_type" data-name="4090_type">
+    <text id="4090_type" transform="translate(8.82 437.25)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">9</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4090_balcony" data-name="4090_balcony">
+    <line id="4090_balcony" x1="5.74" y1="430.28" x2="5.74" y2="438.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4090_outline" data-name="4090_outline">
+    <rect id="4090_outline" x="0.87" y="430.42" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4091_fill" data-name="4091_fill">
+    <rect id="4091_fill" x="59.32" y="430.68" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4091_type" data-name="4091_type">
+    <text id="4091_type" transform="translate(62.16 437.18)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4091</text>
+  </g>
+  <g id="_4091_balcony" data-name="4091_balcony">
+    <line id="4091_balcony" x1="80.05" y1="430.43" x2="80.05" y2="438.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4091_outline" data-name="4091_outline">
+    <rect id="4091_outline" x="59.32" y="430.68" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4092_fill" data-name="4092_fill">
+    <rect id="4092_fill" x="0.87" y="438.76" width="26.1" height="8.56" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4092_type" data-name="4092_type">
+    <text id="4092_type" transform="translate(8.82 445.71)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">9</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4092_balcony" data-name="4092_balcony">
+    <line id="4092_balcony" x1="5.74" y1="438.97" x2="5.74" y2="447.57" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4092_outline" data-name="4092_outline">
+    <rect id="4092_outline" x="0.87" y="438.76" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4093_fill" data-name="4093_fill">
+    <rect id="4093_fill" x="59.32" y="439.1" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4093_type" data-name="4093_type">
+    <text id="4093_type" transform="translate(62.16 445.75)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4093</text>
+  </g>
+  <g id="_4093_balcony" data-name="4093_balcony">
+    <line id="4093_balcony" x1="80.05" y1="439.51" x2="80.05" y2="447.97" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4093_outline" data-name="4093_outline">
+    <rect id="4093_outline" x="59.32" y="439.1" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4094_fill" data-name="4092_fill">
+    <rect id="4094_fill" x="0.87" y="447.59" width="26.1" height="8.56" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4094_type" data-name="4092_type">
+    <text id="4094_type" transform="translate(8.82 454.18)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">9</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4094_balcony" data-name="4094_balcony">
+    <line id="4094_balcony" x1="5.74" y1="447.34" x2="5.74" y2="455.95" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4094_outline" data-name="4094_outline">
+    <rect id="4094_outline" x="0.87" y="447.59" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4095_fill" data-name="4095_fill">
+    <rect id="4095_fill" x="59.32" y="447.77" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4095_type" data-name="4095_type">
+    <text id="4095_type" transform="translate(62.16 454.12)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4095</text>
+  </g>
+  <g id="_4095_balcony" data-name="4095_balcony">
+    <line id="4095_balcony" x1="80.05" y1="447.76" x2="80.05" y2="456.22" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4095_outline" data-name="4095_outline">
+    <rect id="4095_outline" x="59.32" y="447.77" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4096_fill" data-name="4096_fill">
+    <rect id="4096_fill" x="0.87" y="455.92" width="26.1" height="8.56" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4096_type" data-name="4096_type">
+    <text id="4096_type" transform="translate(8.82 462.78)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">9</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4096_balcony" data-name="4096_balcony">
+    <line id="4096_balcony" x1="5.74" y1="456.03" x2="5.74" y2="464.64" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4096_outline" data-name="4096_outline">
+    <rect id="4096_outline" x="0.87" y="455.92" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4097_fill" data-name="4097_fill">
+    <rect id="4097_fill" x="59.32" y="456.1" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4097_type" data-name="4097_type">
+    <text id="4097_type" transform="translate(62.16 462.72)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4097</text>
+  </g>
+  <g id="_4097_balcony" data-name="4097_balcony">
+    <line id="4097_balcony" x1="80.05" y1="456.07" x2="80.05" y2="464.53" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4097_outline" data-name="4097_outline">
+    <rect id="4097_outline" x="59.32" y="456.1" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4098_fill" data-name="4098_fill">
+    <rect id="4098_fill" x="0.87" y="464.3" width="26.1" height="8.56" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4098_type" data-name="4098_type">
+    <text id="4098_type" transform="translate(8.82 471.35)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">9</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4098_balcony" data-name="4098_balcony">
+    <line id="4098_balcony" x1="5.74" y1="464.34" x2="5.74" y2="472.95" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4098_outline" data-name="4098_outline">
+    <rect id="4098_outline" x="0.87" y="464.3" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4099_fill" data-name="4099_fill">
+    <rect id="4099_fill" x="59.32" y="464.52" width="26.1" height="8.39" style="fill: #8bc1e6"/>
+  </g>
+  <g id="_4099_type" data-name="4099_type">
+    <text id="4099_type" transform="translate(62.16 471.28)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4099</text>
+  </g>
+  <g id="_4099_balcony" data-name="4099_balcony">
+    <line id="4099_balcony" x1="80.05" y1="464.38" x2="80.05" y2="472.84" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4099_outline" data-name="4099_outline">
+    <rect id="4099_outline" x="59.32" y="464.52" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4100_fill" data-name="4100_fill">
+    <rect id="4100_fill" x="0.87" y="472.97" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4100_type" data-name="4100_type">
+    <text id="4100_type" transform="translate(8.82 479.81)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4100_balcony" data-name="4100_balcony">
+    <line id="4100_balcony" x1="5.74" y1="472.84" x2="5.74" y2="481.45" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4100_outline" data-name="4100_outline">
+    <rect id="4100_outline" x="0.87" y="472.97" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4101_fill" data-name="4101_fill">
+    <rect id="4101_fill" x="59.32" y="473.14" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4101_type" data-name="4101_type">
+    <text id="4101_type" transform="translate(62.16 479.75)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4101</text>
+  </g>
+  <g id="_4101_balcony" data-name="4101_balcony">
+    <line id="4101_balcony" x1="80.05" y1="472.9" x2="80.05" y2="481.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4101_outline" data-name="4101_outline">
+    <rect id="4101_outline" x="59.32" y="473.14" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4102_fill" data-name="4102_fill">
+    <rect id="4102_fill" x="0.87" y="481.44" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4102_type" data-name="4102_type">
+    <text id="4102_type" transform="translate(8.82 488.13)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4102_balcony" data-name="4102_balcony">
+    <line id="4102_balcony" x1="5.74" y1="481.28" x2="5.74" y2="489.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4102_outline" data-name="4102_outline">
+    <rect id="4102_outline" x="0.87" y="481.44" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4103_fill" data-name="4103_fill">
+    <rect id="4103_fill" x="59.32" y="481.6" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4103_type" data-name="4103_type">
+    <text id="4103_type" transform="translate(62.16 488.06)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4103</text>
+  </g>
+  <g id="_4103_balcony" data-name="4103_balcony">
+    <line id="4103_balcony" x1="80.05" y1="481.83" x2="80.05" y2="490.3" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4103_outline" data-name="4103_outline">
+    <rect id="4103_outline" x="59.32" y="481.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4104_fill" data-name="4104_fill">
+    <rect id="4104_fill" x="0.87" y="489.92" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4104_type" data-name="4104_type">
+    <text id="4104_type" transform="translate(8.82 496.74)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4<tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">04</tspan></text>
+  </g>
+  <g id="_4104_balcony" data-name="4104_balcony">
+    <line id="4104_balcony" x1="5.74" y1="489.91" x2="5.74" y2="498.51" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4104_outline" data-name="4104_outline">
+    <rect id="4104_outline" x="0.87" y="489.92" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4105_fill" data-name="4105_fill">
+    <rect id="4105_fill" x="59.32" y="490.15" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4105_type" data-name="4105_type">
+    <text id="4105_type" transform="translate(62.16 496.67)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4105</text>
+  </g>
+  <g id="_4105_balcony" data-name="4105_balcony">
+    <line id="4105_balcony" x1="80.05" y1="490.02" x2="80.05" y2="498.48" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4105_outline" data-name="4105_outline">
+    <rect id="4105_outline" x="59.32" y="490.15" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4106_fill" data-name="4106_fill">
+    <rect id="4106_fill" x="0.87" y="498.42" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4106_type" data-name="4106_type">
+    <text id="4106_type" transform="translate(8.82 505.35)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4106_balcony" data-name="4106_balcony">
+    <line id="4106_balcony" x1="5.74" y1="498.53" x2="5.74" y2="507.14" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4106_outline" data-name="4106_outline">
+    <rect id="4106_outline" x="0.87" y="498.42" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4107_fill" data-name="4107_fill">
+    <rect id="4107_fill" x="59.32" y="498.6" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4107_type" data-name="4107_type">
+    <text id="4107_type" transform="translate(62.16 505.28)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4107</text>
+  </g>
+  <g id="_4107_balcony" data-name="4107_balcony">
+    <line id="4107_balcony" x1="80.05" y1="498.65" x2="80.05" y2="507.11" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4107_outline" data-name="4107_outline">
+    <rect id="4107_outline" x="59.32" y="498.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4108_fill" data-name="4108_fill">
+    <rect id="4108_fill" x="0.87" y="506.98" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4108_type" data-name="4108_type">
+    <text id="4108_type" transform="translate(8.82 513.71)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4108_balcony" data-name="4108_balcony">
+    <line id="4108_balcony" x1="5.74" y1="506.59" x2="5.74" y2="515.2" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4108_outline" data-name="4108_outline">
+    <rect id="4108_outline" x="0.87" y="506.98" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4109_fill" data-name="4109_fill">
+    <rect id="4109_fill" x="59.32" y="507.16" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4109_type" data-name="4109_type">
+    <text id="4109_type" transform="translate(62.16 513.65)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4109</text>
+  </g>
+  <g id="_4109_balcony" data-name="4109_balcony">
+    <line id="4109_balcony" x1="80.05" y1="506.96" x2="80.05" y2="515.42" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4109_outline" data-name="4109_outline">
+    <rect id="4109_outline" x="59.32" y="507.16" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4110_fill" data-name="4110_fill">
+    <rect id="4110_fill" x="0.87" y="515.3" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4110_type" data-name="4110_type">
+    <text id="4110_type" transform="translate(8.82 522.12)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_4110_balcony" data-name="4110_balcony">
+    <line id="4110_balcony" x1="5.74" y1="515.35" x2="5.74" y2="523.96" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4110_outline" data-name="4110_outline">
+    <rect id="4110_outline" x="0.87" y="515.3" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4111_fill" data-name="4111_fill">
+    <rect id="4111_fill" x="59.32" y="515.54" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4111_type" data-name="4111_type">
+    <text id="4111_type" transform="translate(62.16 522.06)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4111</text>
+  </g>
+  <g id="_4111_balcony" data-name="4111_balcony">
+    <line id="4111_balcony" x1="80.05" y1="515.83" x2="80.05" y2="524.29" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4111_outline" data-name="4111_outline">
+    <rect id="4111_outline" x="59.32" y="515.54" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4112_fill" data-name="4112_fill">
+    <rect id="4112_fill" x="0.87" y="523.8" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4112_type" data-name="4112_type">
+    <text id="4112_type" transform="translate(8.82 530.68)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_4112_balcony" data-name="4112_balcony">
+    <line id="4112_balcony" x1="5.74" y1="523.79" x2="5.74" y2="532.4" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4112_outline" data-name="4112_outline">
+    <rect id="4112_outline" x="0.87" y="523.8" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4113_fill" data-name="4113_fill">
+    <rect id="4113_fill" x="59.32" y="523.98" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4113_type" data-name="4113_type">
+    <text id="4113_type" transform="translate(62.16 530.62)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4113</text>
+  </g>
+  <g id="_4113_balcony" data-name="4113_balcony">
+    <line id="4113_balcony" x1="80.05" y1="524.02" x2="80.05" y2="532.48" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4113_outline" data-name="4113_outline">
+    <rect id="4113_outline" x="59.32" y="523.98" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4114_fill" data-name="4114_fill">
+    <rect id="4114_fill" x="0.87" y="532.45" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4114_type" data-name="4114_type">
+    <text id="4114_type" transform="translate(8.82 539.09)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_4114_balcony" data-name="4114_balcony">
+    <line id="4114_balcony" x1="5.74" y1="532.29" x2="5.74" y2="540.9" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4114_outline" data-name="4114_outline">
+    <rect id="4114_outline" x="0.87" y="532.45" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4115_fill" data-name="4115_fill">
+    <rect id="4115_fill" x="59.32" y="532.6" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4115_type" data-name="4115_type">
+    <text id="4115_type" transform="translate(62.16 539.03)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4115</text>
+  </g>
+  <g id="_4115_balcony" data-name="4115_balcony">
+    <line id="4115_balcony" x1="80.05" y1="532.82" x2="80.05" y2="541.28" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4115_outline" data-name="4115_outline">
+    <rect id="4115_outline" x="59.32" y="532.6" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4116_fill" data-name="4116_fill">
+    <rect id="4116_fill" x="0.87" y="540.84" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4116_type" data-name="4116_type">
+    <text id="4116_type" transform="translate(8.82 547.65)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_4116_balcony" data-name="4116_balcony">
+    <line id="4116_balcony" x1="5.74" y1="540.82" x2="5.74" y2="549.42" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4116_outline" data-name="4116_outline">
+    <rect id="4116_outline" x="0.87" y="540.84" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4117_fill" data-name="4117_fill">
+    <rect id="4117_fill" x="59.32" y="541.1" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4117_type" data-name="4117_type">
+    <text id="4117_type" transform="translate(62.16 547.39)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4117</text>
+  </g>
+  <g id="_4117_balcony" data-name="4117_balcony">
+    <line id="4117_balcony" x1="80.05" y1="541" x2="80.05" y2="549.46" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4117_outline" data-name="4117_outline">
+    <rect id="4117_outline" x="59.32" y="541.1" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4118_fill" data-name="4118_fill">
+    <rect id="4118_fill" x="0.87" y="549.34" width="26.1" height="8.56" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4118_type" data-name="4118_type">
+    <text id="4118_type" transform="translate(8.82 555.86)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">4</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">1</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_4118_balcony" data-name="4118_balcony">
+    <line id="4118_balcony" x1="5.74" y1="549.32" x2="5.74" y2="557.93" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4118_outline" data-name="4118_outline">
+    <rect id="4118_outline" x="0.87" y="549.34" width="26.1" height="8.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4119_fill" data-name="4119_fill">
+    <rect id="4119_fill" x="59.32" y="549.52" width="26.1" height="8.39" style="fill: #a1bdd4"/>
+  </g>
+  <g id="_4119_type" data-name="4119_type">
+    <text id="4119_type" transform="translate(62.16 555.81)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4119</text>
+  </g>
+  <g id="_4119_balcony" data-name="4119_balcony">
+    <line id="4119_balcony" x1="80.05" y1="549.13" x2="80.05" y2="557.59" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4119_outline" data-name="4119_outline">
+    <rect id="4119_outline" x="59.32" y="549.52" width="26.1" height="8.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4120_fill" data-name="4120_fill">
+    <path id="4120_fill" d="M369,663.43c0,3.53-.47,7.78.29,11.42,1,4.91,4.13,9,10,11.32,6.38,2.56,23.36,3.18,23.36,3.18V663.43Z" transform="translate(-368.32 -105.51)" style="fill: #de95a9"/>
+  </g>
+  <g id="_4120_type" data-name="4120_type">
+    <text id="4120_type" transform="translate(20.16 578.65) rotate(-90)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.77" y="8.4">4120</tspan></text>
+  </g>
+  <g id="_4120_balcony" data-name="4120_balcony">
+    <path id="4120_balcony" d="M374.08,663.33c-.58,12.63,1.73,16.11,4,18.58,4.75,5.08,11.57,4.92,24.37,5.28" transform="translate(-368.32 -105.51)" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4120_outline" data-name="4120_outline">
+    <path id="4120_outline" d="M369,663.43c0,3.53-.47,7.78.29,11.42,1,4.91,4.13,9,10,11.32,6.38,2.56,23.36,3,23.36,3V663.43Z" transform="translate(-368.32 -105.51)" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4121_fill" data-name="4121_fill">
+    <path id="4121_fill" d="M453.51,663.5a75.48,75.48,0,0,1-.48,12.35,14.38,14.38,0,0,1-10.28,10.49c-6.2,2.3-23,2.85-23,2.85V663.43Z" transform="translate(-368.32 -105.51)" style="fill: #de95a9"/>
+  </g>
+  <g id="_4121_type" data-name="4121_type">
+    <text id="4121_type" transform="translate(63.16 578.65) rotate(-90)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.77" y="8.4">4121</tspan></text>
+  </g>
+  <g id="_4121_balcony" data-name="4121_balcony">
+    <path id="4121_balcony" d="M448.38,663.5a45.63,45.63,0,0,1-.7,12.81c-1.45,6.13-5.12,10.93-28,10.93" transform="translate(-368.32 -105.51)" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4121_outline" data-name="4121_outline">
+    <path id="4121_outline" d="M453.51,663.5a75.48,75.48,0,0,1-.48,12.35,14.38,14.38,0,0,1-10.28,10.49c-6.2,2.3-23,2.85-23,2.85V663.43Z" transform="translate(-368.32 -105.51)" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4122_fill" data-name="4122_fill">
+    <rect id="4122_fill" x="34.25" y="558.06" width="8.82" height="25.62" style="fill: #008ac5"/>
+  </g>
+  <g id="_4122_type" data-name="4122_type">
+    <text id="4122_type" transform="translate(40.87 578.13) rotate(-90)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4122</text>
+  </g>
+  <g id="_4122_balcony" data-name="4122_balcony">
+    <line id="4122_balcony" x1="34.17" y1="581.68" x2="42.88" y2="581.68" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4122_outline" data-name="4122_outline">
+    <polygon id="4122_outline" points="34.25 557.9 43.07 557.9 43.07 583.83 34.25 583.68 34.25 557.9" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_4123_fill" data-name="4123_fill">
+    <polygon id="4123_fill" points="43.07 557.9 51.41 557.9 51.41 583.68 43.07 583.83 43.07 557.9" style="fill: #008ac5"/>
+  </g>
+  <g id="_4123_type" data-name="4123_type">
+    <text id="4123_type" transform="translate(49.58 578.13) rotate(-90)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">4123</text>
+  </g>
+  <g id="_4123_balcony" data-name="4123_balcony">
+    <line id="4123_balcony" x1="43.07" y1="581.72" x2="51.34" y2="581.72" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_4123_outline" data-name="4123_outline">
+    <polygon id="4123_outline" points="43.07 557.9 51.41 557.9 51.41 583.68 43.07 583.83 43.07 557.9" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+</svg>

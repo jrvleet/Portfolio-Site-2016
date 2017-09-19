@@ -10,7 +10,9 @@ body {
 }
 
 .resize {
+    max-height: 460px;
     max-width: 400px;
+    padding: 8px;
 }
 
 .mitsu {
@@ -489,4 +491,10 @@ footer .footer-below {
 
 #contact {
     background: floralwhite;
+}
+
+.modal-body {
+    width: 1300px;
+    margin: auto auto auto -275px;
+    /*background-color: dodgerblue;*/
 }

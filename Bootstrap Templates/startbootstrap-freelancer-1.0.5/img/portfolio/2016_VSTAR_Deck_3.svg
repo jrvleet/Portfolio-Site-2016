@@ -1,0 +1,1291 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.59 663.81" width="83.59" height="663.81">
+  <title>2016_VSTAR_Deck_3</title>
+  <g id="background">
+    <polyline points="58.5 343.46 83.02 343.46 82.85 487.97 58.5 487.97" style="fill: #f2f1e8"/>
+    <path d="M376.79,205.16c0,44.06,0,530.34,0,535.85,0,11,7.82,15.77,11.71,16.9C399.23,761,404.63,761,417.79,761s25.92-2.63,30.5-4.27c3.18-1.14,10.72-6.48,10.72-15.48,0-6.88.24-482.38.17-536" transform="translate(-376.18 -97.7)" style="fill: #f3f4f5"/>
+    <rect x="0.66" y="343.43" width="24.48" height="144.59" style="fill: #f3f4f5"/>
+    <polygon points="24.94 639.65 58.57 639.65 58.57 107.38 25.09 107.38 24.94 639.65" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <polygon points="50.68 488.02 70.87 488.02 70.87 366.44 12.63 366.44 12.63 488.02 33.4 488.02 33.4 411.56 50.35 411.56 50.68 488.02" style="fill: #fff;stroke: #ccc;stroke-miterlimit: 10"/>
+    <path d="M459.18,205.26c0-.68,0-1.29,0-1.83-.08-50.56-38.72-103.67-38.72-103.67a3.29,3.29,0,0,0-5.51-.14S377.73,148.93,376.79,205" transform="translate(-376.18 -97.7)" style="fill: #f3f4f5;stroke: #ccc;stroke-miterlimit: 10"/>
+    <rect x="33.43" y="268.39" width="17.27" height="98.04" style="fill: #bcbec0"/>
+    <rect x="33.33" y="261.69" width="8.61" height="6.7" style="fill: #fff"/>
+    <rect x="41.94" y="261.69" width="8.76" height="6.7" style="fill: #fff"/>
+    <rect x="33.37" y="434.99" width="8.56" height="6.7" style="fill: #fff"/>
+    <rect x="41.93" y="434.99" width="8.61" height="6.7" style="fill: #fff"/>
+    <path d="M413.53,504.86a5.93,5.93,0,0,0-3.92,1.52v8.5h8.51v-8.56A9.37,9.37,0,0,0,413.53,504.86Z" transform="translate(-376.18 -97.7)" style="fill: #fff"/>
+    <path d="M422.29,504.86a7,7,0,0,0-4.17,1.52v8.5h8.61v-8.56A8.53,8.53,0,0,0,422.29,504.86Z" transform="translate(-376.18 -97.7)" style="fill: #fff"/>
+    <rect x="33.45" y="117.69" width="17.11" height="111.05" style="fill: #bcbec0"/>
+    <rect x="33.45" y="465.08" width="17.11" height="165.03" style="fill: #bcbec0"/>
+    <polygon points="46.21 451.76 37.84 451.78 37.82 454.39 33.47 454.39 33.47 459.78 37.82 459.78 37.84 462.46 46.21 462.46 46.23 459.78 50.53 459.78 50.53 454.39 46.23 454.39 46.21 451.76" style="fill: #fff"/>
+    <polygon points="46.21 241.89 37.84 241.87 37.82 239.26 33.47 239.26 33.47 233.81 37.82 233.81 37.84 231.19 46.21 231.19 46.23 233.81 50.53 233.81 50.53 239.26 46.23 239.26 46.21 241.89" style="fill: #fff"/>
+    <text transform="translate(25.03 453.09) rotate(-90)" style="font-size: 7px;fill: #cccbca;font-family: Arial-BoldMT, Arial;font-weight: 700">Atrium</text>
+    <text transform="translate(62.03 453.09) rotate(-90)" style="font-size: 7px;fill: #cccbca;font-family: Arial-BoldMT, Arial;font-weight: 700">Atrium</text>
+    <rect x="60.53" y="477.98" width="10.09" height="9.93" style="fill: #fff"/>
+    <rect x="12.58" y="477.98" width="10.09" height="9.93" style="fill: #fff"/>
+    <rect x="12.63" y="343.43" width="12.51" height="23.02" style="fill: #fff;stroke: #cccbca;stroke-width: 0.25px"/>
+    <rect x="58.57" y="343.38" width="12.51" height="23.02" style="fill: #fff;stroke: #cccbca;stroke-width: 0.25px"/>
+    <g>
+      <path d="M386.41,557.88l.54-1.92V538.08c0-2.16-1.13-4.32-3.07-4.32h-2.21c-1.94,0-3.07,2.16-3.07,4.32V556l.54,1.92Z" transform="translate(-376.18 -97.7)" style="fill: #fff"/>
+      <path d="M386.41,494.56l.54-1.92V474.76c0-2.16-1.13-4.32-3.07-4.32h-2.21c-1.94,0-3.07,2.16-3.07,4.32v17.88l.54,1.92Z" transform="translate(-376.18 -97.7)" style="fill: #fff"/>
+      <path d="M381.73,523.18a7.67,7.67,0,0,0,2.31-.3,4.08,4.08,0,0,0,.92-2.64v-11a2.74,2.74,0,0,0-2.26-2.58h-1.78a2.74,2.74,0,0,0-2.26,2.58v11a4.08,4.08,0,0,0,.92,2.64A6.65,6.65,0,0,0,381.73,523.18Z" transform="translate(-376.18 -97.7)" style="fill: #fff"/>
+      <path d="M386.41,557.88l.54-1.92V538.08c0-2.16-1.13-4.32-3.07-4.32h-2.21c-1.94,0-3.07,2.16-3.07,4.32V556l.54,1.92Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #cccbca;stroke-miterlimit: 10;stroke-width: 0.473564px;stroke-dasharray: 1.882889986038208,1.882889986038208"/>
+      <path d="M386.41,494.56l.54-1.92V474.76c0-2.16-1.13-4.32-3.07-4.32h-2.21c-1.94,0-3.07,2.16-3.07,4.32v17.88l.54,1.92Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #cccbca;stroke-miterlimit: 10;stroke-width: 0.473564px;stroke-dasharray: 1.882889986038208,1.882889986038208"/>
+      <path d="M381.73,523.18a7.67,7.67,0,0,0,2.31-.3,4.08,4.08,0,0,0,.92-2.64v-11a2.74,2.74,0,0,0-2.26-2.58h-1.78a2.74,2.74,0,0,0-2.26,2.58v11a4.08,4.08,0,0,0,.92,2.64A6.65,6.65,0,0,0,381.73,523.18Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #cccbca;stroke-miterlimit: 10;stroke-width: 0.473564px;stroke-dasharray: 1.882889986038208,1.882889986038208"/>
+    </g>
+    <g>
+      <path d="M449.24,557.88,448.7,556V538.08c0-2.16,1.13-4.32,3.07-4.32H454c1.94,0,3.07,2.16,3.07,4.32V556l-.54,1.92Z" transform="translate(-376.18 -97.7)" style="fill: #fff"/>
+      <path d="M449.24,494.56l-.54-1.92V474.76c0-2.16,1.13-4.32,3.07-4.32H454c1.94,0,3.07,2.16,3.07,4.32v17.88l-.54,1.92Z" transform="translate(-376.18 -97.7)" style="fill: #fff"/>
+      <path d="M453.92,523.18a7.67,7.67,0,0,1-2.31-.3,4.08,4.08,0,0,1-.92-2.64v-11a2.74,2.74,0,0,1,2.26-2.58h1.78a2.74,2.74,0,0,1,2.26,2.58v11a4.09,4.09,0,0,1-.91,2.64A6.67,6.67,0,0,1,453.92,523.18Z" transform="translate(-376.18 -97.7)" style="fill: #fff"/>
+      <path d="M449.24,557.88,448.7,556V538.08c0-2.16,1.13-4.32,3.07-4.32H454c1.94,0,3.07,2.16,3.07,4.32V556l-.54,1.92Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #cccbca;stroke-miterlimit: 10;stroke-width: 0.473564px;stroke-dasharray: 1.882889986038208,1.882889986038208"/>
+      <path d="M449.24,494.56l-.54-1.92V474.76c0-2.16,1.13-4.32,3.07-4.32H454c1.94,0,3.07,2.16,3.07,4.32v17.88l-.54,1.92Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #cccbca;stroke-miterlimit: 10;stroke-width: 0.473564px;stroke-dasharray: 1.882889986038208,1.882889986038208"/>
+      <path d="M453.92,523.18a7.67,7.67,0,0,1-2.31-.3,4.08,4.08,0,0,1-.92-2.64v-11a2.74,2.74,0,0,1,2.26-2.58h1.78a2.74,2.74,0,0,1,2.26,2.58v11a4.09,4.09,0,0,1-.91,2.64A6.67,6.67,0,0,1,453.92,523.18Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #cccbca;stroke-miterlimit: 10;stroke-width: 0.473564px;stroke-dasharray: 1.882889986038208,1.882889986038208"/>
+    </g>
+    <line x1="50.56" y1="228.74" x2="50.56" y2="242.1" style="fill: none;stroke: #cccbca;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+    <line x1="33.45" y1="242.1" x2="33.45" y2="228.74" style="fill: none;stroke: #cccbca;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+    <line x1="50.56" y1="417.3" x2="50.56" y2="465.33" style="fill: none;stroke: #ccc;stroke-width: 0.5px"/>
+    <line x1="33.45" y1="465.33" x2="33.45" y2="417.23" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <rect x="33.45" y="117.62" width="17.11" height="111.12" style="fill: #fff;stroke: #cccbca;stroke-width: 0.5px"/>
+    <rect x="33.45" y="465.08" width="17.11" height="165.02" style="fill: #fff;stroke: #cccbca;stroke-width: 0.35000000000000003px"/>
+    <rect x="33.43" y="268.39" width="17.27" height="98.06" style="fill: #fff;stroke: #cccbca;stroke-width: 0.35000000000000003px"/>
+    <rect x="36.26" y="434.99" width="2.47" height="1.44" style="fill: none"/>
+    <rect x="44.92" y="434.99" width="2.48" height="1.44" style="fill: none"/>
+    <rect x="36.12" y="415.71" width="2.47" height="1.44" style="fill: none"/>
+    <rect x="44.77" y="415.71" width="2.48" height="1.44" style="fill: none"/>
+    <rect x="33.37" y="434.99" width="8.56" height="6.7" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <rect x="36.26" y="434.99" width="2.47" height="1.44" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <rect x="41.93" y="434.99" width="8.61" height="6.7" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <rect x="44.92" y="434.99" width="2.48" height="1.44" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <path d="M413.53,504.86a5.93,5.93,0,0,0-3.92,1.52v8.5h8.51v-8.56A9.37,9.37,0,0,0,413.53,504.86Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #ccc;stroke-width: 0.5px"/>
+    <path d="M422.29,504.86a7,7,0,0,0-4.17,1.52v8.5h8.61v-8.56A8.53,8.53,0,0,0,422.29,504.86Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #ccc;stroke-width: 0.5px"/>
+    <rect x="36.12" y="415.71" width="2.47" height="1.44" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <rect x="44.77" y="415.71" width="2.48" height="1.44" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <rect x="36.37" y="261.7" width="2.58" height="1.64" style="fill: none"/>
+    <rect x="44.93" y="261.7" width="2.58" height="1.64" style="fill: none"/>
+    <rect x="33.3" y="261.69" width="8.64" height="6.7" style="fill: #fff;stroke: #ccc;stroke-width: 0.35000000000000003px"/>
+    <rect x="36.37" y="261.68" width="2.58" height="1.66" style="fill: #fff;stroke: #ccc;stroke-width: 0.35000000000000003px"/>
+    <rect x="41.94" y="261.69" width="8.76" height="6.7" style="fill: #fff;stroke: #ccc;stroke-width: 0.35000000000000003px"/>
+    <rect x="44.93" y="261.68" width="2.58" height="1.66" style="fill: #fff;stroke: #ccc;stroke-width: 0.35000000000000003px"/>
+    <g>
+      <polyline points="37.82 231.12 37.82 241.87 46.24 241.88 46.24 231.12" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <line x1="33.43" y1="235.17" x2="50.59" y2="235.17" style="fill: none;stroke: #cccbca;stroke-width: 0.25px"/>
+      <line x1="33.43" y1="236.54" x2="50.59" y2="236.54" style="fill: none;stroke: #cccbca;stroke-width: 0.25px"/>
+      <line x1="33.43" y1="237.87" x2="50.56" y2="237.87" style="fill: none;stroke: #cccbca;stroke-width: 0.25px"/>
+      <line x1="37.83" y1="232.51" x2="46.23" y2="232.51" style="fill: none;stroke: #cccbca;stroke-width: 0.25px"/>
+      <line x1="37.83" y1="233.84" x2="46.23" y2="233.84" style="fill: none;stroke: #cccbca;stroke-width: 0.25px"/>
+      <line x1="37.81" y1="239.24" x2="46.25" y2="239.24" style="fill: none;stroke: #cccbca;stroke-width: 0.25px"/>
+      <line x1="37.81" y1="240.57" x2="46.23" y2="240.57" style="fill: none;stroke: #cccbca;stroke-width: 0.25px"/>
+      <polyline points="37.8 239.24 33.44 239.24 33.44 233.82 37.8 233.82" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <polyline points="46.21 239.24 50.57 239.24 50.57 233.82 46.21 233.82" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    </g>
+    <g>
+      <polyline points="37.82 462.53 37.82 451.79 46.24 451.77 46.24 462.53" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <line x1="33.43" y1="458.48" x2="50.59" y2="458.48" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <line x1="33.43" y1="457.11" x2="50.59" y2="457.11" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <line x1="33.43" y1="455.78" x2="50.56" y2="455.78" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <line x1="37.83" y1="461.14" x2="46.23" y2="461.14" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <line x1="37.83" y1="459.82" x2="46.23" y2="459.82" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <line x1="37.81" y1="454.41" x2="46.25" y2="454.41" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <line x1="37.81" y1="453.08" x2="46.23" y2="453.08" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <polyline points="37.8 454.41 33.44 454.41 33.44 459.83 37.8 459.83" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+      <polyline points="46.21 454.41 50.57 454.41 50.57 459.83 46.21 459.83" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    </g>
+    <polyline points="58.57 366.39 58.57 107.47 25.04 107.47 25.04 366.44" style="fill: none;stroke: #ccc;stroke-width: 0.5px"/>
+    <polyline points="33.47 488.02 12.63 488.02 12.63 366.44 33.43 366.44" style="fill: none;stroke: #ccc;stroke-width: 0.5px"/>
+    <polyline points="50.68 366.44 70.81 366.44 70.81 488.02 50.68 488.02" style="fill: none;stroke: #ccc"/>
+    <path d="M376.75,741c0,11,7.82,15.77,11.71,16.9C399.23,761,405,761,418.18,761s25.53-2.63,30.1-4.27c3.18-1.14,10.72-6.48,10.72-15.48,0-7,.25-494.49.16-537.83-.08-50.56-38.72-103.67-38.72-103.67a3.29,3.29,0,0,0-5.51-.14s-37.2,49-38.14,105.09C376.76,248.77,376.75,735.5,376.75,741Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #989897"/>
+    <g>
+      <path d="M390.45,580a.64.64,0,1,1-.64.64.64.64,0,0,1,.64-.64" transform="translate(-376.18 -97.7)" style="fill: #cccbca"/>
+      <path d="M391.49,579.93v1.56a.59.59,0,0,0,.59.59h2.29a.3.3,0,0,0,.29-.29v-2.15a.3.3,0,0,0-.29-.3h-2.29a.59.59,0,0,0-.59.59" transform="translate(-376.18 -97.7)" style="fill: #cccbca"/>
+      <rect x="18.76" y="482.27" width="3.14" height="1.46" style="fill: #cccbca"/>
+    </g>
+    <g>
+      <path d="M438.4,579.94a.64.64,0,1,1-.64.64.64.64,0,0,1,.64-.64" transform="translate(-376.18 -97.7)" style="fill: #cccbca"/>
+      <rect x="67.53" y="482.15" width="2.33" height="1.46" style="fill: #cccbca"/>
+      <path d="M443.1,578.92a.24.24,0,0,1,.29.25V582a.24.24,0,0,1-.29.25l-3.39-.53a.36.36,0,0,1-.29-.34V579.8a.36.36,0,0,1,.29-.34Z" transform="translate(-376.18 -97.7)" style="fill: #cccbca"/>
+    </g>
+    <rect x="60.78" y="477.98" width="10.09" height="9.93" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <rect x="12.58" y="477.98" width="10.09" height="9.93" style="fill: none;stroke: #cccbca;stroke-width: 0.5px"/>
+    <line x1="70.81" y1="366.44" x2="70.81" y2="343.81" style="fill: #f3f4f5"/>
+    <line x1="12.63" y1="366.44" x2="12.63" y2="343.81" style="fill: #f3f4f5"/>
+    <text transform="translate(43.59 431.7) rotate(-90) scale(1 1.16)" style="font-size: 5.498370170593262px;fill: #cccbca;font-family: Arial-BoldMT, Arial;font-weight: 700">Lifts</text>
+    <text transform="translate(43.89 260.53) rotate(-90) scale(1 1.16)" style="font-size: 5.498370170593262px;fill: #cccbca;font-family: Arial-BoldMT, Arial;font-weight: 700">Lifts</text>
+    <rect x="33.44" y="324.06" width="7" height="21.67" style="fill: #fff;stroke: #cccbca;stroke-width: 0.35000000000000003px"/>
+    <text transform="translate(38.6 345.08) rotate(-90) scale(1 1.16)" style="font-size: 3.5999999046325684px;fill: #cccbca;font-family: Arial-BoldMT, Arial;font-weight: 700">Launderette</text>
+  </g>
+  <g id="_3000_fill" data-name="3000_fill">
+    <path id="3000_fill" d="M418.18,205.08V180.76c-22.06-.57-35.49,11.49-39.07,24.34Z" transform="translate(-376.18 -97.7)" style="fill: #f0cdd6"/>
+  </g>
+  <g id="_3000_type" data-name="3000_type">
+    <text id="3000_type" transform="translate(26.5 105.16) rotate(-90)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.77" y="8.4">3000</tspan></text>
+  </g>
+  <g id="_3000_balcony" data-name="3000_balcony">
+    <line id="3000_balcony" x1="14.04" y1="107.38" x2="14.04" y2="91.39" style="fill: none;stroke: #989897;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3000_outline" data-name="3000_outline">
+    <path id="3000_outline" d="M418.18,205.08V180.76c-22.06-.57-35.49,11.49-39.07,24.34Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3001_fill" data-name="3001_fill">
+    <path id="3001_fill" d="M418.18,205.08V180.76c25.94.49,37.76,16.05,39.42,24.43Z" transform="translate(-376.18 -97.7)" style="fill: #f0cdd6"/>
+  </g>
+  <g id="_3001_type" data-name="3001_type">
+    <text id="3001_type" transform="translate(53.63 105.16) rotate(-90)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.77" y="8.4">3001</tspan></text>
+  </g>
+  <g id="_3001_balcony" data-name="3001_balcony">
+    <line id="3001_balcony" x1="70.1" y1="107.38" x2="70.1" y2="91.39" style="fill: none;stroke: #989897;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3001_outline" data-name="3001_outline">
+    <path id="3001_outline" d="M418.18,205.08V180.76c25.94.49,37.76,16.05,39.42,24.43Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3002_fill" data-name="3002_fill">
+    <rect id="3002_fill" x="0.64" y="107.42" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3002_type" data-name="3002_type">
+    <text id="3002_type" transform="translate(6.99 113.57)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_3002_balcony" data-name="3002_balcony">
+    <line id="3002_balcony" x1="5.38" y1="107.43" x2="5.38" y2="115.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3002_outline" data-name="3002_outline">
+    <rect id="3002_outline" x="0.57" y="107.42" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3003_fill" data-name="3003_fill">
+    <rect id="3003_fill" x="58.81" y="107.42" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3003_type" data-name="3003_type">
+    <text id="3003_type" transform="translate(60.33 113.86)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3003</text>
+  </g>
+  <g id="_3003_balcony" data-name="3003_balcony">
+    <line id="3003_balcony" x1="77.83" y1="107.43" x2="77.83" y2="115.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3003_outline" data-name="3003_outline">
+    <rect id="3003_outline" x="58.53" y="107.42" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3004_fill" data-name="3004_fill">
+    <rect id="3004_fill" x="0.57" y="115.85" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3004_type" data-name="3004_type">
+    <text id="3004_type" transform="translate(6.99 122.54)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_3004_balcony" data-name="3004_balcony">
+    <line id="3004_balcony" x1="5.38" y1="115.81" x2="5.38" y2="124.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3004_outline" data-name="3004_outline">
+    <rect id="3004_outline" x="0.57" y="115.85" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3005_fill" data-name="3005_fill">
+    <rect id="3005_fill" x="58.43" y="116.01" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3005_type" data-name="3005_type">
+    <text id="3005_type" transform="translate(60.33 122.48)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3005</text>
+  </g>
+  <g id="_3005_balcony" data-name="3005_balcony">
+    <line id="3005_balcony" x1="77.83" y1="115.68" x2="77.83" y2="124.14" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3005_outline" data-name="3005_outline">
+    <rect id="3005_outline" x="58.53" y="115.83" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3006_fill" data-name="3006_fill">
+    <rect id="3006_fill" x="0.57" y="124.35" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3006_type" data-name="3006_type">
+    <text id="3006_type" transform="translate(6.99 130.95)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_3006_balcony" data-name="3006_balcony">
+    <line id="3006_balcony" x1="5.38" y1="124.31" x2="5.38" y2="132.76" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3006_outline" data-name="3006_outline">
+    <rect id="3006_outline" x="0.57" y="124.32" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3007_fill" data-name="3007_fill">
+    <rect id="3007_fill" x="58.43" y="124.18" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3007_type" data-name="3007_type">
+    <text id="3007_type" transform="translate(60.33 130.59)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3007</text>
+  </g>
+  <g id="_3007_balcony" data-name="3007_balcony">
+    <line id="3007_balcony" x1="77.83" y1="124.1" x2="77.83" y2="132.56" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3007_outline" data-name="3007_outline">
+    <rect id="3007_outline" x="58.53" y="124.32" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3008_fill" data-name="3008_fill">
+    <rect id="3008_fill" x="0.57" y="133.04" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3008_type" data-name="3008_type">
+    <text id="3008_type" transform="translate(6.99 139.31)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">0</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_3008_balcony" data-name="3008_balcony">
+    <line id="3008_balcony" x1="5.38" y1="132.89" x2="5.38" y2="141.35" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3008_outline" data-name="3008_outline">
+    <rect id="3008_outline" x="0.57" y="132.77" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3009_fill" data-name="3009_fill">
+    <rect id="3009_fill" x="58.31" y="132.72" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3009_balcony" data-name="3009_balcony">
+    <line id="3009_balcony" x1="77.83" y1="132.79" x2="77.83" y2="141.24" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3009_outline" data-name="3009_outline">
+    <rect id="3009_outline" x="58.53" y="132.77" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3009_type" data-name="3009_type">
+    <text id="3009_type" transform="translate(60.33 139.25)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3009</text>
+  </g>
+  <g id="_3010_fill" data-name="3010_fill">
+    <rect id="3010_fill" x="0.57" y="141.21" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3010_type" data-name="3010_type">
+    <text id="3010_type" transform="translate(7.24 147.47)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_3010_balcony" data-name="3010_balcony">
+    <line id="3010_balcony" x1="5.38" y1="141.02" x2="5.38" y2="149.47" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3010_outline" data-name="3010_outline">
+    <rect id="3010_outline" x="0.57" y="141.1" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3011_fill" data-name="3011_fill">
+    <rect id="3011_fill" x="58.31" y="141.3" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3011_type" data-name="3011_type">
+    <text id="3011_type" transform="translate(60.58 147.4)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3011</text>
+  </g>
+  <g id="_3011_balcony" data-name="3011_balcony">
+    <line id="3011_balcony" x1="77.83" y1="141.22" x2="77.83" y2="149.68" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3011_outline" data-name="3011_outline">
+    <rect id="3011_outline" x="58.53" y="141.26" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3012_fill" data-name="3012_fill">
+    <rect id="3012_fill" x="0.57" y="149.46" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3012_type" data-name="3012_type">
+    <text id="3012_type" transform="translate(6.99 156.11)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_3012_balcony" data-name="3012_balcony">
+    <line id="3012_balcony" x1="5.38" y1="149.72" x2="5.38" y2="158.18" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3012_outline" data-name="3012_outline">
+    <rect id="3012_outline" x="0.57" y="149.68" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3013_fill" data-name="3013_fill">
+    <rect id="3013_fill" x="58.31" y="149.8" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3013_type" data-name="3013_type">
+    <text id="3013_type" transform="translate(60.33 156.05)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3013</text>
+  </g>
+  <g id="_3013_balcony" data-name="3013_balcony">
+    <line id="3013_balcony" x1="77.83" y1="149.66" x2="77.83" y2="158.12" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3013_outline" data-name="3013_outline">
+    <rect id="3013_outline" x="58.53" y="149.67" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3014_fill" data-name="3014_fill">
+    <rect id="3014_fill" x="0.57" y="157.87" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3014_type" data-name="3014_type">
+    <text id="3014_type" transform="translate(6.99 164.54)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">4</tspan></text>
+  </g>
+  <g id="_3014_balcony" data-name="3014_balcony">
+    <line id="3014_balcony" x1="5.38" y1="158.06" x2="5.38" y2="166.51" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3014_outline" data-name="3014_outline">
+    <rect id="3014_outline" x="0.57" y="158.06" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3015_fill" data-name="3015_fill">
+    <rect id="3015_fill" x="58.31" y="158.3" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3015_type" data-name="3015_type">
+    <text id="3015_type" transform="translate(60.33 164.48)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3015</text>
+  </g>
+  <g id="_3015_balcony" data-name="3015_balcony">
+    <line id="3015_balcony" x1="77.83" y1="158.04" x2="77.83" y2="166.49" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3015_outline" data-name="3015_outline">
+    <rect id="3015_outline" x="58.53" y="158.09" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3016_fill" data-name="3016_fill">
+    <rect id="3016_fill" x="0.57" y="166.43" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3016_type" data-name="3016_type">
+    <text id="3016_type" transform="translate(6.99 172.94)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">6</tspan></text>
+  </g>
+  <g id="_3016_balcony" data-name="3016_balcony">
+    <line id="3016_balcony" x1="5.38" y1="166.43" x2="5.38" y2="174.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3016_outline" data-name="3016_outline">
+    <rect id="3016_outline" x="0.57" y="166.43" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3017_fill" data-name="3017_fill">
+    <rect id="3017_fill" x="58.31" y="166.55" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3017_type" data-name="3017_type">
+    <text id="3017_type" transform="translate(60.33 172.87)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3017</text>
+  </g>
+  <g id="_3017_balcony" data-name="3017_balcony">
+    <line id="3017_balcony" x1="77.83" y1="166.6" x2="77.83" y2="175.06" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3017_outline" data-name="3017_outline">
+    <rect id="3017_outline" x="58.53" y="166.43" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3018_fill" data-name="3018_fill">
+    <rect id="3018_fill" x="0.57" y="174.91" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3018_type" data-name="3018_type">
+    <text id="3018_type" transform="translate(7.24 181.1)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">1</tspan><tspan x="12.19" y="0">8</tspan></text>
+  </g>
+  <g id="_3018_balcony" data-name="3018_balcony">
+    <line id="3018_balcony" x1="5.38" y1="174.68" x2="5.38" y2="183.14" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3018_outline" data-name="3018_outline">
+    <rect id="3018_outline" x="0.57" y="174.98" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3019_fill" data-name="3019_fill">
+    <rect id="3019_fill" x="58.43" y="175.02" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3019_type" data-name="3019_type">
+    <text id="3019_type" transform="translate(60.58 181.04)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3019</text>
+  </g>
+  <g id="_3019_balcony" data-name="3019_balcony">
+    <line id="3019_balcony" x1="77.83" y1="174.97" x2="77.83" y2="183.43" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3019_outline" data-name="3019_outline">
+    <rect id="3019_outline" x="58.53" y="174.91" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3020_fill" data-name="3020_fill">
+    <rect id="3020_fill" x="0.57" y="183.33" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3020_type" data-name="3020_type">
+    <text id="3020_type" transform="translate(7.24 189.77)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">2</tspan><tspan x="12.19" y="0">0</tspan></text>
+  </g>
+  <g id="_3020_balcony" data-name="3020_balcony">
+    <line id="3020_balcony" x1="5.38" y1="183.18" x2="5.38" y2="191.63" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3020_outline" data-name="3020_outline">
+    <rect id="3020_outline" x="0.57" y="183.23" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3021_fill" data-name="3021_fill">
+    <rect id="3021_fill" x="58.43" y="183.35" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3021_type" data-name="3021_type">
+    <text id="3021_type" transform="translate(60.58 189.71)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3021</text>
+  </g>
+  <g id="_3021_balcony" data-name="3021_balcony">
+    <line id="3021_balcony" x1="77.83" y1="183.26" x2="77.83" y2="191.71" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3021_outline" data-name="3021_outline">
+    <rect id="3021_outline" x="58.53" y="183.23" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3022_fill" data-name="3022_fill">
+    <rect id="3022_fill" x="0.57" y="191.83" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3022_type" data-name="3022-type">
+    <text id="3022_type" transform="translate(7.24 198.46)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: 0.023995535714285716em">3</tspan><tspan x="4.06" y="0" style="letter-spacing: 0.024972098214285716em">0</tspan><tspan x="8.13" y="0" style="letter-spacing: 0.024065290178571428em">2</tspan><tspan x="12.19" y="0">2</tspan></text>
+  </g>
+  <g id="_3022_balcony" data-name="3022_balcony">
+    <line id="3022_balcony" x1="5.38" y1="191.86" x2="5.38" y2="200.32" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3022_outline" data-name="3022_outline">
+    <rect id="3022_outline" x="0.57" y="191.65" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3023_fill" data-name="3023_fill">
+    <rect id="3023_fill" x="58.43" y="191.58" width="24.57" height="8.49" style="fill: #639c92"/>
+  </g>
+  <g id="_3023_type" data-name="3023_type">
+    <text id="3023_type" transform="translate(60.58 198.2)" style="font-size: 7px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3023</text>
+  </g>
+  <g id="_3023_balcony" data-name="3023_balcony">
+    <line id="3023_balcony" x1="77.83" y1="191.9" x2="77.83" y2="200.36" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3023_outline" data-name="3023_outline">
+    <rect id="3023_outline" x="58.53" y="191.65" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3024_fill" data-name="3024_fill">
+    <rect id="3024_fill" x="0.57" y="199.96" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3024_type" data-name="3024_type">
+    <text id="3024_type" transform="translate(7.24 206.47)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3024</text>
+  </g>
+  <g id="_3024_balcony" data-name="3024_balcony">
+    <line id="3024_balcony" x1="5.38" y1="200.2" x2="5.38" y2="208.65" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3024_outline" data-name="3024_outline">
+    <rect id="3024_outline" x="0.57" y="200.06" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3025_fill" data-name="3025_fill">
+    <rect id="3025_fill" x="58.43" y="200.33" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3025_type" data-name="3025_type">
+    <text id="3025_type" transform="translate(60.58 206.51)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3025</text>
+  </g>
+  <g id="_3025_balcony" data-name="3025_balcony">
+    <line id="3025_balcony" x1="77.83" y1="200.09" x2="77.83" y2="208.55" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3025_outline" data-name="3025_outline">
+    <rect id="3025_outline" x="58.53" y="200.06" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3026_fill" data-name="3026_fill">
+    <rect id="3026_fill" x="0.57" y="208.53" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3026_type" data-name="3026_type">
+    <text id="3026_type" transform="translate(7.24 214.95)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3026</text>
+  </g>
+  <g id="_3026_balcony" data-name="3026_balcony">
+    <line id="3026_balcony" x1="5.38" y1="208.7" x2="5.38" y2="217.15" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3026_outline" data-name="3026_outline">
+    <rect id="3026_outline" x="0.57" y="208.6" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3027_fill" data-name="3027_fill">
+    <rect id="3027_fill" x="58.43" y="208.54" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3027_type" data-name="3027_type">
+    <text id="3027_type" transform="translate(60.58 214.88)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3027</text>
+  </g>
+  <g id="_3027_balcony" data-name="3027_balcony">
+    <line id="3027_balcony" x1="77.83" y1="208.84" x2="77.83" y2="217.3" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3027_outline" data-name="3027_outline">
+    <rect id="3027_outline" x="58.53" y="208.53" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3028_fill" data-name="3028_fill">
+    <rect id="3028_fill" x="0.57" y="216.94" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3028_type" data-name="3028_type">
+    <text id="3028_type" transform="translate(7.24 223.42)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3028</text>
+  </g>
+  <g id="_3028_balcony" data-name="3028_balcony">
+    <line id="3028_balcony" x1="5.38" y1="216.82" x2="5.38" y2="225.28" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3028_outline" data-name="3028_outline">
+    <rect id="3028_outline" x="0.57" y="217.01" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3029_fill" data-name="3029_fill">
+    <rect id="3029_fill" x="58.43" y="216.9" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3029_type" data-name="3029_type">
+    <text id="3029_type" transform="translate(60.58 223.35)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3029</text>
+  </g>
+  <g id="_3029_balcony" data-name="3029_balcony">
+    <line id="3029_balcony" x1="77.83" y1="217" x2="77.83" y2="225.45" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3029_outline" data-name="3029_outline">
+    <rect id="3029_outline" x="58.53" y="217.05" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3030_fill" data-name="3030_fill">
+    <rect id="3030_fill" x="0.57" y="225.43" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3030_type" data-name="3030_type">
+    <text id="3030_type" transform="translate(7.24 232.04)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3030</text>
+  </g>
+  <g id="_3030_balcony" data-name="3030_balcony">
+    <line id="3030_balcony" x1="5.38" y1="225.2" x2="5.38" y2="233.65" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3030_outline" data-name="3030_outline">
+    <rect id="3030_outline" x="0.57" y="225.33" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3031_fill" data-name="3031_fill">
+    <rect id="3031_fill" x="58.43" y="225.65" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3031_type" data-name="3031_type">
+    <text id="3031_type" transform="translate(60.58 231.98)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3031</text>
+  </g>
+  <g id="_3031_balcony" data-name="3031_balcony">
+    <line id="3031_balcony" x1="77.83" y1="225.68" x2="77.83" y2="234.14" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3031_outline" data-name="3031_outline">
+    <rect id="3031_outline" x="58.53" y="225.48" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3032_fill" data-name="3032_fill">
+    <rect id="3032_fill" x="0.57" y="233.63" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3032_type" data-name="3032_type">
+    <text id="3032_type" transform="translate(7.24 240.09)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3032</text>
+  </g>
+  <g id="_3032_balcony" data-name="3032_balcony">
+    <line id="3032_balcony" x1="5.38" y1="233.82" x2="5.38" y2="242.28" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3032_outline" data-name="3032_outline">
+    <rect id="3032_outline" x="0.57" y="233.61" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3033_fill" data-name="3033_fill">
+    <rect id="3033_fill" x="58.43" y="233.81" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3033_type" data-name="3033_type">
+    <text id="3033_type" transform="translate(60.58 240.03)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3033</text>
+  </g>
+  <g id="_3033_balcony" data-name="3033_balcony">
+    <line id="3033_balcony" x1="77.83" y1="234.13" x2="77.83" y2="242.58" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3033_outline" data-name="3033_outline">
+    <rect id="3033_outline" x="58.53" y="233.9" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3034_fill" data-name="3034_fill">
+    <rect id="3034_fill" x="0.57" y="242.19" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3034_type" data-name="3034_type">
+    <text id="3034_type" transform="translate(7.24 248.84)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3034</text>
+  </g>
+  <g id="_3034_balcony" data-name="3034_balcony">
+    <line id="3034_balcony" x1="5.38" y1="242.2" x2="5.38" y2="250.65" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3034_outline" data-name="3034_outline">
+    <rect id="3034_outline" x="0.57" y="242.23" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3035_fill" data-name="3035_fill">
+    <rect id="3035_fill" x="58.43" y="242.21" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3035_type" data-name="3035_type">
+    <text id="3035_type" transform="translate(60.58 248.78)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3035</text>
+  </g>
+  <g id="_3035_balcony" data-name="3035_balcony">
+    <line id="3035_balcony" x1="77.83" y1="242.44" x2="77.83" y2="250.9" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3035_outline" data-name="3035_outline">
+    <rect id="3035_outline" x="58.53" y="242.23" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3036_fill" data-name="3036_fill">
+    <rect id="3036_fill" x="0.57" y="250.85" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3036_type" data-name="3036_type">
+    <text id="3036_type" transform="translate(7.24 257.15)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3036</text>
+  </g>
+  <g id="_3036_balcony" data-name="3036_balcony">
+    <line id="3036_balcony" x1="5.38" y1="250.57" x2="5.38" y2="259.03" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3036_outline" data-name="3036_outline">
+    <rect id="3036_outline" x="0.57" y="250.76" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3037_fill" data-name="3037_fill">
+    <rect id="3037_fill" x="58.43" y="250.54" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3037_type" data-name="3037_type">
+    <text id="3037_type" transform="translate(60.58 257.09)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3037</text>
+  </g>
+  <g id="_3037_balcony" data-name="3037_balcony">
+    <line id="3037_balcony" x1="77.83" y1="250.82" x2="77.83" y2="259.27" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3037_outline" data-name="3037_outline">
+    <rect id="3037_outline" x="58.53" y="250.76" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3038_fill" data-name="3038_fill">
+    <rect id="3038_fill" x="0.57" y="259.1" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3038_type" data-name="3038_type">
+    <text id="3038_type" transform="translate(7.24 265.77)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3038</text>
+  </g>
+  <g id="_3038_balcony" data-name="3038_balcony">
+    <line id="3038_balcony" x1="5.38" y1="259.24" x2="5.38" y2="267.7" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3038_outline" data-name="3038_outline">
+    <rect id="3038_outline" x="0.57" y="259.06" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3039_fill" data-name="3039_fill">
+    <rect id="3039_fill" x="58.43" y="259.37" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3039_type" data-name="3039_type">
+    <text id="3039_type" transform="translate(60.58 265.71)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3039</text>
+  </g>
+  <g id="_3039_balcony" data-name="3039_balcony">
+    <line id="3039_balcony" x1="77.83" y1="259.34" x2="77.83" y2="267.8" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3039_outline" data-name="3039_outline">
+    <rect id="3039_outline" x="58.53" y="259.17" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3040_fill" data-name="3040_fill">
+    <rect id="3040_fill" x="0.57" y="267.35" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3040_type" data-name="3040_type">
+    <text id="3040_type" transform="translate(7.24 274.03)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3040</text>
+  </g>
+  <g id="_3040_balcony" data-name="3040_balcony">
+    <line id="3040_balcony" x1="5.38" y1="267.7" x2="5.38" y2="276.15" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3040_outline" data-name="3040_outline">
+    <rect id="3040_outline" x="0.57" y="267.64" width="24.57" height="8.16" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3041_fill" data-name="3041_fill">
+    <rect id="3041_fill" x="58.53" y="267.81" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3041_type" data-name="3041_type">
+    <text id="3041_type" transform="translate(60.58 273.97)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3041</text>
+  </g>
+  <g id="_3041_balcony" data-name="3041_balcony">
+    <line id="3041_balcony" x1="77.83" y1="268.01" x2="77.83" y2="276.47" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3041_outline" data-name="3041_outline">
+    <rect id="3041_outline" x="58.53" y="267.76" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3042_fill" data-name="3042_fill">
+    <rect id="3042_fill" x="0.57" y="275.74" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3042_type" data-name="3042_type">
+    <text id="3042_type" transform="translate(7.24 282.34)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3042</text>
+  </g>
+  <g id="_3042_balcony" data-name="3042_balcony">
+    <line id="3042_balcony" x1="5.38" y1="276.03" x2="5.38" y2="284.49" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3042_outline" data-name="3042_outline">
+    <rect id="3042_outline" x="0.57" y="276.23" width="24.57" height="8.16" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3043_fill" data-name="3043_fill">
+    <rect id="3043_fill" x="58.53" y="276.23" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3043_type" data-name="3043_type">
+    <text id="3043_type" transform="translate(60.58 282.28)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3043</text>
+  </g>
+  <g id="_3043_balcony" data-name="3043_balcony">
+    <line id="3043_balcony" x1="77.83" y1="276.07" x2="77.83" y2="284.53" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3043_outline" data-name="3043_outline">
+    <rect id="3043_outline" x="58.53" y="276.26" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3044_fill" data-name="3044_fill">
+    <rect id="3044_fill" x="0.57" y="284.41" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3044_type" data-name="3044_type">
+    <text id="3044_type" transform="translate(7.24 290.85)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3044</text>
+  </g>
+  <g id="_3044_balcony" data-name="3044_balcony">
+    <line id="3044_balcony" x1="5.38" y1="284.78" x2="5.38" y2="293.24" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3044_outline" data-name="3044_outline">
+    <rect id="3044_outline" x="0.57" y="284.73" width="24.57" height="8.16" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3045_fill" data-name="3045_fill">
+    <rect id="3045_fill" x="58.53" y="284.44" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3045_type" data-name="3045_type">
+    <text id="3045_type" transform="translate(60.58 290.79)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3045</text>
+  </g>
+  <g id="_3045_balcony" data-name="3045_balcony">
+    <line id="3045_balcony" x1="77.83" y1="284.51" x2="77.83" y2="292.97" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3045_outline" data-name="3045_outline">
+    <rect id="3045_outline" x="58.53" y="284.43" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3046_fill" data-name="3046_fill">
+    <rect id="3046_fill" x="0.57" y="292.57" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3046_type" data-name="3046_type">
+    <text id="3046_type" transform="translate(7.24 299.35)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3046</text>
+  </g>
+  <g id="_3046_balcony" data-name="3046_balcony">
+    <line id="3046_balcony" x1="5.38" y1="292.87" x2="5.38" y2="301.32" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3046_outline" data-name="3046_outline">
+    <rect id="3046_outline" x="0.57" y="293.06" width="24.57" height="8.16" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3047_fill" data-name="3047_fill">
+    <rect id="3047_fill" x="58.53" y="292.95" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3047_type" data-name="3047_type">
+    <text id="3047_type" transform="translate(60.58 299.44)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3047</text>
+  </g>
+  <g id="_3047_balcony" data-name="3047_balcony">
+    <line id="3047_balcony" x1="77.83" y1="292.94" x2="77.83" y2="301.39" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3047_outline" data-name="3047_outline">
+    <rect id="3047_outline" x="58.53" y="293.06" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3048_fill" data-name="3048_fill">
+    <rect id="3048_fill" x="0.57" y="301.36" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3048_type" data-name="3048_type">
+    <text id="3048_type" transform="translate(7.24 307.87)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3048</text>
+  </g>
+  <g id="_3048_balcony" data-name="3048_balcony">
+    <line id="3048_balcony" x1="5.38" y1="301.16" x2="5.38" y2="309.62" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3048_outline" data-name="3048_outline">
+    <rect id="3048_outline" x="0.57" y="301.51" width="24.57" height="8.16" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3049_fill" data-name="3049_fill">
+    <rect id="3049_fill" x="58.53" y="301.45" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3049_type" data-name="3049_type">
+    <text id="3049_type" transform="translate(60.58 307.81)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3049</text>
+  </g>
+  <g id="_3049_balcony" data-name="3049_balcony">
+    <line id="3049_balcony" x1="77.83" y1="301.51" x2="77.83" y2="309.96" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3049_outline" data-name="3049_outline">
+    <rect id="3049_outline" x="58.53" y="301.44" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3050_fill" data-name="3050_fill">
+    <rect id="3050_fill" x="0.57" y="309.81" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3050_type" data-name="3050_type">
+    <text id="3050_type" transform="translate(7.24 316.34)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3050</text>
+  </g>
+  <g id="_3050_balcony" data-name="3050_balcony">
+    <line id="3050_balcony" x1="5.38" y1="309.66" x2="5.38" y2="318.12" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3050_outline" data-name="3050_outline">
+    <rect id="3050_outline" x="0.57" y="309.97" width="24.57" height="8.16" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3051_fill" data-name="3051_fill">
+    <rect id="3051_fill" x="58.53" y="309.78" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3051_type" data-name="3051-type">
+    <text id="3051_type" transform="translate(60.58 316.28)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3051</text>
+  </g>
+  <g id="_3051_balcony" data-name="3051_balcony">
+    <line id="3051_balcony" x1="77.83" y1="309.94" x2="77.83" y2="318.4" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3051_outline" data-name="3051_outline">
+    <rect id="3051_outline" x="58.53" y="309.85" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3052_fill" data-name="3052_fill">
+    <rect id="3052_fill" x="0.57" y="318.2" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3052_type" data-name="3052_type">
+    <text id="3052_type" transform="translate(7.24 324.63)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3052</text>
+  </g>
+  <g id="_3052_balcony" data-name="3052_balcony">
+    <line id="3052_balcony" x1="5.38" y1="318.37" x2="5.38" y2="326.82" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3052_outline" data-name="3052_outline">
+    <rect id="3052_outline" x="0.57" y="318.3" width="24.57" height="8.16" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3053_fill" data-name="3053_fill">
+    <rect id="3053_fill" x="58.53" y="318.12" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3053_type" data-name="3053_type">
+    <text id="3053_type" transform="translate(60.58 324.57)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3053</text>
+  </g>
+  <g id="_3053_balcony" data-name="3035_balcony">
+    <line id="3053_balcony" x1="77.83" y1="318.19" x2="77.83" y2="326.65" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3053_outline" data-name="3053_outline">
+    <rect id="3053_outline" x="58.53" y="318.32" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3054_fill" data-name="3054_fill">
+    <rect id="3054_fill" x="0.57" y="326.47" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3054_type" data-name="3054_type">
+    <text id="3054_type" transform="translate(7.26 333.16)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3054</text>
+  </g>
+  <g id="_3054_balcony" data-name="3054_balcony">
+    <line id="3054_balcony" x1="5.38" y1="326.53" x2="5.38" y2="334.99" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3054_outline" data-name="3054_outline">
+    <rect id="3054_outline" x="0.57" y="326.8" width="24.57" height="8.16" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3055_fill" data-name="3055_fill">
+    <rect id="3055_fill" x="58.53" y="326.47" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3055_type" data-name="3055_type">
+    <text id="3055_type" transform="translate(60.58 333.08)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3055</text>
+  </g>
+  <g id="_3055_balcony" data-name="3055_balcony">
+    <line id="3055_balcony" x1="77.83" y1="326.57" x2="77.83" y2="335.02" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3055_outline" data-name="3055_outline">
+    <rect id="3055_outline" x="58.53" y="326.55" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3056_fill" data-name="3056_fill">
+    <rect id="3056_fill" x="0.57" y="335.05" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3056_type" data-name="3056_type">
+    <text id="3056_type" transform="translate(7.24 341.79)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3056</text>
+  </g>
+  <g id="_3056_balcony" data-name="3056_balcony">
+    <line id="3056_balcony" x1="5.38" y1="335.24" x2="5.38" y2="343.7" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3056_outline" data-name="3056_outline">
+    <rect id="3056_outline" x="0.57" y="335.05" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3057_fill" data-name="3057_fill">
+    <rect id="3057_fill" x="58.53" y="335.18" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3057_type" data-name="3057_type">
+    <text id="3057_type" transform="translate(60.58 341.73)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3057</text>
+  </g>
+  <g id="_3057_balcony" data-name="3057_balcony">
+    <line id="3057_balcony" x1="77.83" y1="334.88" x2="77.83" y2="343.34" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3057_outline" data-name="3057_outline">
+    <rect id="3057_outline" x="58.53" y="334.98" width="24.57" height="8.49" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3058_fill" data-name="3058_fill">
+    <rect id="3058_fill" x="0.57" y="488.18" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3058_type" data-name="3058_type">
+    <text id="3058_type" transform="translate(7.24 494.5)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3058</text>
+  </g>
+  <g id="_3058_balcony" data-name="3058_balcony">
+    <line id="3058_balcony" x1="5.38" y1="488.03" x2="5.38" y2="496.48" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3058_outline" data-name="3058_outline">
+    <rect id="3058_outline" x="0.52" y="488.16" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3059_fill" data-name="3059_fill">
+    <rect id="3059_fill" x="58.32" y="488.18" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3059_type" data-name="3059_type">
+    <text id="3059_type" transform="translate(60.58 494.44)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3059</text>
+  </g>
+  <g id="_3059_balcony" data-name="3059_balcony">
+    <line id="3059_balcony" x1="77.83" y1="488.01" x2="77.83" y2="496.47" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3059_outline" data-name="3059_outline">
+    <rect id="3059_outline" x="58.58" y="488.16" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3060_fill" data-name="3060_fill">
+    <rect id="3060_fill" x="0.57" y="496.49" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3060_type" data-name="3060_type">
+    <text id="3060_type" transform="translate(7.24 502.93)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3060</text>
+  </g>
+  <g id="_3060_balcony" data-name="3060_balcony">
+    <line id="3060_balcony" x1="5.38" y1="496.34" x2="5.38" y2="504.8" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3060_outline" data-name="3060_outline">
+    <rect id="3060_outline" x="0.51" y="496.31" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3061_fill" data-name="3061_fill">
+    <rect id="3061_fill" x="58.32" y="496.51" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3061_type" data-name="3061_type">
+    <text id="3061_type" transform="translate(60.58 503.16)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3061</text>
+  </g>
+  <g id="_3061_balcony" data-name="3061_balcony">
+    <line id="3061_balcony" x1="77.83" y1="496.39" x2="77.83" y2="504.84" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3061_outline" data-name="3061_outline">
+    <rect id="3061_outline" x="58.58" y="496.35" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3062_fill" data-name="3062_fill">
+    <rect id="3062_fill" x="0.57" y="505.01" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3062_type" data-name="3062_type">
+    <text id="3062_type" transform="translate(7.24 511.39)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3062</text>
+  </g>
+  <g id="_3062_balcony" data-name="3062_balcony">
+    <line id="3062_balcony" x1="5.38" y1="504.77" x2="5.38" y2="513.23" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3062_outline" data-name="3062_outline">
+    <rect id="3062_outline" x="0.51" y="504.73" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3063_fill" data-name="3063_fill">
+    <rect id="3063_fill" x="58.32" y="505.03" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3063_type" data-name="3036_type">
+    <text id="3063_type" transform="translate(60.58 511.32)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3063</text>
+  </g>
+  <g id="_3063_balcony" data-name="3063_balcony">
+    <line id="3063_balcony" x1="77.83" y1="504.64" x2="77.83" y2="513.09" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3063_outline" data-name="3063_outline">
+    <rect id="3063_outline" x="58.5" y="504.73" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3064_fill" data-name="3064_fill">
+    <rect id="3064_fill" x="0.57" y="513.18" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3064_type" data-name="3064_type">
+    <text id="3064_type" transform="translate(7.24 519.69)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3064</text>
+  </g>
+  <g id="_3064_balcony" data-name="3064_balcony">
+    <line id="3064_balcony" x1="5.38" y1="513.33" x2="5.38" y2="521.79" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3064_outline" data-name="3064_outline">
+    <rect id="3064_outline" x="0.51" y="513.15" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3065_fill" data-name="3065_fill">
+    <rect id="3065_fill" x="58.32" y="513.2" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3065_type" data-name="3065_type">
+    <text id="3065_type" transform="translate(60.58 519.63)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3065</text>
+  </g>
+  <g id="_3065_balcony" data-name="3065_balcony">
+    <line id="3065_balcony" x1="77.83" y1="513.2" x2="77.83" y2="521.66" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3065_outline" data-name="3065_outline">
+    <rect id="3065_outline" x="58.5" y="513.13" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3066_fill" data-name="3066_fill">
+    <rect id="3066_fill" x="0.57" y="521.68" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3066_type" data-name="3066_type">
+    <text id="3066_type" transform="translate(7.24 528.27)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3066</text>
+  </g>
+  <g id="_3066_balcony" data-name="3066_balcony">
+    <line id="3066_balcony" x1="5.38" y1="521.58" x2="5.38" y2="530.03" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3066_outline" data-name="3066_outline">
+    <rect id="3066_outline" x="0.51" y="521.65" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3067_fill" data-name="3067_fill">
+    <rect id="3067_fill" x="58.32" y="521.7" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3067_type" data-name="3067_type">
+    <text id="3067_type" transform="translate(60.58 528.21)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3067</text>
+  </g>
+  <g id="_3067_balcony" data-name="3067_balcony">
+    <line id="3067_balcony" x1="77.83" y1="521.7" x2="77.83" y2="530.16" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3067_outline" data-name="3067_outline">
+    <rect id="3067_outline" x="58.5" y="521.59" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3068_fill" data-name="3068_fill">
+    <rect id="3068_fill" x="0.57" y="530.1" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3068_type" data-name="3068_type">
+    <text id="3068_type" transform="translate(7.24 536.64)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3068</text>
+  </g>
+  <g id="_3068_balcony" data-name="3068_balcony">
+    <line id="3068_balcony" x1="5.38" y1="529.77" x2="5.38" y2="538.22" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3068_outline" data-name="3068_outline">
+    <rect id="3068_outline" x="0.51" y="529.99" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3069_fill" data-name="3069_fill">
+    <rect id="3069_fill" x="58.32" y="530.17" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3069_type" data-name="3069_type">
+    <text id="3069_type" transform="translate(60.58 536.58)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3069</text>
+  </g>
+  <g id="_3069_balcony" data-name="3069_balcony">
+    <line id="3069_balcony" x1="77.83" y1="530.08" x2="77.83" y2="538.53" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3069_outline" data-name="3069_outline">
+    <rect id="3069_outline" x="58.5" y="529.99" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3070_fill" data-name="3070_fill">
+    <rect id="3070_fill" x="0.57" y="538.41" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3070_type" data-name="3070_type">
+    <text id="3070_type" transform="translate(7.24 545.02)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3070</text>
+  </g>
+  <g id="_3070_balcony" data-name="3070_balcony">
+    <line id="3070_balcony" x1="5.38" y1="538.27" x2="5.38" y2="546.72" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3070_outline" data-name="3070_outline">
+    <rect id="3070_outline" x="0.51" y="538.19" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3071_fill" data-name="3071_fill">
+    <rect id="3071_fill" x="58.32" y="538.67" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3071_type" data-name="3071_type">
+    <text id="3071_type" transform="translate(60.58 544.96)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3071</text>
+  </g>
+  <g id="_3071_balcony" data-name="3071_balcony">
+    <line id="3071_balcony" x1="77.83" y1="538.73" x2="77.83" y2="547.18" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3071_outline" data-name="3071_outline">
+    <rect id="3071_outline" x="58.5" y="538.37" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3072_fill" data-name="3072_fill">
+    <rect id="3072_fill" x="0.57" y="546.73" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3072_type" data-name="3072_type">
+    <text id="3072_type" transform="translate(7.24 553.43)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3072</text>
+  </g>
+  <g id="_3072_balcony" data-name="3072_balcony">
+    <line id="3072_balcony" x1="5.38" y1="546.64" x2="5.38" y2="555.1" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3072_outline" data-name="3072_outline">
+    <rect id="3072_outline" x="0.51" y="546.77" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3073_fill" data-name="3073_fill">
+    <rect id="3073_fill" x="58.32" y="546.67" width="24.57" height="8.49" style="fill: #c8dcec"/>
+  </g>
+  <g id="_3073_type" data-name="3073_type">
+    <text id="3073_type" transform="translate(60.58 553.37)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3073</text>
+  </g>
+  <g id="_3073_balcony" data-name="3073_balcony">
+    <line id="3073_balcony" x1="77.83" y1="546.85" x2="77.83" y2="555.31" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3073_outline" data-name="3073_outline">
+    <rect id="3073_outline" x="58.5" y="546.88" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3074_fill" data-name="3074_fill">
+    <rect id="3074_fill" x="0.57" y="555.35" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3074_type" data-name="3074_type">
+    <text id="3074_type" transform="translate(7.24 561.66)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3074</text>
+  </g>
+  <g id="_3074_balcony" data-name="3074_balcony">
+    <line id="3074_balcony" x1="5.38" y1="555.27" x2="5.38" y2="563.72" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3074_outline" data-name="3074_outline">
+    <rect id="3074_outline" x="0.51" y="555.19" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3075_fill" data-name="3075_fill">
+    <rect id="3075_fill" x="58.32" y="555.52" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3075_type" data-name="3075_type">
+    <text id="3075_type" transform="translate(60.58 561.6)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3075</text>
+  </g>
+  <g id="_3075_balcony" data-name="3075_balcony">
+    <line id="3075_balcony" x1="77.83" y1="555.46" x2="77.83" y2="563.92" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3075_outline" data-name="3075_outline">
+    <rect id="3075_outline" x="58.5" y="555.37" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3076_fill" data-name="3076_fill">
+    <rect id="3076_fill" x="0.57" y="563.69" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3076_type" data-name="3076_type">
+    <text id="3076_type" transform="translate(7.24 570.22)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3076</text>
+  </g>
+  <g id="_3076_balcony" data-name="3076_balcony">
+    <line id="3076_balcony" x1="5.38" y1="563.7" x2="5.38" y2="572.16" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3076_outline" data-name="3076_outline">
+    <rect id="3076_outline" x="0.51" y="563.6" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3077_fill" data-name="3077_fill">
+    <rect id="3077_fill" x="58.32" y="564.02" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3077_type" data-name="3077_type">
+    <text id="3077_type" transform="translate(60.58 570.15)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3077</text>
+  </g>
+  <g id="_3077_balcony" data-name="3077_balcony">
+    <line id="3077_balcony" x1="77.83" y1="563.77" x2="77.83" y2="572.23" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3077_outline" data-name="3077_outline">
+    <rect id="3077_outline" x="58.5" y="563.91" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3078_fill" data-name="3078_fill">
+    <rect id="3078_fill" x="0.57" y="571.92" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3078_type" data-name="3078_type">
+    <text id="3078_type" transform="translate(7.24 578.82)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3078</text>
+  </g>
+  <g id="_3078_balcony" data-name="3078_balcony">
+    <line id="3078_balcony" x1="5.38" y1="572.33" x2="5.38" y2="580.78" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3078_outline" data-name="3078_outline">
+    <rect id="3078_outline" x="0.51" y="572.1" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3079_fill" data-name="3079_fill">
+    <rect id="3079_fill" x="58.32" y="572.27" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3079_type" data-name="3079_type">
+    <text id="3079_type" transform="translate(60.58 578.76)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3079</text>
+  </g>
+  <g id="_3079_balcony" data-name="3079_balcony">
+    <line id="3079_balcony" x1="77.83" y1="572.46" x2="77.83" y2="580.92" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3079_outline" data-name="3079_outline">
+    <rect id="3079_outline" x="58.5" y="572.24" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3080_fill" data-name="3080_fill">
+    <rect id="3080_fill" x="0.57" y="580.83" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3080_type" data-name="3080_type">
+    <text id="3080_type" transform="translate(7.24 587.28)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3080</text>
+  </g>
+  <g id="_3080_balcony" data-name="3080_balcony">
+    <line id="3080_balcony" x1="5.38" y1="580.83" x2="5.38" y2="589.28" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3080_outline" data-name="3080_outline">
+    <rect id="3080_outline" x="0.51" y="580.69" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3081_fill" data-name="3081_fill">
+    <rect id="3081_fill" x="58.32" y="580.69" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3081_type" data-name="3081_type">
+    <text id="3081_type" transform="translate(60.58 587.21)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3081</text>
+  </g>
+  <g id="_3081_balcony" data-name="3081_balcony">
+    <line id="3081_balcony" x1="77.83" y1="580.68" x2="77.83" y2="589.14" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3081_outline" data-name="3081_outline">
+    <rect id="3081_outline" x="58.5" y="580.69" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3082_fill" data-name="3082_fill">
+    <rect id="3082_fill" x="0.57" y="589.33" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3082_type" data-name="3082_type">
+    <text id="3082_type" transform="translate(7.24 595.5)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3082</text>
+  </g>
+  <g id="_3082_balcony" data-name="3082_balcony">
+    <line id="3082_balcony" x1="5.38" y1="589.02" x2="5.38" y2="597.47" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3082_outline" data-name="3082_outline">
+    <rect id="3082_outline" x="0.51" y="589.03" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3083_fill" data-name="3083_fill">
+    <rect id="3083_fill" x="58.32" y="589.12" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3083_type" data-name="3083_type">
+    <text id="3083_type" transform="translate(60.58 595.44)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3083</text>
+  </g>
+  <g id="_3083_balcony" data-name="3083_balcony">
+    <line id="3083_balcony" x1="77.83" y1="589.12" x2="77.83" y2="597.58" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3083_outline" data-name="3083_outline">
+    <rect id="3083_outline" x="58.5" y="589.04" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3084_fill" data-name="3084_fill">
+    <rect id="3084_fill" x="0.57" y="597.73" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3084_type" data-name="3084_type">
+    <text id="3084_type" transform="translate(7.24 603.8)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3084</text>
+  </g>
+  <g id="_3084_balcony" data-name="3084_balcony">
+    <line id="3084_balcony" x1="5.38" y1="597.58" x2="5.38" y2="606.03" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3084_outline" data-name="3084_outline">
+    <rect id="3084_outline" x="0.51" y="597.44" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3085_fill" data-name="3085_fill">
+    <rect id="3085_fill" x="58.32" y="597.53" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3085_type" data-name="3085_type">
+    <text id="3085_type" transform="translate(60.58 603.94)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3085</text>
+  </g>
+  <g id="_3085_balcony" data-name="3085_balcony">
+    <line id="3085_balcony" x1="77.83" y1="597.43" x2="77.83" y2="605.89" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3085_outline" data-name="3085_outline">
+    <rect id="3085_outline" x="58.5" y="597.44" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3086_fill" data-name="3086_fill">
+    <rect id="3086_fill" x="0.57" y="606.07" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3086_type" data-name="3086_type">
+    <text id="3086_type" transform="translate(7.24 612.36)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3086</text>
+  </g>
+  <g id="_3086_balcony" data-name="3086_balcony">
+    <line id="3086_balcony" x1="5.38" y1="606.14" x2="5.38" y2="614.6" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3086_outline" data-name="3086_outline">
+    <rect id="3086_outline" x="0.51" y="605.85" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3087_fill" data-name="3087_fill">
+    <rect id="3087_fill" x="58.57" y="605.7" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3087_type" data-name="3087_type">
+    <text id="3087_type" transform="translate(60.58 612.3)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3087</text>
+  </g>
+  <g id="_3087_balcony" data-name="3087_balcony">
+    <line id="3087_balcony" x1="77.83" y1="606.12" x2="77.83" y2="614.58" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3087_outline" data-name="3087_outline">
+    <rect id="3087_outline" x="58.5" y="605.82" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3088_fill" data-name="3088_fill">
+    <rect id="3088_fill" x="0.57" y="614.32" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3088_type" data-name="3088_type">
+    <text id="3088_type" transform="translate(7.24 621)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3088</text>
+  </g>
+  <g id="_3088_balcony" data-name="3088_balcony">
+    <line id="3088_balcony" x1="5.38" y1="614.45" x2="5.38" y2="622.91" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3088_outline" data-name="3088_outline">
+    <rect id="3088_outline" x="0.51" y="614.33" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3089_fill" data-name="3089_fill">
+    <rect id="3089_fill" x="58.57" y="614.53" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3089_type" data-name="3089_type">
+    <text id="3089_type" transform="translate(60.58 620.93)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3089</text>
+  </g>
+  <g id="_3089_balcony" data-name="3089_balcony">
+    <line id="3089_balcony" x1="77.85" y1="614.55" x2="77.85" y2="623.01" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3089_outline" data-name="3089_outline">
+    <rect id="3089_outline" x="58.5" y="614.33" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3090_fill" data-name="3090_fill">
+    <rect id="3090_fill" x="0.57" y="622.9" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3090_type" data-name="3090_type">
+    <text id="3090_type" transform="translate(7.24 629.2)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3090</text>
+  </g>
+  <g id="_3090_balcony" data-name="3090_balcony">
+    <line id="3090_balcony" x1="5.38" y1="623.02" x2="5.38" y2="631.47" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3090_outline" data-name="3090_outline">
+    <rect id="3090_outline" x="0.51" y="622.92" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3091_fill" data-name="3091_fill">
+    <rect id="3091_fill" x="58.57" y="622.78" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3091_type" data-name="3091_type">
+    <text id="3091_type" transform="translate(60.58 629.14)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3091</text>
+  </g>
+  <g id="_3091_balcony" data-name="3091_balcony">
+    <line id="3091_balcony" x1="77.85" y1="622.81" x2="77.85" y2="631.26" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3091_outline" data-name="3091_outline">
+    <rect id="3091_outline" x="58.5" y="622.77" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3092_fill" data-name="3092_fill">
+    <rect id="3092_fill" dx="0.57" y="631.05" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3092_type" data-name="3092_type">
+    <text id="3092_type" transform="translate(7.24 637.67)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3092</text>
+  </g>
+  <g id="_3092_balcony" data-name="3092_balcony">
+    <line id="3092_balcony" x1="5.38" y1="631.27" x2="5.38" y2="639.72" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3092_outline" data-name="3092_outline">
+    <rect id="3092_outline" x="0.51" y="631.27" width="24.57" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3093_fill" data-name="3093_fill">
+    <rect id="3093_fill" x="58.7" y="631.29" width="24.57" height="8.49" style="fill: #a5cac3"/>
+  </g>
+  <g id="_3093_type" data-name="3093_type">
+    <text id="3093_type" transform="translate(60.58 637.71)" style="font-size: 7px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023995535714285716em">3093</text>
+  </g>
+  <g id="_3093_balcony" data-name="3093_balcony">
+    <line id="3093_balcony" x1="77.85" y1="631.35" x2="77.85" y2="639.81" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3093_outline" data-name="3093_outline">
+    <rect id="3093_outline" x="58.5" y="631.27" width="24.31" height="8.53" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3094_fill" data-name="3094_fill">
+    <path id="3094_fill" d="M409.66,737.38v19.29c-23.64,0-33.28-6.42-33-19.18Z" transform="translate(-376.18 -97.7)" style="fill: #f0cdd6"/>
+  </g>
+  <g id="_3094_type" data-name="3094_type">
+    <text id="3094_type" transform="translate(21.42 654.65) rotate(-90)" style="font-size: 5.75px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.63" y="6.5">3094</tspan></text>
+  </g>
+  <g id="_3094_balcony" data-name="3094_balcony">
+    <path id="3094_balcony" d="M381.56,737.51c.74,5.76,3.09,10.43,7.36,13.38,4,2.74,12.13,2.91,20.46,3.43" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #989897;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3094_outline" data-name="3094_outline">
+    <path id="3094_outline" d="M409.66,737.38v19.29c-23.64,0-33.28-6.42-33-19.18Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3095_fill" data-name="3095_fill">
+    <path id="3095_fill" d="M426.68,756.42v-19l32.41,0C459.1,750.31,452.81,755.63,426.68,756.42Z" transform="translate(-376.18 -97.7)" style="fill: #f0cdd6"/>
+  </g>
+  <g id="_3095_type" data-name="3095_type">
+    <text id="3095_type" transform="translate(59.42 654.65) rotate(-90)" style="font-size: 5.75px;fill: #989897;font-family: Arial-BoldMT, Arial;font-weight: 700">Suite<tspan x="0.63" y="6.5">3095</tspan></text>
+  </g>
+  <g id="_3095_balcony" data-name="3095_balcony">
+    <path id="3095_balcony" d="M454,737.51c0,3.74-.47,6.24-3.13,9.64-3.82,4.88-14.72,6.54-24.1,7" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3095_outline" data-name="3095_outline">
+    <path id="3095_outline" d="M426.68,756.52V737.38l32.41,0C459.1,750.31,452.81,755.72,426.68,756.52Z" transform="translate(-376.18 -97.7)" style="fill: none;stroke: #989798"/>
+  </g>
+  <g id="_3096_fill" data-name="3096_fill">
+    <rect id="3096_fill" x="33.48" y="639.65" width="8.53" height="19.33" style="fill: #008ac5"/>
+  </g>
+  <g id="_3096_type" data-name="3096_type">
+    <text id="3096_type" transform="translate(39.82 655.66) rotate(-90)" style="font-size: 6.5px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023963341346153848em">3096</text>
+  </g>
+  <g id="_3096_balcony" data-name="3096_balcony">
+    <line id="3096_balcony" x1="33.48" y1="656.62" x2="41.47" y2="656.82" style="fill: none;stroke: #989897;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3096_outline" data-name="3096_outline">
+    <rect id="3096_outline" x="33.48" y="639.65" width="8.53" height="19.33" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+  <g id="_3097_fill" data-name="3097_fill">
+    <rect id="3097_fill" x="41.81" y="639.65" width="8.53" height="19.33" style="fill: #008ac5"/>
+  </g>
+  <g id="_3097_type" data-name="3097_type">
+    <text id="3097_type" transform="translate(48.53 655.66) rotate(-90)" style="font-size: 6.5px;fill: #fff;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.023963341346153848em">3097</text>
+  </g>
+  <g id="_3097_balcony" data-name="3097_balcony">
+    <line id="3097_balcony" x1="41.47" y1="656.82" x2="50.07" y2="656.48" style="fill: none;stroke: #989897;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  </g>
+  <g id="_3097_outline" data-name="3097_outline">
+    <polygon id="3097_outline" points="41.55 658.98 50.07 658.79 50.07 639.65 41.55 639.65 41.55 658.98" style="fill: none;stroke: #989897;stroke-miterlimit: 10"/>
+  </g>
+</svg>
